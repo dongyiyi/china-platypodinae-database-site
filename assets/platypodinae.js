@@ -1,0 +1,1 @@
+const meta=await fetch('data/site-meta.json').then(r=>{if(!r.ok)throw Error('metadata unavailable');return r.json()});document.querySelector('#count').textContent=meta.provisional_species_count;
