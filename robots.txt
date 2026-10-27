@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dongyiyi.github.io/china-platypodinae-database-site/sitemap.xml
