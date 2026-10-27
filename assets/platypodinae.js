@@ -20,6 +20,7 @@ async function showData(){
  const m=await metaPromise;
  app.innerHTML='<section class="taxonomy-banner"><div class="eyebrow">Data &amp; coverage</div><h1>Database coverage</h1><p class="subtitle">Provisional working checklist of Chinese Platypodinae. Counts represent taxonomic concepts under review, not published or validated taxon profiles.</p></section><section class="grid"><article class="card third"><div class="eyebrow">Current profiles</div><h2>'+esc(m.provisional_species_count)+'</h2><p>Provisional working species concepts; '+esc(m.published_profile_count)+' approved individual profiles published.</p></article><article class="card third"><div class="eyebrow">Genera represented</div><h2>'+esc(m.provisional_genera_count)+'</h2><p>Provisional genera represented in the working checklist.</p></article><article class="card third"><div class="eyebrow">Tribes represented</div><h2>'+esc(m.provisional_tribes_count)+'</h2><p>Provisional tribes represented in the working checklist.</p></article></section>';
 }
+function showBrowse(){app.innerHTML='<section class="taxonomy-banner"><div class="eyebrow">Browse taxa</div><h1>Platypodinae taxon browsing</h1><p class="subtitle">The working checklist currently includes 74 provisional species concepts in 9 genera and 3 tribes. Taxonomic reconciliation and evidence review are in progress.</p></section><section class="grid"><article class="card full"><h2>Profiles under review</h2><p>Individual PLT taxon profiles and public browsable species lists are not yet released. Verified records will become available here after publication approval.</p></article></section>';}
 async function showAbout(){
  const a=await aboutPromise;
  const sections=(a.sections||[]).map(s=>'<article class="card full"><h2>'+esc(s.heading)+'</h2>'+(s.paragraphs||[]).map(p=>'<p>'+esc(p)+'</p>').join('')+'</article>').join('');
@@ -28,7 +29,7 @@ async function showAbout(){
 }
 async function route(){
  const path=(location.hash.slice(1)||'/').split('?')[0];
- const r=({'/':showHome,'/data':showData,'/methods':()=>renderMethods(app),'/contribute':()=>renderContribute(app),'/cite':()=>renderCite(app),'/about':showAbout})[path];
+ const r=({'/':showHome,'/browse':showBrowse,'/data':showData,'/methods':()=>renderMethods(app),'/contribute':()=>renderContribute(app),'/cite':()=>renderCite(app),'/about':showAbout})[path];
  if(!r){app.innerHTML='<section class="taxonomy-banner"><h1>Page unavailable</h1><p>There is no published Platypodinae profile at this route.</p></section>';return}
  try{await r()}catch(e){console.error(e);app.innerHTML='<p class="notice">This section could not be loaded. Try refreshing this page.</p>'}
 }
