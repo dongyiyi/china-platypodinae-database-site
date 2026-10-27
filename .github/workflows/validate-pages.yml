@@ -29,10 +29,10 @@ jobs:
           meta=json.loads(Path('data/site-meta.json').read_text())
           assert [meta['provisional_species_count'],meta['provisional_genera_count'],meta['provisional_tribes_count']]==[74,9,3]
           assert meta['published_profile_count']==0 and meta['profile_data_release_approved'] is False
-          assert all('#/'+r in html for r in ['data','methods','contribute','cite','about'])
+          assert all('#/'+r in html for r in ['browse','data','methods','contribute','cite','about'])
           assert all("'/"+r+"'" in js for r in ['data','methods','contribute','cite','about'])
           assert 'All subfamilies' in html and 'Explore Scolytinae' in html
-          assert 'assets/platypodinae.js?v=20261027-1' in html
+          assert 'assets/platypodinae.js?v=20261027-2' in html
           assert 'href="assets/site.css?v=20261027-1"' in html
           assert not list(Path('.').glob('taxa/PLT_*/index.html'))
           files=['assets/contribute-page.js','assets/cite-page.js','assets/methods-page.js']
