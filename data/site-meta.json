@@ -7,5 +7,8 @@
   "id_namespace": "PLT",
   "future_index_path": "data/taxa.json",
   "future_taxon_path_pattern": "taxa/PLT_000001/",
-  "profile_data_release_approved": false
+  "profile_data_release_approved": false,
+  "provisional_genera_count": 9,
+  "provisional_tribes_count": 3,
+  "counts_status": "provisional; working checklist estimates, not validated public profiles"
 }

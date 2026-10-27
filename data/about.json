@@ -1,0 +1,45 @@
+{
+  "title": "About this database",
+  "subtitle": "An independently curated scholarly resource for tracing the taxonomy, nomenclature, distribution, hosts, and published evidence associated with Platypodinae recorded from China.",
+  "sections": [
+    {
+      "heading": "What this database is",
+      "paragraphs": [
+        "This database is an independently curated scholarly resource maintained as an ongoing research project. At present, it is primarily maintained by a single researcher rather than by a formal institution or consortium, and it should not be interpreted as an official national checklist or regulatory database.",
+        "All records are compiled from traceable published sources, including journal articles, taxonomic revisions, monographs, books, and other citable literature. The aim is to make these scattered records searchable and to connect accepted taxa with historical name usages, distribution records, host associations, references, and source provenance."
+      ]
+    },
+    {
+      "heading": "Why I built it",
+      "paragraphs": [
+        "The taxonomic and distributional literature on Chinese Platypodinae is scattered across historical species descriptions, regional studies, catalogues, and later taxonomic treatments. Names and combinations have changed over time, and older literature often uses Platypodidae for this group. Bringing these source records together can help clarify which taxa have actually been reported from China and how each claim is supported.",
+        "The working database reconciles historical name usages, original combinations, synonymy claims, locality records, and host evidence against available taxonomic treatments and original publications. References such as Beeson (1937) and Browne (1961) provide historical context, but taxon-level acceptance remains subject to primary-source review. The provisional checklist is not yet a fully validated public catalogue.",
+        "A practical reason is equally important. In my own research and learning, I often need to trace the taxonomic and nomenclatural history of a species, determine which names have been used for it, and locate the evidence behind distribution or host records. I found that this information was usually scattered across many publications and was time-consuming to reconstruct. I therefore began collecting these records for my own use. Over time, that personal working collection developed into this database."
+      ]
+    },
+    {
+      "heading": "Current scope and limitations",
+      "paragraphs": [
+        "This is an active and evolving Platypodinae database, not a finished catalogue. The current totals are provisional working estimates, and individual PLT taxon profiles have not yet been released. Some historical names, distributions, and host associations require further review; critical records should be checked against the cited original publications when they become available.",
+        "If you notice missing literature, an incorrect record, a questionable taxonomic interpretation, or any other problem, feedback and corrections are very welcome. Community feedback is especially valuable for improving coverage and identifying records that need re-review."
+      ]
+    },
+    {
+      "heading": "Why an updated synthesis matters",
+      "paragraphs": [
+        "A current, traceable overview of the fauna helps clarify not only which species are known from China, but also how confidently each record is supported and how names, distributions, and host associations have changed through time.",
+        "Such a resource can support species identification, taxonomic and nomenclatural research, biodiversity inventories, host and distribution synthesis, forest health and biosecurity work, and future ecological or evolutionary studies. Just as importantly, it makes gaps and uncertainties visible, helping direct attention to taxa and regions where additional evidence is still needed."
+      ]
+    }
+  ],
+  "foundational_sources": [
+    {
+      "label": "Beeson 1937",
+      "citation": "Beeson, C. F. C. (1937). The Ecology and Control of the Forest Insects of India and the Neighbouring Countries. A historical reference used for Platypodinae source reconciliation."
+    },
+    {
+      "label": "Browne 1961",
+      "citation": "Browne, F. G. (1961). The Biology of Malayan Scolytidae and Platypodidae. A historical regional treatment relevant to Platypodinae."
+    }
+  ]
+}
