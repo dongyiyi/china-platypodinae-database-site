@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "subfamily": "Platypodinae",
+  "provisional_species_count": 74,
+  "publication_state": "provisional",
+  "published_profile_count": 0,
+  "id_namespace": "PLT",
+  "future_index_path": "data/taxa.json",
+  "future_taxon_path_pattern": "taxa/PLT_000001/",
+  "profile_data_release_approved": false
+}
