@@ -1,0 +1,49 @@
+name: Validate Platypodinae five-page release
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check frontend module syntax
+        run: |
+          for f in assets/platypodinae.js assets/contribute-page.js assets/cite-page.js assets/methods-page.js; do
+            node --input-type=module --check < "$f"
+          done
+      - name: Validate provisional scope, nav, data and placeholders
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, re
+          html=Path('index.html').read_text()
+          js=Path('assets/platypodinae.js').read_text()
+          about=json.loads(Path('data/about.json').read_text())
+          meta=json.loads(Path('data/site-meta.json').read_text())
+          assert [meta['provisional_species_count'],meta['provisional_genera_count'],meta['provisional_tribes_count']]==[74,9,3]
+          assert meta['published_profile_count']==0 and meta['profile_data_release_approved'] is False
+          assert all('#/'+r in html for r in ['data','methods','contribute','cite','about'])
+          assert all("'/"+r+"'" in js for r in ['data','methods','contribute','cite','about'])
+          assert 'All subfamilies' in html and 'Explore Scolytinae' in html
+          assert 'assets/platypodinae.js?v=20261027-1' in html
+          assert 'href="assets/site.css?v=20261027-1"' in html
+          assert not list(Path('.').glob('taxa/PLT_*/index.html'))
+          files=['assets/contribute-page.js','assets/cite-page.js','assets/methods-page.js']
+          for p in files:
+            data=Path(p).read_text()
+            assert 'VSN' not in data
+            assert 'Chinese Scolytinae' not in data
+          assert 'mailto:' in Path('assets/contribute-page.js').read_text()
+          assert not 'app.notion.com/p/0ca21aa2d32840b29a2cb93cffa03870' in Path('assets/contribute-page.js').read_text()
+          assert len(about['sections'])>=4
+          assert 'VSN' not in json.dumps(about)
+          assert 'Existing PLT' in Path('assets/templates/china_platypodinae_public_submission_template.csv').read_text()
+          print('PASS: five page nav, provisional counts, scoped identifiers and withheld PLT profiles')
+          PY
