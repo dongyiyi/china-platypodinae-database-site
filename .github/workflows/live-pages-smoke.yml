@@ -1,0 +1,53 @@
+name: Live Platypodinae page navigation smoke test
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/live-pages-smoke.yml'
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Playwright Chromium
+        run: |
+          python -m pip install playwright==1.56.0
+          python -m playwright install --with-deps chromium
+      - name: Check live hash routes and provisional data
+        run: |
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          root='https://dongyiyi.github.io/china-platypodinae-database-site/'
+          tests={
+            '/data':['Database coverage','74','9','3'],
+            '/methods':['How the checklist is assembled','Platypodinae','PLT'],
+            '/contribute':['Contribute Data','Existing PLT','Email a record'],
+            '/cite':['Cite this resource','China Platypodinae Database','PLT'],
+            '/about':['About this database','Why I built it','Platypodinae']
+          }
+          with sync_playwright() as p:
+            browser=p.chromium.launch(headless=True)
+            page=browser.new_page(viewport={'width':1360,'height':900})
+            errors=[]
+            for path,expect in tests.items():
+              response=page.goto(root+'#'+path,wait_until='domcontentloaded',timeout=45000)
+              try:
+                page.locator('.taxonomy-banner h1').wait_for(timeout=25000)
+                body=page.locator('#app').inner_text()
+                for t in expect:
+                  if t not in body: errors.append(path+' missing '+t)
+                if 'This section could not be loaded' in body: errors.append(path+' rendering error')
+              except Exception as e: errors.append(path+' failed to render: '+str(e)[:200])
+            page.goto(root,wait_until='domcontentloaded')
+            page.locator('#count').wait_for(timeout=25000)
+            page.wait_for_function("document.querySelector('#count').textContent==='74' && document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=25000)
+            if page.locator('a[href*="china-scolytinae-database-site"]').count()==0:errors.append('missing Scolytinae link')
+            print('LIVE ROUTES',len(tests),'ERRORS',len(errors))
+            for err in errors: print('FAIL',err)
+            browser.close()
+            if errors:raise SystemExit(1)
+            print('PASS: Platypodinae 5 live routes and provisional 74/9/3 count')
+          PY
