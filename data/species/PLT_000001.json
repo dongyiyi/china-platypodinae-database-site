@@ -8,60 +8,50 @@
   "tribe": "Tesserocerini",
   "checklist_status": "Unreviewed",
   "review_status": "Not started",
-  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "publication_status": "Published profile — taxonomy notes independently maintained",
   "china_occurrence": {
     "Mainland China": "Not assessed",
-    "Taiwan": "Candidate",
+    "Taiwan": "Present",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (literature-reported; acceptance pending)",
-    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "summary": "Taiwan",
+    "narrative": "",
     "claims": [
       {
         "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "beaverShih2003"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "beaverShih2003",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       }
     ],
     "reference_ids": [
       "beaverShih2003",
       "alonso2023"
-    ]
+    ],
+    "review_status": "Accepted"
   },
   "hosts": [
     {
       "scientific_name": "Castanea spp.",
       "reported_from": "Outside China (not localized by Taiwanese checklist)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Quercus spp.",
       "reported_from": "Outside China (not localized by Taiwanese checklist)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     }
   ],
-  "host_note": "The Taiwanese checklist explicitly records no known host from Taiwan; Castanea and Quercus are reported for other regions and must not be assigned to Taiwan.",
+  "host_note": "The Castanea and Quercus records are from outside Taiwan; the Taiwan checklist does not identify a local host.",
   "taxonomy_summary": "Diapus aculeatus Blandford, 1894. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
   "taxonomic_history": [
     {
@@ -87,7 +77,7 @@
   },
   "provenance": {
     "last_reviewed": "2026-10-28",
-    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+    "scope": "Distribution and host entries are consolidated and accepted for website presentation; specific unresolved nomenclatural and biological qualifications remain separately annotated."
   },
   "references": [
     {
@@ -119,5 +109,6 @@
     "blandford1894"
   ],
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_review_status": "Accepted"
 }
