@@ -166,13 +166,13 @@
       "event": "Earlier homonymous subspecific name",
       "name": "Platypus lepidus formosanus",
       "authorship": "Niijima & Murayama, 1925",
-      "note": "Original Murayama (1925:214–215) describes the two homonymous species-group names in the same genus.",
+      "note": "Original Murayama (1925a:214–215) describes the two homonymous species-group names in the same genus.",
       "reference_ids": [
         "murayama1925on"
       ]
     }
   ],
-  "nomenclature_note": "Replacement flectus Murayama 1931:197 verified; 1925 formosanus homonymy, unnecessary Schedl 1941 murayamaensis, Beaver & Shih 2003 combination and Beaver 2013 triplurus synonymy verified; uncertain Psidium guaiacum excluded.",
+  "nomenclature_note": "Murayama (1925a:214–215) published the relevant formosanus names; Murayama (1931:197) introduced flectus. Schedl (1941:43) later introduced the unnecessary murayamaensis replacement; Beaver & Shih (2003:79–80) used Dinoplatypus flectus, and Beaver (2013:23) treated Platypus triplurus as a synonym. The original plant name Psidium guaiacum remains doubtful.",
   "nomenclature_note_reference_ids": [
     "beaver2013",
     "beaverShih2003",

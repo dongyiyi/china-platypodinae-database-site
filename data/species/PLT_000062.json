@@ -123,5 +123,12 @@
   "host_review_status": "Accepted",
   "provenance": {
     "last_reviewed": "2026-10-28"
-  }
+  },
+  "host_note_reference_ids": [
+    "lai2020"
+  ],
+  "nomenclature_note_reference_ids": [
+    "browne1972",
+    "lai2020"
+  ]
 }

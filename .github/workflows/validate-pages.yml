@@ -63,7 +63,7 @@ jobs:
           assert 'href="assets/site.css?v=20261027-1"' in html
           assert set(p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html'))==set(r['plt'] for r in index)
           page=Path('taxa/PLT_000062/index.html').read_text()
-          assert 'assets/platypodinae-profile.js?v=20261028-1' in page
+          assert 'assets/platypodinae-profile.js?v=20261028-2' in page
           jsprofile=Path('assets/platypodinae-profile.js').read_text()
           assert 'sortTaxonomicHistory' in jsprofile and 'data-ref-jump' in jsprofile and 'host-ref-placeholder' in jsprofile and 'claim-ref-placeholder' in jsprofile
           assert 'grid profile-content' in jsprofile and 'resource-tab' in jsprofile
