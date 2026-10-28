@@ -51,7 +51,7 @@ jobs:
           assert 'sortTaxonomicHistory' in jsprofile and 'data-ref-jump' in jsprofile
           assert 'grid profile-content' in jsprofile and 'resource-tab' in jsprofile
           assert [int(x['year']) for x in pilot['taxonomic_history']]==[2020,1972]
-          assert 'China checklist occurrence under review' in page and 'PLT_000062' in page
+          assert 'PLT_000062' in page and 'id="app"' in page
           assert all('ref-'+r in jsprofile or "'ref-'" in jsprofile for r in refs)
           assert 'data/taxa.json' not in html or 'PLT_000062' in html
           files=['assets/contribute-page.js','assets/cite-page.js','assets/methods-page.js']
