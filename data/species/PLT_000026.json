@@ -1,0 +1,81 @@
+{
+  "plt": "PLT_000026",
+  "scientific_name": "Platypus koryoensis",
+  "authorship": "(Murayama, 1930)",
+  "chinese_name": "东亚长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Published candidate occurrence records remain separate from the current accepted distribution union.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "",
+  "taxonomy_summary": "Platypus koryoensis (Murayama, 1930). Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1972",
+      "event": "Subsequent combination (not proven first transfer)",
+      "name": "Platypus koryoensis",
+      "authorship": "(Murayama, 1930)",
+      "note": "Published generic usage verified in the monograph p.219.",
+      "reference_ids": [
+        "pltSrc000031"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Original description (primary source examined)",
+      "name": "Crossotarsus koryoensis",
+      "authorship": "Murayama, 1930",
+      "note": "Original account pp. 28–30; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000030"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original combination Crossotarsus koryoensis (Murayama, 1930:28–30) and subsequent Platypus usage (Schedl, 1972:219) are verified; the earliest transfer has not been established. Korean old galleries without beetle specimens do not establish a verified host.",
+  "references": [
+    {
+      "id": "pltSrc000031",
+      "label": "Schedl (1972)",
+      "citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp."
+    },
+    {
+      "id": "pltSrc000030",
+      "label": "Murayama (1930)",
+      "citation": "Murayama, J. (1930). Révisions des familles des Ipides et des Platypides de Corée. Journal of the Chosen Natural History Society 11: 1–34."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000031",
+    "pltSrc000030"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000031",
+    "pltSrc000030"
+  ],
+  "host_note_reference_ids": []
+}
