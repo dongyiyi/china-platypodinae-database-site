@@ -1,0 +1,24 @@
+{
+  "browne1972": {
+    "id": "browne1972",
+    "label": "Browne (1972)",
+    "role": [
+      "original description",
+      "original type locality",
+      "host"
+    ],
+    "citation": "Browne, F. G. (1972). Some Oriental Scolytidae and Platypodidae (Coleoptera). Oriental Insects, 6: 19–31.",
+    "doi": "10.1080/00305316.1972.10434049"
+  },
+  "lai2020": {
+    "id": "lai2020",
+    "label": "Lai et al. (2020)",
+    "role": [
+      "China distribution",
+      "host/substrate",
+      "subsequent usage"
+    ],
+    "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631.",
+    "doi": "10.1649/0010-065X-74.3.626"
+  }
+}
