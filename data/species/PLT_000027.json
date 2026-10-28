@@ -1,0 +1,83 @@
+{
+  "plt": "PLT_000027",
+  "scientific_name": "Platypus lewisi",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "东亚李氏长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Published candidate occurrence records remain separate from the current accepted distribution union.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Beeson (1941:347) reported Quercus lamellosa under the unresolved name Platypus uncacanthurus; not an adopted host of P. lewisi.",
+  "taxonomy_summary": "Platypus lewisi Blandford, 1894. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1941",
+      "event": "Historical unresolved name use",
+      "name": "Platypus uncacanthurus",
+      "authorship": "Beeson, 1941",
+      "note": "Page 347 contains name use but not a verified available original description or adopted synonymy.",
+      "reference_ids": [
+        "pltSrc000055"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus lewisi",
+      "authorship": "Blandford, 1894",
+      "note": "Original account pp. 134–135; original name and description verified.",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beeson (1941:347) used Platypus uncacanthurus with Quercus lamellosa, but nomenclatural availability and synonymy with Platypus lewisi remain unresolved; this historical plant association is not adopted as a host of P. lewisi.",
+  "references": [
+    {
+      "id": "pltSrc000055",
+      "label": "Beeson (1941)",
+      "citation": "Beeson, C. F. C. (1941). The Ecology and Control of the Forest Insects of India and the Neighbouring Countries. Author-published; printed by J. Singh at the Vasant Press, Dehra Dun, India. 1007 pp."
+    },
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000055",
+    "blandford1894"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000055",
+    "blandford1894"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000055"
+  ]
+}

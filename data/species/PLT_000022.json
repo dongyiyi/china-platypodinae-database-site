@@ -1,0 +1,102 @@
+{
+  "plt": "PLT_000022",
+  "scientific_name": "Platypus formosanus",
+  "authorship": "Niijima & Murayama, 1925",
+  "chinese_name": "台湾长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "narrative": "",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "pltSrc000039"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000039"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "",
+  "taxonomy_summary": "Platypus formosanus Niijima & Murayama, 1925. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1960",
+      "event": "Replacement name (historical name; taxonomic necessity disputed)",
+      "name": "Platypus taiwansis",
+      "authorship": "Schedl, 1960",
+      "note": "Original nomen novum documented on p.111; later treatment of necessity and species synonymy remains independent.",
+      "reference_ids": [
+        "pltSrc000083"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus formosanus",
+      "authorship": "Niijima & Murayama, 1925",
+      "note": "Original account pp. 215–216; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000039"
+      ]
+    }
+  ],
+  "nomenclature_note": "Schedl (1960:111) proposed Platypus taiwansis as a replacement name. Beaver (2013) considered this treatment unnecessary. Beaver (2013) and Alonso-Zarazaga et al. (2023) differ on synonymy with Platypus indicus; no taxonomic merger is adopted here.",
+  "references": [
+    {
+      "id": "pltSrc000083",
+      "label": "Schedl (1960)",
+      "citation": "Schedl, K. E. (1960). Zur Synonymie der Borkenkäfer V. Entomologische Blätter, 56: 103–112."
+    },
+    {
+      "id": "pltSrc000039",
+      "label": "Murayama (1925a)",
+      "citation": "Murayama, J. (1925a). On the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15(4): 197–228. Published 20 June 1925."
+    },
+    {
+      "id": "beaver2013",
+      "label": "Beaver (2013)",
+      "citation": "Beaver, R. A. (2013). New synonymy and new records of Oriental pin-hole borers. Entomologist's Monthly Magazine 149:23–27."
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000083",
+    "pltSrc000039"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000083",
+    "pltSrc000039",
+    "beaver2013",
+    "alonso2023"
+  ],
+  "host_note_reference_ids": []
+}

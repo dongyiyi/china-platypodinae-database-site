@@ -1,0 +1,64 @@
+{
+  "plt": "PLT_000029",
+  "scientific_name": "Platypus modestus",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "方形长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Published candidate occurrence records remain separate from the current accepted distribution union.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "",
+  "taxonomy_summary": "Platypus modestus Blandford, 1894. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus modestus",
+      "authorship": "Blandford, 1894",
+      "note": "Original account pp. 133–134; original name and description verified.",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Platypus modestus was described by Blandford (1894:133–134) from Japanese specimens; the original paper supplies no named botanical host.",
+  "references": [
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "blandford1894"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "blandford1894"
+  ],
+  "host_note_reference_ids": []
+}

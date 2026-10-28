@@ -1,0 +1,139 @@
+{
+  "batch": "Batch03",
+  "status": "NOT RELEASE READY",
+  "scope": [
+    {
+      "plt": "PLT_000021",
+      "source_record_count": 4,
+      "reviewed_evidence": 2,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000051"
+      ]
+    },
+    {
+      "plt": "PLT_000022",
+      "source_record_count": 4,
+      "reviewed_evidence": 2,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000039",
+        "PLT_SRC_000083"
+      ]
+    },
+    {
+      "plt": "PLT_000023",
+      "source_record_count": 6,
+      "reviewed_evidence": 4,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000052"
+      ]
+    },
+    {
+      "plt": "PLT_000024",
+      "source_record_count": 4,
+      "reviewed_evidence": 1,
+      "staged_evidence": 3,
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000024",
+        "PLT_SRC_000053"
+      ]
+    },
+    {
+      "plt": "PLT_000025",
+      "source_record_count": 2,
+      "reviewed_evidence": 0,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006"
+      ]
+    },
+    {
+      "plt": "PLT_000026",
+      "source_record_count": 8,
+      "reviewed_evidence": 3,
+      "staged_evidence": 5,
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000020",
+        "PLT_SRC_000005",
+        "PLT_SRC_000009",
+        "PLT_SRC_000032",
+        "PLT_SRC_000030",
+        "PLT_SRC_000031"
+      ]
+    },
+    {
+      "plt": "PLT_000027",
+      "source_record_count": 9,
+      "reviewed_evidence": 4,
+      "staged_evidence": 5,
+      "source_ids": [
+        "PLT_SRC_000024",
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000025",
+        "PLT_SRC_000009",
+        "PLT_SRC_000033",
+        "PLT_SRC_000041",
+        "PLT_SRC_000055"
+      ]
+    },
+    {
+      "plt": "PLT_000028",
+      "source_record_count": 5,
+      "reviewed_evidence": 3,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000054"
+      ]
+    },
+    {
+      "plt": "PLT_000029",
+      "source_record_count": 3,
+      "reviewed_evidence": 1,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000041"
+      ]
+    },
+    {
+      "plt": "PLT_000030",
+      "source_record_count": 4,
+      "reviewed_evidence": 2,
+      "staged_evidence": 2,
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000036"
+      ]
+    }
+  ],
+  "totals": {
+    "records": 49,
+    "verified": 22,
+    "staged": 27
+  },
+  "release_blockers": [
+    "Staged distribution and host records must not be silently promoted to Accepted",
+    "Each species taxonomic history needs TNU/NRE claim-level validation",
+    "All note references require explicit linked author-year IDs",
+    "Public species JSON, indexes, routes and static metadata not generated",
+    "CI and live browser QA not completed"
+  ],
+  "branch": "batch03-plt-000021-000030-preparation"
+}

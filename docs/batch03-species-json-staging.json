@@ -1,0 +1,816 @@
+{
+  "batch": "Batch03",
+  "release_approved": false,
+  "warning": "SCHEMA-COMPATIBLE STAGING DRAFT ONLY. No profile data may be promoted to data/species or website routes before source citation label normalization, exact approved occurrence mapping and taxonomy-history QA. Empty distribution does not negate reported candidate evidence.",
+  "profiles": [
+    {
+      "plt": "PLT_000021",
+      "scientific_name": "Platypus dasycauda",
+      "authorship": "Browne, 1980",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Taiwan-origin wood intercepted in Japan is not evidence of a locally established population.",
+      "taxonomy_summary": "Platypus dasycauda Browne, 1980.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Taiwan-origin wood intercepted in Japan is not evidence of a locally established population.",
+      "references": [
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000051",
+          "label": "Browne, F",
+          "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. I. Kontyû, 48(3): 370–379."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000028",
+          "PLT_SR_000191",
+          "PLT_SR_000259",
+          "PLT_SR_000260"
+        ],
+        "source_ids": [
+          "PLT_SRC_000006",
+          "PLT_SRC_000005",
+          "PLT_SRC_000051"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000022",
+      "scientific_name": "Platypus formosanus",
+      "authorship": "Niijima & Murayama, 1925",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Beaver (2013) and the 2023 Palaearctic catalogue differ concerning synonymy with P. indicus; the relationship remains pending.",
+      "taxonomy_summary": "Platypus formosanus Niijima & Murayama, 1925.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Beaver (2013) and the 2023 Palaearctic catalogue differ concerning synonymy with P. indicus; the relationship remains pending.",
+      "references": [
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000039",
+          "label": "Murayama, J",
+          "citation": "Murayama, J. (1925a). On the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15(4): 197–228. Published 20 June 1925."
+        },
+        {
+          "id": "PLT_SRC_000083",
+          "label": "Schedl, K",
+          "citation": "Schedl, K. E. (1960). Zur Synonymie der Borkenkäfer V. Entomologische Blätter, 56: 103–112."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000192",
+          "PLT_SR_000029",
+          "PLT_SR_000237",
+          "PLT_SR_000425"
+        ],
+        "source_ids": [
+          "PLT_SRC_000005",
+          "PLT_SRC_000006",
+          "PLT_SRC_000039",
+          "PLT_SRC_000083"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000023",
+      "scientific_name": "Platypus horishensis",
+      "authorship": "Murayama, 1928",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [
+        {
+          "scientific_name": "Lithocarpus taitoensis",
+          "reported_from": "Taiwan — attacked trees",
+          "reference_ids": [
+            "PLT_SRC_000052"
+          ],
+          "review_status": "Accepted"
+        },
+        {
+          "scientific_name": "Lithocarpus brevicaudatus",
+          "reported_from": "Taiwan — attacked trees",
+          "reference_ids": [
+            "PLT_SRC_000052"
+          ],
+          "review_status": "Accepted"
+        },
+        {
+          "scientific_name": "Castanopsis kawakamii",
+          "reported_from": "Taiwan — attacked trees",
+          "reference_ids": [
+            "PLT_SRC_000052"
+          ],
+          "review_status": "Accepted"
+        }
+      ],
+      "host_review_status": "Accepted",
+      "host_note": "Original host-associated trees were documented from Taiwan in Murayama (1928); regional checklist review remains separate.",
+      "taxonomy_summary": "Platypus horishensis Murayama, 1928.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Original host-associated trees were documented from Taiwan in Murayama (1928); regional checklist review remains separate.",
+      "references": [
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000052",
+          "label": "Murayama, J",
+          "citation": "Murayama, J. (1928). Supplementary notes on the Platypodidae of Formosa. II. Journal of the College of Agriculture, Hokkaido Imperial University, 19(5): 283–290, pl. XI."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000030",
+          "PLT_SR_000193",
+          "PLT_SR_000261",
+          "PLT_SR_000263",
+          "PLT_SR_000262",
+          "PLT_SR_000264"
+        ],
+        "source_ids": [
+          "PLT_SRC_000006",
+          "PLT_SRC_000005",
+          "PLT_SRC_000052"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000024",
+      "scientific_name": "Platypus indicus",
+      "authorship": "Strohmeyer, 1910",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Original type locality in India; no Chinese occurrence inferred from the original description.",
+      "taxonomy_summary": "Platypus indicus Strohmeyer, 1910.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Original type locality in India; no Chinese occurrence inferred from the original description.",
+      "references": [
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000024",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+          "doi": "10.11646/zootaxa.3646.4.7"
+        },
+        {
+          "id": "PLT_SRC_000053",
+          "label": "Strohmeyer, H",
+          "citation": "Strohmeyer, H. (1910). Neue Borkenkäfer aus Abessynien, Madagaskar, Indien und Tasmania. Entomologische Blätter, 6: 126–132."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000194",
+          "PLT_SR_000031",
+          "PLT_SR_000125",
+          "PLT_SR_000265"
+        ],
+        "source_ids": [
+          "PLT_SRC_000005",
+          "PLT_SRC_000006",
+          "PLT_SRC_000024",
+          "PLT_SRC_000053"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000025",
+      "scientific_name": "Platypus kiushuensis",
+      "authorship": "Murayama, 1936",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Existing geographic reports require source-level acceptance; no botanical host confirmed here.",
+      "taxonomy_summary": "Platypus kiushuensis Murayama, 1936.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Existing geographic reports require source-level acceptance; no botanical host confirmed here.",
+      "references": [
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000197",
+          "PLT_SR_000032"
+        ],
+        "source_ids": [
+          "PLT_SRC_000005",
+          "PLT_SRC_000006"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000026",
+      "scientific_name": "Platypus koryoensis",
+      "authorship": "(Murayama, 1930)",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Original combination Crossotarsus koryoensis Murayama, 1930; Platypus usage documented by Schedl (1972), but first transfer not established. Korean gallery-only reports are not confirmed hosts.",
+      "taxonomy_summary": "Platypus koryoensis (Murayama, 1930).",
+      "taxonomic_history": [],
+      "nomenclature_note": "Original combination Crossotarsus koryoensis Murayama, 1930; Platypus usage documented by Schedl (1972), but first transfer not established. Korean gallery-only reports are not confirmed hosts.",
+      "references": [
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000020",
+          "label": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D",
+          "citation": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D. (2023). First record of two ambrosia beetle, Platypus quercivorus (Murayama) and Platypus koryoensis (Murayama)(Coleoptera: Curculionidae, Platypodinae) in Mainland China. Zootaxa, 5284(2), 397-400.",
+          "doi": "10.11646/zootaxa.5284.2.11"
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000009",
+          "label": "Park, S., & Lyu, D",
+          "citation": "Park, S., & Lyu, D. (2007). Checklist of the family Platypodidae (Coleoptera) in Korea. Journal of Asia-Pacific Entomology, 10(3), 275-280.",
+          "doi": "10.1016/S1226-8615(08)60363-5"
+        },
+        {
+          "id": "PLT_SRC_000032",
+          "label": "Wood, S",
+          "citation": "Wood, S. L. & Bright, D. E. (1992). A catalog of Scolytidae and Platypodidae (Coleoptera), Part 2: Taxonomic Index. Great Basin Naturalist Memoirs 13, volumes A–B: 1–1557."
+        },
+        {
+          "id": "PLT_SRC_000030",
+          "label": "Murayama, J",
+          "citation": "Murayama, J. (1930). Révisions des familles des Ipides et des Platypides de Corée. Journal of the Chosen Natural History Society 11: 1–34."
+        },
+        {
+          "id": "PLT_SRC_000031",
+          "label": "Schedl, K",
+          "citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000033",
+          "PLT_SR_000114",
+          "PLT_SR_000199",
+          "PLT_SR_000055",
+          "PLT_SR_000228",
+          "PLT_SR_000226",
+          "PLT_SR_000227",
+          "PLT_SR_000238"
+        ],
+        "source_ids": [
+          "PLT_SRC_000006",
+          "PLT_SRC_000020",
+          "PLT_SRC_000005",
+          "PLT_SRC_000009",
+          "PLT_SRC_000032",
+          "PLT_SRC_000030",
+          "PLT_SRC_000031"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000027",
+      "scientific_name": "Platypus lewisi",
+      "authorship": "Blandford, 1894",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Platypus uncacanthurus Beeson, 1941 has unresolved availability and synonymy; Quercus lamellosa not transferred to the host union.",
+      "taxonomy_summary": "Platypus lewisi Blandford, 1894.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Platypus uncacanthurus Beeson, 1941 has unresolved availability and synonymy; Quercus lamellosa not transferred to the host union.",
+      "references": [
+        {
+          "id": "PLT_SRC_000024",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+          "doi": "10.11646/zootaxa.3646.4.7"
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000025",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A., & Smith, S. M. (2022). The bark and ambrosia beetles of Bhutan (Coleoptera: Curculionidae: Scolytinae and Platypodinae): a synopsis with three new species of Scolytinae. Zootaxa, 5174(1), 1-24.",
+          "doi": "10.11646/zootaxa.5174.1.1"
+        },
+        {
+          "id": "PLT_SRC_000009",
+          "label": "Park, S., & Lyu, D",
+          "citation": "Park, S., & Lyu, D. (2007). Checklist of the family Platypodidae (Coleoptera) in Korea. Journal of Asia-Pacific Entomology, 10(3), 275-280.",
+          "doi": "10.1016/S1226-8615(08)60363-5"
+        },
+        {
+          "id": "PLT_SRC_000033",
+          "label": "Park, S",
+          "citation": "Park, S. (2018). Insect Fauna of Korea. Volume 12, Number 24. Weevils VI. Arthropoda: Insecta: Coleoptera: Curculionidae: Platypodinae, Scolytinae (Hylesinitae). National Institute of Biological Resources, Incheon, Republic of Korea. ISBN 978-89-6811-314-7."
+        },
+        {
+          "id": "PLT_SRC_000041",
+          "label": "Blandford, W",
+          "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+        },
+        {
+          "id": "PLT_SRC_000055",
+          "label": "Beeson, C",
+          "citation": "Beeson, C. F. C. (1941). The Ecology and Control of the Forest Insects of India and the Neighbouring Countries. Author-published; printed by J. Singh at the Vasant Press, Dehra Dun, India. 1007 pp."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000127",
+          "PLT_SR_000201",
+          "PLT_SR_000034",
+          "PLT_SR_000132",
+          "PLT_SR_000056",
+          "PLT_SR_000270",
+          "PLT_SR_000266",
+          "PLT_SR_000271",
+          "PLT_SR_000275"
+        ],
+        "source_ids": [
+          "PLT_SRC_000024",
+          "PLT_SRC_000005",
+          "PLT_SRC_000006",
+          "PLT_SRC_000025",
+          "PLT_SRC_000009",
+          "PLT_SRC_000033",
+          "PLT_SRC_000041",
+          "PLT_SRC_000055"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000028",
+      "scientific_name": "Platypus lunatulus",
+      "authorship": "Browne, 1980",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [
+        {
+          "scientific_name": "Quercus sp.",
+          "reported_from": "Taiwan-exported intercepted timber",
+          "reference_ids": [
+            "PLT_SRC_000054"
+          ],
+          "review_status": "Accepted"
+        }
+      ],
+      "host_review_status": "Accepted",
+      "host_note": "Taiwan-exported Quercus timber intercepted in Japan; not evidence of established Taiwanese population or attacks on living trees.",
+      "taxonomy_summary": "Platypus lunatulus Browne, 1980.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Taiwan-exported Quercus timber intercepted in Japan; not evidence of established Taiwanese population or attacks on living trees.",
+      "references": [
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000054",
+          "label": "Browne, F",
+          "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. IV. Kontyû, 48(4): 490–500."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000035",
+          "PLT_SR_000203",
+          "PLT_SR_000272",
+          "PLT_SR_000268",
+          "PLT_SR_000274"
+        ],
+        "source_ids": [
+          "PLT_SRC_000006",
+          "PLT_SRC_000005",
+          "PLT_SRC_000054"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000029",
+      "scientific_name": "Platypus modestus",
+      "authorship": "Blandford, 1894",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Taxonomic original reviewed, but geographic and host synthesis remains subject to claim-level review.",
+      "taxonomy_summary": "Platypus modestus Blandford, 1894.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Taxonomic original reviewed, but geographic and host synthesis remains subject to claim-level review.",
+      "references": [
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000041",
+          "label": "Blandford, W",
+          "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000204",
+          "PLT_SR_000036",
+          "PLT_SR_000267"
+        ],
+        "source_ids": [
+          "PLT_SRC_000005",
+          "PLT_SRC_000006",
+          "PLT_SRC_000041"
+        ],
+        "requires_claim_level_validation": true
+      }
+    },
+    {
+      "plt": "PLT_000030",
+      "scientific_name": "Platypus niijimai",
+      "authorship": "Murayama, 1931",
+      "chinese_name": "",
+      "genus": "Platypus",
+      "tribe": "Platypodini",
+      "subfamily": "Platypodinae",
+      "checklist_status": "Unreviewed",
+      "review_status": "In review",
+      "publication_status": "Draft only — not published",
+      "china_occurrence": {
+        "Mainland China": "Not assessed",
+        "Taiwan": "Not assessed",
+        "Hong Kong": "Not assessed",
+        "Macao": "Not assessed"
+      },
+      "distribution": {
+        "summary": "",
+        "review_status": "Pending",
+        "claims": [],
+        "reference_ids": []
+      },
+      "hosts": [],
+      "host_review_status": "Pending",
+      "host_note": "Original tree recorded as Psidium guajacum in Murayama (1931); accepted botanical identity unresolved, so no normalized species host is asserted.",
+      "taxonomy_summary": "Platypus niijimai Murayama, 1931.",
+      "taxonomic_history": [],
+      "nomenclature_note": "Original tree recorded as Psidium guajacum in Murayama (1931); accepted botanical identity unresolved, so no normalized species host is asserted.",
+      "references": [
+        {
+          "id": "PLT_SRC_000006",
+          "label": "Beaver, R",
+          "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+        },
+        {
+          "id": "PLT_SRC_000005",
+          "label": "Alonso-Zarazaga, M",
+          "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+        },
+        {
+          "id": "PLT_SRC_000036",
+          "label": "Murayama, J",
+          "citation": "Murayama, J. (1931). Supplementary notes on the Platypodidae of Formosa III. Journal of the Faculty of Agriculture, Hokkaido Imperial University 30(4): 195–203."
+        }
+      ],
+      "taxonomy_reference_ids": [],
+      "resources": {
+        "images": "No verified image record linked.",
+        "specimens": "No online specimen accession linked.",
+        "molecular": "No verified sequence accession.",
+        "symbionts": "No verified association."
+      },
+      "recommended_chinese_name": "",
+      "former_chinese_names": [],
+      "_staging": {
+        "source_record_ids": [
+          "PLT_SR_000037",
+          "PLT_SR_000205",
+          "PLT_SR_000269",
+          "PLT_SR_000273"
+        ],
+        "source_ids": [
+          "PLT_SRC_000006",
+          "PLT_SRC_000005",
+          "PLT_SRC_000036"
+        ],
+        "requires_claim_level_validation": true
+      }
+    }
+  ]
+}

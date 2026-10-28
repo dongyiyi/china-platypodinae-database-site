@@ -1,0 +1,90 @@
+{
+  "batch": "Batch03",
+  "range": [
+    "PLT_000021",
+    "PLT_000030"
+  ],
+  "status": "preparation_only_not_published",
+  "source": "Notion SRL + China Checklist Synthesis readback 2026-10-28",
+  "sop": "China Platypodinae Species JSON Migration & Publication SOP v1.6",
+  "rules": [
+    "Do not infer established Taiwan populations from imported wood interceptions",
+    "Preserve disputed nomenclature as pending, do not automatically adopt synonymy",
+    "Deduplicate regions and hosts with individual linked author-year citations",
+    "Exact SRL-TNU-NRE-Source Record-Source joins required",
+    "Validate static metadata and immutable URLs; no change to Scolytinae site"
+  ],
+  "taxa": [
+    {
+      "id": "PLT_000021",
+      "name": "Platypus dasycauda",
+      "authority": "Browne, 1980",
+      "taxonomic_review": "Reviewed",
+      "caveat": "intercepted unidentified log; Taiwan export not established population"
+    },
+    {
+      "id": "PLT_000022",
+      "name": "Platypus formosanus",
+      "authority": "Niijima & Murayama, 1925",
+      "taxonomic_review": "Pending",
+      "caveat": "disputed synonym relationships; retain caveat"
+    },
+    {
+      "id": "PLT_000023",
+      "name": "Platypus horishensis",
+      "authority": "Murayama, 1928",
+      "taxonomic_review": "Reviewed",
+      "caveat": "3 reviewed hosts in synthesis; province occurrence not adopted"
+    },
+    {
+      "id": "PLT_000024",
+      "name": "Platypus indicus",
+      "authority": "Strohmeyer, 1910",
+      "taxonomic_review": "Needs Review",
+      "caveat": "Indian type locality must not be China"
+    },
+    {
+      "id": "PLT_000025",
+      "name": "Platypus kiushuensis",
+      "authority": "Murayama, 1936",
+      "taxonomic_review": "Pending",
+      "caveat": "no reviewed host union"
+    },
+    {
+      "id": "PLT_000026",
+      "name": "Platypus koryoensis",
+      "authority": "(Murayama, 1930)",
+      "taxonomic_review": "Needs Review",
+      "caveat": "historical Korea gallery-only Quercus not confirmed host"
+    },
+    {
+      "id": "PLT_000027",
+      "name": "Platypus lewisi",
+      "authority": "Blandford, 1894",
+      "taxonomic_review": "Pending",
+      "caveat": "uncacanthurus availability/synonymy Pending; Quercus lamellosa not adopted"
+    },
+    {
+      "id": "PLT_000028",
+      "name": "Platypus lunatulus",
+      "authority": "Browne, 1980",
+      "taxonomic_review": "Needs Review",
+      "caveat": "Quercus sp. intercepted wood; Taiwan establishment not demonstrated"
+    },
+    {
+      "id": "PLT_000029",
+      "name": "Platypus modestus",
+      "authority": "Blandford, 1894",
+      "taxonomic_review": "Reviewed",
+      "caveat": "source crosswalk needed"
+    },
+    {
+      "id": "PLT_000030",
+      "name": "Platypus niijimai",
+      "authority": "Murayama, 1931",
+      "taxonomic_review": "Reviewed",
+      "caveat": "original Psidium guajacum as-published; botanical normalization unresolved"
+    }
+  ],
+  "release_gate": "Full source-ID and bibliography crosswalk, JSON generation, CI and page QA still required; this manifest is not species JSON."
+}

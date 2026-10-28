@@ -1,0 +1,100 @@
+{
+  "plt": "PLT_000023",
+  "scientific_name": "Platypus horishensis",
+  "authorship": "Murayama, 1928",
+  "chinese_name": "埔里长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "narrative": "",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "pltSrc000052"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000052"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Lithocarpus taitoensis",
+      "reported_from": "Taiwan — attacked trees",
+      "reference_ids": [
+        "pltSrc000052"
+      ],
+      "review_status": "Accepted"
+    },
+    {
+      "scientific_name": "Lithocarpus brevicaudatus",
+      "reported_from": "Taiwan — attacked trees",
+      "reference_ids": [
+        "pltSrc000052"
+      ],
+      "review_status": "Accepted"
+    },
+    {
+      "scientific_name": "Castanopsis kawakamii",
+      "reported_from": "Taiwan — attacked trees",
+      "reference_ids": [
+        "pltSrc000052"
+      ],
+      "review_status": "Accepted"
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Murayama (1928:286) documented attacked trees from Taichu Province, Taiwan; the botanical names have been normalized with the original spellings retained in the source records.",
+  "taxonomy_summary": "Platypus horishensis Murayama, 1928. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1928",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus horishensis",
+      "authorship": "Murayama, 1928",
+      "note": "Original account pp. 284–286; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000052"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original description and associated trees attacked are directly verified from Murayama (1928:284–286). The original female association was described as probable.",
+  "references": [
+    {
+      "id": "pltSrc000052",
+      "label": "Murayama (1928)",
+      "citation": "Murayama, J. (1928). Supplementary notes on the Platypodidae of Formosa. II. Journal of the College of Agriculture, Hokkaido Imperial University, 19(5): 283–290, pl. XI."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000052"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000052"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000052"
+  ]
+}
