@@ -43,7 +43,8 @@
       "authorship": "Murayama, 1934",
       "note": "Original Murayama (1934:135) is supported by bibliographic sources but the printed species account has not been directly inspected. Beaver & Shih (2003) suggested a possible synonymy with Platypus lewisi; this is not adopted.",
       "reference_ids": [
-        "murayama1934"
+        "murayama1934",
+        "beaverShih2003"
       ]
     }
   ],
@@ -75,5 +76,9 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "murayama1934",
+    "beaverShih2003"
+  ]
 }

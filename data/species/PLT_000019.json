@@ -123,5 +123,8 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "blandford1894"
+  ]
 }

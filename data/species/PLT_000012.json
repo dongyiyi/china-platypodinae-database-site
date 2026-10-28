@@ -68,7 +68,8 @@
   ],
   "nomenclature_note": "The original description was verified in Murayama (1925b:231–232). Beaver & Shih (2003) questioned the earlier Taiwan specimen documentation.",
   "nomenclature_note_reference_ids": [
-    "murayama1925supp"
+    "murayama1925supp",
+    "beaverShih2003"
   ],
   "references": [
     {
@@ -109,5 +110,9 @@
     "last_reviewed": "2026-10-28"
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_note_reference_ids": [
+    "murayama1925supp",
+    "beaverShih2003"
+  ]
 }
