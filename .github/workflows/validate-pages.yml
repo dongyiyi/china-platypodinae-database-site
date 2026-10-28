@@ -50,7 +50,15 @@ jobs:
             assert all(x in refs for x in p.get('host_note_reference_ids',[]))
             assert all(x in refs for x in p.get('nomenclature_note_reference_ids',[]))
             for citation in p['references']:
-              match=re.search(r'\\((\\d{4}[a-z]?)\\)
+              label=citation.get('label','')
+              if label.endswith(')') and '(' in label:
+                suffix=label.split('(')[-1]
+                if suffix[:4].isdigit():
+                  assert '('+suffix in citation['citation'], (p['plt'],citation['id'])
+            shell=Path('taxa/'+p['plt']+'/index.html').read_text()
+            assert p['scientific_name'] in shell and p['plt'] in shell
+            assert 'Browne (1972)' not in shell or p['plt']=='PLT_000062'
+            assert 'literature-reported' not in shell.lower()
             assert all(x in refs for h in p['taxonomic_history'] for x in h.get('reference_ids',[]))
             years=[int(x['year']) for x in p['taxonomic_history']]
             assert years==sorted(years,reverse=True)
