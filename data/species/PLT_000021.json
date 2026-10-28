@@ -1,0 +1,66 @@
+{
+  "plt": "PLT_000021",
+  "scientific_name": "Platypus dasycauda",
+  "authorship": "Browne, 1980",
+  "chinese_name": "木材长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Original evidence concerns interception from timber shipped from Taiwan; establishment in Taiwan is not demonstrated.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Browne (1980:376) states 'ex unidentified log'; no botanical host can be identified.",
+  "taxonomy_summary": "Platypus dasycauda Browne, 1980. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1980",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus dasycauda",
+      "authorship": "Browne, 1980",
+      "note": "Original account p. 376; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000051"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original specimens were intercepted at Nagoya from an unidentified log shipped from Keelung; a Taiwanese established population is not demonstrated.",
+  "references": [
+    {
+      "id": "pltSrc000051",
+      "label": "Browne (1980) I",
+      "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. I. Kontyû, 48(3): 370–379."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000051"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000051"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000051"
+  ]
+}
