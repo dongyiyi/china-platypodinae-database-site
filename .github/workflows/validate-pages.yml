@@ -15,7 +15,7 @@ jobs:
           node-version: '22'
       - name: Check frontend module syntax
         run: |
-          for f in assets/platypodinae.js assets/contribute-page.js assets/cite-page.js assets/methods-page.js; do
+          for f in assets/platypodinae.js assets/platypodinae-profile.js assets/contribute-page.js assets/cite-page.js assets/methods-page.js; do
             node --input-type=module --check < "$f"
           done
       - name: Validate provisional scope, nav, data and placeholders
