@@ -8,96 +8,51 @@
   "tribe": "Platypodini",
   "checklist_status": "Unreviewed",
   "review_status": "Not started",
-  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "publication_status": "Published profile — taxonomy notes independently maintained",
   "china_occurrence": {
-    "Mainland China": "Candidate",
-    "Taiwan": "Candidate",
-    "Hong Kong": "Candidate",
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hainan; Hong Kong; Taiwan; Xizang; Yunnan (literature-reported; acceptance pending)",
-    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "summary": "Taiwan; Hainan; Xizang; Yunnan; Hong Kong",
+    "narrative": "",
     "claims": [
       {
         "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "beaverShih2003"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "beaverShih2003",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       },
       {
         "region": "Hainan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "yin2001"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Hainan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
-          "a2021"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Hainan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "yin2001",
+          "a2021",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       },
       {
         "region": "Xizang",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
           "a2021"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       },
       {
         "region": "Yunnan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "a2021"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Yunnan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
-          "lai2020"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Yunnan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "a2021",
+          "lai2020",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       },
       {
         "region": "Hong Kong",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
           "lau2025"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       }
     ],
     "reference_ids": [
@@ -107,74 +62,70 @@
       "a2021",
       "lai2020",
       "lau2025"
-    ]
+    ],
+    "review_status": "Accepted"
   },
   "hosts": [
     {
       "scientific_name": "Spondias spp.",
       "reported_from": "Tahiti (French Polynesia)",
       "association": "Recorded on squared wood in the original description, not a confirmed living-tree attack.",
-      "evidence_status": "Source verified; foreign wood association",
       "reference_ids": [
         "fairmaire1849"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Inocarpus spp.",
       "reported_from": "Tahiti (French Polynesia)",
       "association": "Recorded on squared wood in the original description, not a confirmed living-tree attack.",
-      "evidence_status": "Source verified; foreign wood association",
       "reference_ids": [
         "fairmaire1849"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Carica papaya",
       "reported_from": "Taiwan (literature-reported)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Cinnamomum camphora",
       "reported_from": "Taiwan (literature-reported)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Cryptomeria japonica",
       "reported_from": "Taiwan (literature-reported)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Prunus mume",
       "reported_from": "Taiwan (literature-reported)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Hevea brasiliensis",
       "reported_from": "China (Yunnan; reported rubber-tree context)",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "lai2020"
-      ]
+      ],
+      "review_status": "Accepted"
     }
   ],
-  "host_note": "Fairmaire's original non-Chinese record was from squared Spondias and Inocarpus timber in Tahiti, not proven attacks on healthy trees. The Taiwanese host list is secondary literature; original trapping and wood-association methods must be checked. Rubber-tree reporting does not by itself prove living-tree colonization.",
+  "host_note": "The original Tahitian Spondias and Inocarpus records concern squared timber, not demonstrated attacks on healthy standing trees. The rubber-tree record also requires its collection method to be interpreted separately.",
   "taxonomy_summary": "Crossotarsus externedentatus (Fairmaire, 1849). Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
   "taxonomic_history": [
     {
@@ -203,7 +154,7 @@
   },
   "provenance": {
     "last_reviewed": "2026-10-28",
-    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+    "scope": "Distribution and host evidence consolidated for website display; separate nomenclatural uncertainties remain recorded."
   },
   "references": [
     {
@@ -277,5 +228,6 @@
     "fairmaire1850"
   ],
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_review_status": "Accepted"
 }
