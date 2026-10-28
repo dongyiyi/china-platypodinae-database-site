@@ -1,0 +1,159 @@
+{
+  "plt": "PLT_000002",
+  "scientific_name": "Diapus quinquespinatus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "针刺长小蠹",
+  "genus": "Diapus",
+  "subfamily": "Platypodinae",
+  "tribe": "Tesserocerini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Candidate",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Hong Kong; Taiwan; Xizang; Yunnan (literature-reported; acceptance pending)",
+    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "beaverShih2003"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Hong Kong",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "lau2025"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Xizang",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Yunnan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023",
+      "lau2025"
+    ]
+  },
+  "hosts": [],
+  "host_note": "The cited Taiwanese account reports polyphagy without a verified individual plant taxon; no plant species is assigned as a confirmed host.",
+  "taxonomy_summary": "Diapus quinquespinatus Chapuis, 1865. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
+  "taxonomic_history": [
+    {
+      "year": "1972",
+      "event": "Original description of historically associated name — synonymy pending",
+      "name": "Diapus tonkinensis",
+      "authorship": "Schedl, 1972",
+      "note": "Schedl's original description was verified on pp. 201–202; the asserted relationship with D. quinquespinatus requires separate acceptance.",
+      "reference_ids": [
+        "schedl1972"
+      ]
+    },
+    {
+      "year": "1865",
+      "event": "Original description",
+      "name": "Diapus quinquespinatus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original protologue directly inspected on 334–335.",
+      "reference_ids": [
+        "chapuis1865"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original species epithet was printed quinque-spinatus and is now written quinquespinatus following mandatory dehyphenation. The original Diapus tonkinensis Schedl, 1972 was directly verified, but a later catalogue's proposed synonymy with D. quinquespinatus remains Pending.",
+  "nomenclature_note_reference_ids": [
+    "chapuis1865",
+    "schedl1972",
+    "alonso2023"
+  ],
+  "resources": {
+    "images": "No image with confirmed public reuse rights is linked in this release.",
+    "specimens": "Specimen/type evidence is recorded in the cited original descriptions; specimen accessions have not been independently mapped to online repositories.",
+    "molecular": "No verified molecular accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28",
+    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+  },
+  "references": [
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "chapuis1865",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ],
+      "doi": "10.5962/bhl.title.9204"
+    },
+    {
+      "id": "lau2025",
+      "label": "Lau (2025)",
+      "citation": "Lau, C. S. K. (2025). Checklist of Insects of Hong Kong, 2nd edition.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "schedl1972",
+      "label": "Schedl (1972)",
+      "citation": "Schedl, K. E. (1972). Some new Scolytidae and Platypodidae (Col.) of the British Museum (Natural History). The Entomologist's Monthly Magazine, 107: 199–202.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "schedl1972",
+    "chapuis1865"
+  ],
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
