@@ -1,0 +1,127 @@
+{
+  "plt": "PLT_000019",
+  "scientific_name": "Platypus contaminatus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "山楂长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan; Jiangxi; Fujian; Shanxi",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "beaverShih2003",
+          "alonso2023"
+        ]
+      },
+      {
+        "region": "Jiangxi",
+        "reference_ids": [
+          "lai2019",
+          "laiHawthorn2019"
+        ]
+      },
+      {
+        "region": "Fujian",
+        "reference_ids": [
+          "lai2019",
+          "alonso2023"
+        ]
+      },
+      {
+        "region": "Shanxi",
+        "reference_ids": [
+          "lai2019",
+          "laiHawthorn2019"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023",
+      "lai2019",
+      "laiHawthorn2019"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Prunus mume",
+      "reported_from": "Taiwan",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "scientific_name": "Crataegus spp.",
+      "reported_from": "China, hawthorn (species unspecified)",
+      "reference_ids": [
+        "laiHawthorn2019"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "",
+  "taxonomy_summary": "Platypus contaminatus (Blandford, 1894).",
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original description",
+      "name": "Crossotarsus contaminatus",
+      "authorship": "Blandford, 1894",
+      "note": "Original Crossotarsus combination is documented. First published combination in Platypus remains unverified. Chinese vernacular host lists have not been converted into unverified species-level plant identifications.",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Crossotarsus combination is documented. First published combination in Platypus remains unverified. Chinese vernacular host lists have not been converted into unverified species-level plant identifications.",
+  "references": [
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141."
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "lai2019",
+      "label": "Lai (2019)",
+      "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University."
+    },
+    {
+      "id": "laiHawthorn2019",
+      "label": "Lai et al. (2019)",
+      "citation": "Lai, S., Liao, J., Dai, X., Wang, Y., & Wang, J. (2019). Identification of hawthorn trunk borer (Platypus contaminatus), an important insect pest on hawthorn. Plant Quarantine, 33(1): 48–51."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "blandford1894"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

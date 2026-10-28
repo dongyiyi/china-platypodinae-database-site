@@ -1,0 +1,101 @@
+{
+  "plt": "PLT_000020",
+  "scientific_name": "Platypus curtus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "截尾长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan; Fujian",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "beaverShih2003",
+          "alonso2023"
+        ]
+      },
+      {
+        "region": "Fujian",
+        "reference_ids": [
+          "beaverLiu2013",
+          "alonso2023"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023",
+      "beaverLiu2013"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Shorea spp.",
+      "reported_from": "Japan, wood logs (not living trees)",
+      "reference_ids": [
+        "beaverLiu2013"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Shorea collection was from cut logs; an attack on living trees has not been demonstrated.",
+  "taxonomy_summary": "Platypus curtus Chapuis, 1865.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original description (species-level page not directly inspected)",
+      "name": "Platypus curtus",
+      "authorship": "Chapuis, 1865",
+      "note": "The species-level original pages were not directly rechecked. Platypus artecurtus Schedl, 1960 remains a proposed synonym pending taxonomic verification; no synonymy is asserted as adopted.",
+      "reference_ids": [
+        "chapuis1865"
+      ]
+    }
+  ],
+  "nomenclature_note": "The species-level original pages were not directly rechecked. Platypus artecurtus Schedl, 1960 remains a proposed synonym pending taxonomic verification; no synonymy is asserted as adopted.",
+  "references": [
+    {
+      "id": "chapuis1865",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "beaverLiu2013",
+      "label": "Beaver & Liu (2013)",
+      "citation": "Beaver, R. A., & Liu, L.-Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4): 447–486.",
+      "doi": "10.11646/zootaxa.3646.4.7"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "chapuis1865"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

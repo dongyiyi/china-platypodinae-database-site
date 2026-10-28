@@ -1,0 +1,108 @@
+{
+  "plt": "PLT_000015",
+  "scientific_name": "Dinoplatypus kusukusensis",
+  "authorship": "(Murayama, 1956)",
+  "chinese_name": "高士黄截尾长小蠹",
+  "genus": "Dinoplatypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published profile — taxonomy qualifications in notes",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "narrative": "",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "beaverShih2003"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cryptomeria japonica",
+      "reported_from": "Taiwan",
+      "reference_ids": [
+        "beaverShih2003"
+      ],
+      "review_status": "Accepted"
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "",
+  "taxonomy_summary": "Dinoplatypus kusukusensis (Murayama, 1956). Source-specific taxonomic history and uncertainties follow.",
+  "taxonomic_history": [
+    {
+      "year": "2003",
+      "event": "New generic combination",
+      "name": "Dinoplatypus kusukusensis",
+      "authorship": "(Murayama, 1956)",
+      "note": "Beaver & Shih (2003:80) explicitly proposed this combination.",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1956",
+      "event": "Original description",
+      "name": "Platypus kusukusensis",
+      "authorship": "Murayama, 1956",
+      "note": "Murayama (1956:13) directly verified.",
+      "reference_ids": [
+        "murayama1956"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Platypus kusukusensis Murayama 1956:13 and new combination by Beaver & Shih 2003:80 verified.",
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "murayama1956"
+  ],
+  "references": [
+    {
+      "id": "murayama1956",
+      "label": "Murayama (1956)",
+      "citation": "Murayama, J. (1956). Two new species of Platypodidae from the Oriental region. The Coleopterists' Bulletin 10(1):11–15.",
+      "role": [
+        "published evidence"
+      ],
+      "doi": "10.5962/p.372884"
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae from Taiwan. Plant Protection Bulletin 45(1):75–90.",
+      "role": [
+        "published evidence"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003",
+    "murayama1956"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "See cited original source; no online specimen accession established.",
+    "molecular": "No verified accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28"
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

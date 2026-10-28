@@ -1,0 +1,113 @@
+{
+  "plt": "PLT_000012",
+  "scientific_name": "Crossotarsus simplex",
+  "authorship": "Murayama, 1925",
+  "chinese_name": "简长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published profile — taxonomy qualifications in notes",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "narrative": "",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "beaverShih2003",
+          "alonso2023"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus glauca",
+      "reported_from": "Japan (Kyushu)",
+      "reference_ids": [
+        "murayama1925supp"
+      ],
+      "review_status": "Accepted"
+    },
+    {
+      "scientific_name": "Quercus gilva",
+      "reported_from": "Japan (Kyushu)",
+      "reference_ids": [
+        "murayama1925supp"
+      ],
+      "review_status": "Accepted"
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Murayama (1925:232) reports Quercus hosts from Japan, not Taiwan. Beaver & Shih (2003) noted that the earlier original Taiwan specimen evidence was uncertain.",
+  "taxonomy_summary": "Crossotarsus simplex Murayama, 1925. Source-specific taxonomic history and uncertainties follow.",
+  "taxonomic_history": [
+    {
+      "year": "1925",
+      "event": "Original description",
+      "name": "Crossotarsus simplex",
+      "authorship": "Murayama, 1925",
+      "note": "Original 1925:231–232 checked. Taiwan checklist notes no actual original Taiwan specimens located; Japanese host observations are direct original evidence.",
+      "reference_ids": [
+        "murayama1925supp"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original 1925:231–232 checked. Taiwan checklist notes no actual original Taiwan specimens located; Japanese host observations are direct original evidence.",
+  "nomenclature_note_reference_ids": [
+    "murayama1925supp"
+  ],
+  "references": [
+    {
+      "id": "murayama1925supp",
+      "label": "Murayama (1925b)",
+      "citation": "Murayama, J. (1925). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University 15:229–236.",
+      "role": [
+        "published evidence"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae from Taiwan. Plant Protection Bulletin 45(1):75–90.",
+      "role": [
+        "published evidence"
+      ]
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd ed. Monografías electrónicas S.E.A. 14:1–780.",
+      "role": [
+        "published evidence"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "murayama1925supp"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "See cited original source; no online specimen accession established.",
+    "molecular": "No verified accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28"
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
