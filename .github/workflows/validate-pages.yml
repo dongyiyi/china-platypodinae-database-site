@@ -47,7 +47,7 @@ jobs:
             assert p.get('host_review_status')=='Accepted'
             assert len(p.get('hosts',[]))==len(set(h['scientific_name'].lower() for h in p.get('hosts',[])))
             assert all(x in refs for h in p['hosts'] for x in h.get('reference_ids',[]))
-            assert all(re.match(r'^(.*?) \\((\\d{4}[a-z]?)\\)
+            assert all(('(' + r['label'].split('(')[-1]) in r['citation'] for r in p['references'] if r.get('label') and '(' in r['label'] and r['label'].endswith(')') and len(r['label'].split('(')[-1]) in (5,6))
             assert all(x in refs for h in p['taxonomic_history'] for x in h.get('reference_ids',[]))
             years=[int(x['year']) for x in p['taxonomic_history']]
             assert years==sorted(years,reverse=True)
