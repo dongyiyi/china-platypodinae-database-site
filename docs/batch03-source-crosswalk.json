@@ -1,0 +1,59 @@
+{
+  "batch": "Batch03",
+  "status": "evidence_snapshot_not_adopted",
+  "generated": "2026-10-28",
+  "taxa": [
+    {
+      "plt": "PLT_000021",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000022",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000023",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000024",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000025",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000026",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000027",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000028",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000029",
+      "source_records": [],
+      "source_ids": []
+    },
+    {
+      "plt": "PLT_000030",
+      "source_records": [],
+      "source_ids": []
+    }
+  ],
+  "sources": [],
+  "qa": "Source records are an audit snapshot. Staged assertions may not be promoted automatically to accepted distribution/hosts; verify page-specific claims and citation closure."
+}
