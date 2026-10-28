@@ -5,55 +5,720 @@
   "taxa": [
     {
       "plt": "PLT_000021",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000028",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus dasycauda",
+          "region_raw": "Taiwan",
+          "host_raw": "unknown",
+          "page": "Submission Source row 21; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 21. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000191",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus dasycauda",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 186; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 186; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000259",
+          "source_id": "PLT_SRC_000051",
+          "published_name": "Platypus dasycauda",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "p. 376",
+          "verification": "Source verified",
+          "notes": "Original printed p.376 scan directly inspected 2026-10-26. Original combination Platypus dasycauda, Browne 1980. Type series 1 holotype male, 1 paratype male; holotype in author's collection; paratype in Nagoya Plant Protection Station. Name clearly established as sp. nov. No botanically identified host and no demonstrated Taiwan population from intercept. Source-specific nomenclatural evidence only."
+        },
+        {
+          "id": "PLT_SR_000260",
+          "source_id": "PLT_SRC_000051",
+          "published_name": "Platypus dasycauda",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "p. 376, holotype and paratype labels",
+          "verification": "Source verified",
+          "notes": "Evidence type: imported timber / unidentified log; observed interception of beetles, not a host plant identification, not proof of beetle gallery or successful development, not a confirmed established field occurrence in Taiwan. Do not use as a named botanical host in Current Host Summary. Source p.376 scan verified."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000051"
+      ]
     },
     {
       "plt": "PLT_000022",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000192",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus formosanus",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 187; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 187; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000029",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus formosanus",
+          "region_raw": "Taiwan",
+          "host_raw": "Taiwan: Sapium discolor (Euphorbiaceae), Psidium guaiacum (Myrtaceae), and Styrax formosanum (Styracaceae); elsewhere: Quercus sp. (Fagaceae) and Ficus sp. (Moraceae). Presumably polyphagous.",
+          "page": "Submission Source row 22; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 22. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000237",
+          "source_id": "PLT_SRC_000039",
+          "published_name": "Platypus formosanus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Murayama 1925:215–216, heading 14, plates XII and XIV",
+          "verification": "Source verified",
+          "notes": "User-supplied original printed pp.215–216. Species originally described as sp. n. from Rengeti, Taichu Province, Formosa, collected January 1923. Distinct nominal taxon from same-publication P. lepidus formosanus subsp. n. on p.214; both homonymous within Platypus, nomenclatural priority requires further Code interpretation before final adoption. Hosts in original text separately verified at primary-page level but not promoted to distribution/host Synthesis."
+        },
+        {
+          "id": "PLT_SR_000425",
+          "source_id": "PLT_SRC_000083",
+          "published_name": "Platypus taiwansis / Platypus formosanus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Original printed p.111 — Platypus taiwansis nom. nov.",
+          "verification": "Source verified",
+          "notes": "Primary page directly supplied by curator 2026-10-28. Distinguish the historical replacement-name act from the later assessment that the replacement was unnecessary (Beaver 2013). Do not infer synonymy with Platypus indicus from this original page; retain independent taxonomic conflict in NRE_000041."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000039",
+        "PLT_SRC_000083"
+      ]
     },
     {
       "plt": "PLT_000023",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000030",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus horishensis",
+          "region_raw": "Taiwan",
+          "host_raw": "Castanopsis kawakamii, Lithocarpus brevicaudata, and L. rhombocarpus (Fagaceae).",
+          "page": "Submission Source row 23; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 23. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000193",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus horishensis",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 188; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 188; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000261",
+          "source_id": "PLT_SRC_000052",
+          "published_name": "Platypus horishensis",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "pp. 284–286, species heading and Habitat",
+          "verification": "Source verified",
+          "notes": "Original pp.284–286 scans directly inspected 2026-10-26; name original Platypus horishensis, explicitly n. sp. p284. p285 introduces associated probable female found in same hole of an injured tree, so sex association marked probable. p286 gives type local habitat Formosa: Horisha and attacked trees in Taichu Province. Host claims recorded in 3 separate evidence records, not duplicated here."
+        },
+        {
+          "id": "PLT_SR_000263",
+          "source_id": "PLT_SRC_000052",
+          "published_name": "Platypus horishensis",
+          "region_raw": null,
+          "host_raw": "L. brevicaudata Hayata [Lithocarpus]",
+          "page": "p. 286, Trees attacked table, row 2",
+          "verification": "Source verified",
+          "notes": "Direct original Murayama (1928:286) 'Trees attacked' row: L. brevicaudata Hayata, Taichu Province, Formosa (Taiwan), 25 May 1925, Y. Saito. Preserved original gender/spelling in as-published field. Botanical normalization Kew POWO (2026): Lithocarpus brevicaudatus (Skan) Hayata is currently accepted; original 'brevicaudata' as published is not silently rewritten (https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:358652-1). Evidence=attacked tree with beetles, primary text verified. Normalized global host taxon = Lithocarpus brevicaudatus. Citation: PLT_SRC_000052 / PLT_SR_000263."
+        },
+        {
+          "id": "PLT_SR_000262",
+          "source_id": "PLT_SRC_000052",
+          "published_name": "Platypus horishensis",
+          "region_raw": null,
+          "host_raw": "Lithocarpus rhombocarpus Hayata",
+          "page": "p. 286, Trees attacked table, row 1",
+          "verification": "Source verified",
+          "notes": "Direct original Murayama (1928:286) 'Trees attacked' row Lithocarpus rhombocarpus Hayata (as printed), Taichu Province Formosa/Taiwan, 25 May 1925, Y. Saito. Primary tree attacked evidence; normalized accepted name Lithocarpus taitoensis (Hayata) Hayata. Kew POWO original-name synonym entry https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:358970-1 ; accepted name https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:359019-1 . Original spelling remains in Host Scientific as Published. Per-host PLT_SR_000262 / PLT_SRC_000052."
+        },
+        {
+          "id": "PLT_SR_000264",
+          "source_id": "PLT_SRC_000052",
+          "published_name": "Platypus horishensis",
+          "region_raw": null,
+          "host_raw": "Castanopsis Kawakamii Hayata",
+          "page": "p. 286, Trees attacked table, row 3",
+          "verification": "Source verified",
+          "notes": "Direct original Murayama (1928:286) 'Trees attacked' row: Castanopsis Kawakamii Hayata (preserve capitalization as published), Taichu Province Formosa (Taiwan), 25 May 1925, Y. Saito. Normalized name Castanopsis kawakamii Hayata accepted in Kew POWO 2026 (https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:358383-1); spelling capitalization standardized only in host summary, source preserved. Evidence type attacked host tree with collected beetles. Source verified PLT_SRC_000052 / PLT_SR_000264."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000052"
+      ]
     },
     {
       "plt": "PLT_000024",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000194",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus indicus",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 189; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 189; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000031",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus indicus",
+          "region_raw": "Taiwan",
+          "host_raw": "Taiwan: ‘oak’ (Fagaceae); elsewhere, polyphagous.",
+          "page": "Submission Source row 24; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 24. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000125",
+          "source_id": "PLT_SRC_000024",
+          "published_name": "Platypus indicus",
+          "region_raw": "Taiwan",
+          "host_raw": "Chinese/source field: polyphagous",
+          "page": "Submission Source row 118; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 118; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated."
+        },
+        {
+          "id": "PLT_SR_000265",
+          "source_id": "PLT_SRC_000053",
+          "published_name": "Platypus indicus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "pp. 131–132, Platypus indicus description and Patria",
+          "verification": "Source verified",
+          "notes": "Original pp.131–132 scans directly checked 2026-10-26. Source verified: original Platypus indicus Strohmeyer 1910, diagnosis and locality Nilgiri Hills (India orientalis), collection H.L. Andrewes, two specimens in Strohmeyer's own collection. No named host in supplied pages. Does NOT resolve distinct P. formosanus concept; conflicting NRE_000041 remains Pending."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000024",
+        "PLT_SRC_000053"
+      ]
     },
     {
       "plt": "PLT_000025",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000197",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus kiushuensis",
+          "region_raw": "Guizhou; Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 192; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 192; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000032",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus kiushuensis",
+          "region_raw": "Taiwan",
+          "host_raw": "Taiwan: none recorded; elsewhere: Quercus gilva and Quercus sp. (Fagaceae).",
+          "page": "Submission Source row 25; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 25. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006"
+      ]
     },
     {
       "plt": "PLT_000026",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000033",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus koryoensis",
+          "region_raw": "Taiwan",
+          "host_raw": "Taiwan: Quercus sp.; elsewhere: Acer sp. (Aceraceae), Carpinus laxiflora (Carpinaceae), Quercus acutissima, Q. aliena, and Q. serrata (Fagaceae).",
+          "page": "Submission Source row 26; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 26. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000114",
+          "source_id": "PLT_SRC_000020",
+          "published_name": "Platypus koryoensis",
+          "region_raw": "Fujian; Jiangxi; Shaanxi",
+          "host_raw": "Chinese/source field: Castanopsis fargesii, Castanopsis sp.",
+          "page": "Submission Source row 107; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 107; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated."
+        },
+        {
+          "id": "PLT_SR_000199",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus koryoensis",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 194; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 194; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000055",
+          "source_id": "PLT_SRC_000009",
+          "published_name": "Platypus koryoensis",
+          "region_raw": "Taiwan",
+          "host_raw": "Quercus serrata, Q. acutissima, Q. aliena, Q. mongolica, Acer sp., Carpinus laxiflora (Hong et al., 2006; Beaver and Shih, 2003).",
+          "page": "Submission Source row 48; original page not verified",
+          "verification": "Staged",
+          "notes": "Migrated from submission Source row 48; source identity matched via citation/year; original pages not independently checked. Existing submission Integrated status preserved. SRL crosswalk is not project approval of China occurrence/taxonomic acts."
+        },
+        {
+          "id": "PLT_SR_000228",
+          "source_id": "PLT_SRC_000032",
+          "published_name": "Platypus koryoensis",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Volume B, p. 1151, per Atkinson and bibliography",
+          "verification": "Staged",
+          "notes": "Subsequent catalog usage only; not an original description, synonym or first new combination. Primary 1992 p.1151 still needs direct entry verification. Do not ingest any Taiwan/Japan/other occurrence as reviewed from this name-usage-only SR."
+        },
+        {
+          "id": "PLT_SR_000226",
+          "source_id": "PLT_SRC_000030",
+          "published_name": "Crossotarsus koryoensis",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "pp.28–30; heading p.28; Plate I fig.4a; type material and galleries p.29; table of contents corroboration p.38",
+          "verification": "Source verified",
+          "notes": "PRIMARY printed-page image verification 2026-10-26 by curator. Original combination / new species description; 28 not 24. Subsequent note at p.38 is separate Korean ecological observation and must not be automatically adopted as a Chinese distribution or host record. Author is Murayama, 1930; later genus transfer awaits Schedl 1972 primary verification."
+        },
+        {
+          "id": "PLT_SR_000227",
+          "source_id": "PLT_SRC_000031",
+          "published_name": "Platypus koryoensis",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Schedl (1972), Monographie der Familie Platypodidae, printed p.219, section 42 Platypi palaeoplicati",
+          "verification": "Source verified",
+          "notes": "PRIMARY p.219 photographed by curator and directly checked 2026-10-26: genus Platypus inferred from section and heading context; name koryoensis Murayama 1930 listed with original combination '(Crossotarsus)' and precise original pages 28–30,31,38. Thus Platypus combination is documented by Schedl 1972, but whether FIRST generic transfer remains unestablished. No synonym or new authorship; no distribution/host accepted. Distinct Schedl 1972d:201 tonkinensis source is EMM 107:199–202, NOT Monographie."
+        },
+        {
+          "id": "PLT_SR_000238",
+          "source_id": "PLT_SRC_000030",
+          "published_name": "Crossotarsus koryoensis",
+          "region_raw": null,
+          "host_raw": "Felled Quercus tree, printed specific epithet provisionally read as aliena (recheck scan); attribution based on old galleries, no insect specimens recovered",
+          "page": "p.38, Notes supplémentaires, item 3 (supplementary note dated 31 May 1930)",
+          "verification": "Source verified",
+          "notes": "PRIMARY text of p.38 user-supplied photograph checked 2026-10-26. This is a HISTORICAL GALLERY-ONLY ecological statement in KOREA, not a taxonomic act and NOT direct beetle-host confirmation. Original French reports tree attacked by fungi and no insects found. Botanical epithet uncertain from compressed scan; likely Quercus aliena but should not be normalized/accepted without clearer print. Link to source and original TNU/SRL as evidence of source-specific statement; no NRE; intentionally no China Synthesis relation and no changes to reviewed Chinese province/host summaries. Source printed page 38 conflicts with common bibliographic citation 11:1–34; retain explicit page."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000020",
+        "PLT_SRC_000005",
+        "PLT_SRC_000009",
+        "PLT_SRC_000032",
+        "PLT_SRC_000030",
+        "PLT_SRC_000031"
+      ]
     },
     {
       "plt": "PLT_000027",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000127",
+          "source_id": "PLT_SRC_000024",
+          "published_name": "Platypus lewisi",
+          "region_raw": "Taiwan; Mainland China",
+          "host_raw": "Chinese/source field: polyphagous",
+          "page": "Submission Source row 120; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 120; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated."
+        },
+        {
+          "id": "PLT_SR_000201",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus lewisi",
+          "region_raw": "Fujian; Guizhou; Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 196; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 196; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000034",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus lewisi",
+          "region_raw": "Taiwan; Mainland China",
+          "host_raw": "Taiwan: none recorded; elsewhere, polyphagous, but with a clear preference for the Fagaceae.",
+          "page": "Submission Source row 27; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 27. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000132",
+          "source_id": "PLT_SRC_000025",
+          "published_name": "Platypus lewisi",
+          "region_raw": "Fujian; Taiwan",
+          "host_raw": "Chinese/source field: polyphagous",
+          "page": "Submission Source row 125; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 125; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated."
+        },
+        {
+          "id": "PLT_SR_000056",
+          "source_id": "PLT_SRC_000009",
+          "published_name": "Platypus lewisi",
+          "region_raw": "Taiwan; Mainland China",
+          "host_raw": "Quercus mongolica var. grosseserrata, Q. acuta, Q. aliena, Q. serrata, Q. gilva, Castanea crenata, Aesculus turbinata, Abies firma, Cryptomeria japonica, Betula grossa, Fagus crenata, Kalopanax septemlobus, K. ricinifolium (Choo and Woo, 1985).",
+          "page": "Submission Source row 49; original page not verified",
+          "verification": "Staged",
+          "notes": "Migrated from submission Source row 49; source identity matched via citation/year; original pages not independently checked. Existing submission Integrated status preserved. SRL crosswalk is not project approval of China occurrence/taxonomic acts."
+        },
+        {
+          "id": "PLT_SR_000270",
+          "source_id": "PLT_SRC_000033",
+          "published_name": "Platypus uncacanthurus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Park 2018 Weevils VI, pp.14–15, Platypus lewisi account",
+          "verification": "Source verified",
+          "notes": "B05 source-specific subsequent catalogue placement directly checked Park (2018) (NIBR Weevils VI) Platypus lewisi account; supports taxonomic synonym usage only. Does NOT directly verify Beeson 1941 p.347 original act nor earliest publication formally synonymizing the names; NRE_000046 remains Pending / Needs primary review. Original name TNU_000089 preserved, no accepted taxonomic merge."
+        },
+        {
+          "id": "PLT_SR_000266",
+          "source_id": "PLT_SRC_000041",
+          "published_name": "Platypus lewisi",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Blandford 1894 original printed pp.133 (key), 134–135 (species sp. n. and diagnosis); continuation after p.135 not seen",
+          "verification": "Source verified",
+          "notes": "PRIMARY verified from user-supplied scans 2026-10-26/27: original Platypus lewisi Blandford, 1894 sp.n. p134 with Latin diagnosis, male/female descriptions on pp.134–135 and five original specimens from Miyanoshita, Kiga, Yuyama (Japan) p135. This verifies original combination/authority/new species, NOT necessarily end of description (p136 not supplied). BHL original https://www.biodiversitylibrary.org/part/13317 . Distinct historical synonym P. uncacanthurus Beeson 1941:347 remains NRE_000046 Pending; no automatic species/host merge."
+        },
+        {
+          "id": "PLT_SR_000271",
+          "source_id": "PLT_SRC_000055",
+          "published_name": "Platypus uncacanthurus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Beeson (1941), original first edition, printed p.347, P. uncacanthurus line (primary image checked)",
+          "verification": "Source verified",
+          "notes": "ORIGINAL p.347 photograph directly verified 2026-10-27: this is primary-verifiable 1941 historical name use Platypus uncacanthurus, body length 6 mm and 'in Quercus lamellosa' association. Name is presented without an explicit sp. nov., taxon-distinguishing description, reference to another differentiating description, or proposed replacement on this page. For names first proposed after 1930, ICZN Article 13.1 requires diagnosis/definition, reference to such, or nomen novum; mere host and size list does not establish this. Check other passages/earlier descriptions before judging nomenclatural availability; possible nomen nudum pending, NOT established. This record's 'Source verified' qualifies the transcription/name usage only, NOT species-group availability or taxonomic synonymy. Separate host claim PLT_SR_000275; Park 2018:14–15 listed under lewisi but earliest synonymizing act unknown. Do not merge with P. lewisi."
+        },
+        {
+          "id": "PLT_SR_000275",
+          "source_id": "PLT_SRC_000055",
+          "published_name": "Platypus uncacanthurus",
+          "region_raw": null,
+          "host_raw": "Quercus lamellosa",
+          "page": "Beeson, 1941. The Ecology and Control of the Forest Insects of India and the Neighbouring Countries, first edition, printed p.347, under PLATYPOD COL.",
+          "verification": "Source verified",
+          "notes": "Primary original-page image provided by curator and directly read 2026-10-27. Association evidence: historical author reports P. uncacanthurus 'in Quercus lamellosa' (plant name verified as accepted Quercus lamellosa Sm. in Kew POWO 2026, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296351-1). No explicit tree attack, rearing, emergence, galleries, experimental study, specimens or country for THIS line. Evidence type = host/wood association as published, uncertainty of method and locality retained. Beetle nomenclatural availability of 1941 name unresolved (ICZN Art 13.1) and synonymization with Platypus lewisi Blandford, 1894 NRE_000046 still Pending, so DO NOT adopt this host as verified for P. lewisi and DO NOT change China Distribution Summary. Original name usage evidence PLT_SR_000271 separately verified. SRL relation denotes provisional taxonomic concept linkage only, not adopted synonymy."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000024",
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000025",
+        "PLT_SRC_000009",
+        "PLT_SRC_000033",
+        "PLT_SRC_000041",
+        "PLT_SRC_000055"
+      ]
     },
     {
       "plt": "PLT_000028",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000035",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus lunatulus",
+          "region_raw": "Taiwan",
+          "host_raw": "Quercus sp. (Fagaceae).",
+          "page": "Submission Source row 28; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 28. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000203",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus lunatulus",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 198; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 198; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000272",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus lunatulus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Plant Protection Bulletin 45(1), pp.82–83, species 28",
+          "verification": "Source verified",
+          "notes": "B05 verified direct later peer-reviewed text Beaver & Shih (2003:82–83). Relationship is disputed SUBJECTIVE SYNONYMY, not homonymy/new combination. Cited underlying Wood unpublished work cannot establish an independently verifiable published taxonomic act. CCPCC2 2023:517 lists P. lunatulus separately. No NRE drafted without a properly related TNU/taxon for P. tayabasi; add conflict to SRL/Synthesis taxonomic notes. Do not use any P. tayabasi host/locality as P. lunatulus evidence."
+        },
+        {
+          "id": "PLT_SR_000268",
+          "source_id": "PLT_SRC_000054",
+          "published_name": "Platypus lunatulus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Browne (1980), Kontyû 48(4):497–498, P. lunatulus sp. nov.; type labels p.498",
+          "verification": "Source verified",
+          "notes": "B05 original primary verified 2026-10-26/27 from user-supplied scans pp.497–498, Browne 1980 IV. Original spelling Platypus lunatulus, explicit sp. nov., male and female diagnostic descriptions; male holotype and 1 male + 1 female paratypes. Holotype from Keelung (Formosa)→Nagoya on Quercus sp. timber, 8.V.1980, N. Shimizu. This supersedes earlier cross-source-only rating. Distinct PLT_SR_000274 records Quercus sp. wood association. Mandokwari/New Guinea type line atop p.497 belongs prior species, DO NOT assign to P. lunatulus. Type label is wood interception, not proof of wild Taiwan population or tree attacked in situ. Conflicting P. tayabasi taxonomic synonymy not settled."
+        },
+        {
+          "id": "PLT_SR_000274",
+          "source_id": "PLT_SRC_000054",
+          "published_name": "Platypus lunatulus",
+          "region_raw": null,
+          "host_raw": "Quercus sp.",
+          "page": "Browne (1980), Kontyû 48(4):498, holotype/paratype label",
+          "verification": "Source verified",
+          "notes": "Primary source p.498 verified from curator image 2026-10-26/27. Evidence type intercepted wood association ('ex Quercus sp.') for Platypus lunatulus specimens, not in situ attacked tree or demonstrated beetle breeding. Host identified only to plant genus Quercus, NO plant species; preserve Quercus sp. as reviewed host-material association with accurate scope. Note p.497 top Mandokwari New Guinea labels belong preceding taxon and are NOT P. lunatulus. Original description in source-specific PLT_SR_000268. Potential taxonomic conflict with P. tayabasi does not license host merging."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000054"
+      ]
     },
     {
       "plt": "PLT_000029",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000204",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus modestus",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 199; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 199; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000036",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus modestus",
+          "region_raw": "Taiwan",
+          "host_raw": "Taiwan: none recorded; elsewhere, polyphagous.",
+          "page": "Submission Source row 29; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 29. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000267",
+          "source_id": "PLT_SRC_000041",
+          "published_name": "Platypus modestus",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Blandford 1894 original printed pp.133–134 (species heading and entire original description)",
+          "verification": "Source verified",
+          "notes": "PRIMARY verified user scans printed pp.133–134, 2026-10-26/27. Original Platypus modestus Blandford, 1894 clearly begins p.133 with sp.n. and diagnostic description, continuation p.134. Four specimens from Nikko and Shimidzu Toge in Japan. Historical Nobuchi (1967) p136 pointer is not correct initial page; source first page resolved as 133. BHL https://www.biodiversitylibrary.org/part/13317 . No botanical host named in supplied original account."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000005",
+        "PLT_SRC_000006",
+        "PLT_SRC_000041"
+      ]
     },
     {
       "plt": "PLT_000030",
-      "source_records": [],
-      "source_ids": []
+      "source_records": [
+        {
+          "id": "PLT_SR_000037",
+          "source_id": "PLT_SRC_000006",
+          "published_name": "Platypus niijimai",
+          "region_raw": "Taiwan",
+          "host_raw": "Psidium guaiacum (Myrtaceae).",
+          "page": "Submission Source row 30; original page not yet checked",
+          "verification": "Staged",
+          "notes": "Migrated verbatim from Literature Submission Source row 30. Publication Source identity verified by matching Source Citation and year; original page/occurrence assertions NOT independently checked. Submission status Integrated remains unchanged; SRL relation is the existing submission crosswalk, not a new accepted occurrence or taxonomic decision."
+        },
+        {
+          "id": "PLT_SR_000205",
+          "source_id": "PLT_SRC_000005",
+          "published_name": "Platypus niijimai",
+          "region_raw": "Taiwan",
+          "host_raw": null,
+          "page": "Submission Source row 200; page not independently checked",
+          "verification": "Staged",
+          "notes": "Source Citation and publication year crosswalk to existing Submission 200; original page-level assertions not yet confirmed. Integrated means ingested only; taxonomy and China occurrence unchanged. Submission review status Integrated. Original Evidence Note: Literature-reported distribution only; no independent occurrence acceptance."
+        },
+        {
+          "id": "PLT_SR_000269",
+          "source_id": "PLT_SRC_000036",
+          "published_name": "Platypus niijimai",
+          "region_raw": null,
+          "host_raw": null,
+          "page": "Murayama 1931 original printed pp.197–198, P. Niijimai heading p.197; locality/host p.198",
+          "verification": "Source verified",
+          "notes": "PRIMARY verified from curator-supplied original page scans 2026-10-26/27, pp.197–198. Original spelling as printed Platypus Niijimai [capitalized species heading], modern combination Platypus niijimai Murayama 1931, original explicitly n.sp. p197. p198 locality Nanto, Formosa/Taiwan, 20 March 1920, Y. Niijima leg.; two specimens, sex unable to be determined confidently. Original host spelling 'Psidium guajacum LINN.' recorded as attacked tree, not to be silently corrected to P. guajava (POWO accepts Psidium guajava L., but exact mapping from original printed guajacum is inferential). Separate host evidence PLT_SR_000273 will hold direct host association; do not add speculative normalized species to Current Host Summary without resolved identity."
+        },
+        {
+          "id": "PLT_SR_000273",
+          "source_id": "PLT_SRC_000036",
+          "published_name": "Platypus Niijimai",
+          "region_raw": null,
+          "host_raw": "Psidium guajacum LINN.",
+          "page": "Murayama 1931, Supplementary notes on the Platypodidae of Formosa III, printed p.198; original description begins p.197",
+          "verification": "Source verified",
+          "notes": "ORIGINAL published attacked-tree record primary verified p.198 in user-supplied scan. Beetle as originally named P. Niijimai Murayama n.sp.; two collected specimens, exact 'Trees attacked.—Psidium guajacum LINN.' Host original spelling preserved. Potential mapping to Psidium guajava L. is plausible and suggested in Beaver & Liu 2013, and P. guajava is an accepted plant in POWO (https://powo.science.kew.org/taxon/600841-1), BUT the original guajacum name is not independently botanically validated as an exact synonym, so normalized host ID/Current Host Summary held Pending nomenclatural interpretation. This is credible DIRECT species-tree-attacked evidence, not an unconfirmed beetle occurrence. Taiwan specimen locality is explicit; do not infer broader geographic range."
+        }
+      ],
+      "source_ids": [
+        "PLT_SRC_000006",
+        "PLT_SRC_000005",
+        "PLT_SRC_000036"
+      ]
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "Source ID": "PLT_SRC_000005",
+      "Citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000006",
+      "Citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000024",
+      "Citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+      "Verification Status": "Primary text checked",
+      "DOI": "10.11646/zootaxa.3646.4.7"
+    },
+    {
+      "Source ID": "PLT_SRC_000020",
+      "Citation": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D. (2023). First record of two ambrosia beetle, Platypus quercivorus (Murayama) and Platypus koryoensis (Murayama)(Coleoptera: Curculionidae, Platypodinae) in Mainland China. Zootaxa, 5284(2), 397-400.",
+      "Verification Status": "Primary text checked",
+      "DOI": "10.11646/zootaxa.5284.2.11"
+    },
+    {
+      "Source ID": "PLT_SRC_000025",
+      "Citation": "Beaver, R. A., & Smith, S. M. (2022). The bark and ambrosia beetles of Bhutan (Coleoptera: Curculionidae: Scolytinae and Platypodinae): a synopsis with three new species of Scolytinae. Zootaxa, 5174(1), 1-24.",
+      "Verification Status": "Bibliography checked",
+      "DOI": "10.11646/zootaxa.5174.1.1"
+    },
+    {
+      "Source ID": "PLT_SRC_000009",
+      "Citation": "Park, S., & Lyu, D. (2007). Checklist of the family Platypodidae (Coleoptera) in Korea. Journal of Asia-Pacific Entomology, 10(3), 275-280.",
+      "Verification Status": "Bibliography checked",
+      "DOI": "10.1016/S1226-8615(08)60363-5"
+    },
+    {
+      "Source ID": "PLT_SRC_000031",
+      "Citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000030",
+      "Citation": "Murayama, J. (1930). Révisions des familles des Ipides et des Platypides de Corée. Journal of the Chosen Natural History Society 11: 1–34.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000032",
+      "Citation": "Wood, S. L. & Bright, D. E. (1992). A catalog of Scolytidae and Platypodidae (Coleoptera), Part 2: Taxonomic Index. Great Basin Naturalist Memoirs 13, volumes A–B: 1–1557.",
+      "Verification Status": "Bibliography checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000033",
+      "Citation": "Park, S. (2018). Insect Fauna of Korea. Volume 12, Number 24. Weevils VI. Arthropoda: Insecta: Coleoptera: Curculionidae: Platypodinae, Scolytinae (Hylesinitae). National Institute of Biological Resources, Incheon, Republic of Korea. ISBN 978-89-6811-314-7.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000036",
+      "Citation": "Murayama, J. (1931). Supplementary notes on the Platypodidae of Formosa III. Journal of the Faculty of Agriculture, Hokkaido Imperial University 30(4): 195–203.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000039",
+      "Citation": "Murayama, J. (1925a). On the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15(4): 197–228. Published 20 June 1925.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000041",
+      "Citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000053",
+      "Citation": "Strohmeyer, H. (1910). Neue Borkenkäfer aus Abessynien, Madagaskar, Indien und Tasmania. Entomologische Blätter, 6: 126–132.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000052",
+      "Citation": "Murayama, J. (1928). Supplementary notes on the Platypodidae of Formosa. II. Journal of the College of Agriculture, Hokkaido Imperial University, 19(5): 283–290, pl. XI.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000051",
+      "Citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. I. Kontyû, 48(3): 370–379.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000055",
+      "Citation": "Beeson, C. F. C. (1941). The Ecology and Control of the Forest Insects of India and the Neighbouring Countries. Author-published; printed by J. Singh at the Vasant Press, Dehra Dun, India. 1007 pp.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000054",
+      "Citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. IV. Kontyû, 48(4): 490–500.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    },
+    {
+      "Source ID": "PLT_SRC_000083",
+      "Citation": "Schedl, K. E. (1960). Zur Synonymie der Borkenkäfer V. Entomologische Blätter, 56: 103–112.",
+      "Verification Status": "Primary text checked",
+      "DOI": null
+    }
+  ],
   "qa": "Source records are an audit snapshot. Staged assertions may not be promoted automatically to accepted distribution/hosts; verify page-specific claims and citation closure."
 }
