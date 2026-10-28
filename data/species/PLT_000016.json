@@ -1,0 +1,108 @@
+{
+  "plt": "PLT_000016",
+  "scientific_name": "Dinoplatypus lepidus",
+  "authorship": "(Chapuis, 1865)",
+  "chinese_name": "纤细黄截尾长小蠹",
+  "genus": "Dinoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "beaverShih2003",
+          "alonso2023"
+        ]
+      }
+    ],
+    "review_status": "Accepted",
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cryptomeria japonica",
+      "reported_from": "Taiwan",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "",
+  "taxonomy_summary": "Original genus Platypus; subsequent combination in Dinoplatypus documented by Wood (1993).",
+  "taxonomic_history": [
+    {
+      "year": "1993",
+      "event": "Documented generic combination",
+      "name": "Dinoplatypus lepidus",
+      "authorship": "(Chapuis, 1865)",
+      "note": "Wood (1993:273, 279) documents this combination; its first appearance is not established.",
+      "reference_ids": [
+        "wood1993"
+      ]
+    },
+    {
+      "year": "1865",
+      "event": "Original description (primary page not directly examined)",
+      "name": "Platypus lepidus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original p.282 remains not directly examined.",
+      "reference_ids": [
+        "chapuis1865"
+      ]
+    }
+  ],
+  "nomenclature_note": "Chapuis (1865:282) original description was not directly examined; Wood (1993:273,279) demonstrates a later Dinoplatypus combination.",
+  "nomenclature_note_reference_ids": [
+    "chapuis1865",
+    "wood1993"
+  ],
+  "references": [
+    {
+      "id": "chapuis1865",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    },
+    {
+      "id": "wood1993",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281.",
+      "doi": "10.5962/bhl.part.16605"
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "chapuis1865",
+    "wood1993"
+  ],
+  "resources": {
+    "images": "No verified image records.",
+    "specimens": "No linked accession.",
+    "molecular": "No verified sequences.",
+    "symbionts": "No verified associations."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
