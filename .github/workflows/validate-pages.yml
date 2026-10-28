@@ -39,11 +39,18 @@ jobs:
             p=json.loads(Path('data/species/'+entry['plt']+'.json').read_text())
             refs={r['id'] for r in p['references']}
             assert all(x in refs for x in p['distribution'].get('reference_ids',[]))
+            regions=p['distribution'].get('claims',[])
+            assert len(regions)==len(set(c['region'] for c in regions))
+            assert all(c.get('reference_ids') for c in regions)
+            assert all(x in refs for c in regions for x in c['reference_ids'])
+            assert p['distribution'].get('review_status')=='Accepted'
+            assert p.get('host_review_status')=='Accepted'
+            assert len(p.get('hosts',[]))==len(set(h['scientific_name'].lower() for h in p.get('hosts',[])))
             assert all(x in refs for h in p['hosts'] for x in h.get('reference_ids',[]))
             assert all(x in refs for h in p['taxonomic_history'] for x in h.get('reference_ids',[]))
             years=[int(x['year']) for x in p['taxonomic_history']]
             assert years==sorted(years,reverse=True)
-          assert pilot['checklist_status']=='Unreviewed' and pilot['china_occurrence']['Mainland China']=='Candidate'
+          assert pilot['checklist_status']=='Unreviewed' and pilot['china_occurrence']['Mainland China']=='Present'
           assert set(pilot['distribution']['reference_ids'])=={'lai2020'}
           refs={r['id'] for r in pilot['references']}
           assert all(id in refs for id in pilot['taxonomy_reference_ids'])
@@ -74,5 +81,5 @@ jobs:
           assert len(about['sections'])>=4
           assert 'VSN' not in json.dumps(about)
           assert 'Existing PLT' in Path('assets/templates/china_platypodinae_public_submission_template.csv').read_text()
-          print('PASS: ten provisional profiles, 000008 excluded, references and chronology verified')
+          print('PASS: 10 published profiles, 000008 excluded, accepted merged distribution/hosts with complete citations, taxonomy separated')
           PY
