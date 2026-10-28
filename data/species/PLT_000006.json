@@ -1,0 +1,281 @@
+{
+  "plt": "PLT_000006",
+  "scientific_name": "Crossotarsus externedentatus",
+  "authorship": "(Fairmaire, 1849)",
+  "chinese_name": "外齿异胫长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Candidate",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Hainan; Hong Kong; Taiwan; Xizang; Yunnan (literature-reported; acceptance pending)",
+    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "beaverShih2003"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Hainan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "yin2001"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Hainan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "a2021"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Hainan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Xizang",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "a2021"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Yunnan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "a2021"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Yunnan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "lai2020"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Yunnan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Hong Kong",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "lau2025"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023",
+      "yin2001",
+      "a2021",
+      "lai2020",
+      "lau2025"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Spondias spp.",
+      "reported_from": "Tahiti (French Polynesia)",
+      "association": "Recorded on squared wood in the original description, not a confirmed living-tree attack.",
+      "evidence_status": "Source verified; foreign wood association",
+      "reference_ids": [
+        "fairmaire1849"
+      ]
+    },
+    {
+      "scientific_name": "Inocarpus spp.",
+      "reported_from": "Tahiti (French Polynesia)",
+      "association": "Recorded on squared wood in the original description, not a confirmed living-tree attack.",
+      "evidence_status": "Source verified; foreign wood association",
+      "reference_ids": [
+        "fairmaire1849"
+      ]
+    },
+    {
+      "scientific_name": "Carica papaya",
+      "reported_from": "Taiwan (literature-reported)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "scientific_name": "Cinnamomum camphora",
+      "reported_from": "Taiwan (literature-reported)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "scientific_name": "Cryptomeria japonica",
+      "reported_from": "Taiwan (literature-reported)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "scientific_name": "Prunus mume",
+      "reported_from": "Taiwan (literature-reported)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "scientific_name": "Hevea brasiliensis",
+      "reported_from": "China (Yunnan; reported rubber-tree context)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "lai2020"
+      ]
+    }
+  ],
+  "host_note": "Fairmaire's original non-Chinese record was from squared Spondias and Inocarpus timber in Tahiti, not proven attacks on healthy trees. The Taiwanese host list is secondary literature; original trapping and wood-association methods must be checked. Rubber-tree reporting does not by itself prove living-tree colonization.",
+  "taxonomy_summary": "Crossotarsus externedentatus (Fairmaire, 1849). Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
+  "taxonomic_history": [
+    {
+      "year": "1849",
+      "event": "Original description — publication-date conflict",
+      "name": "Platypus externedentatus",
+      "authorship": "Fairmaire, 1849 (imprint; date unresolved)",
+      "note": "Original protologue directly inspected on 78 in the 1849-imprint separate; p. 51 in the 1850 journal. Both the 1849-imprint and 1850 journal appearance are verified; effective precedence remains unresolved.",
+      "reference_ids": [
+        "fairmaire1849",
+        "fairmaire1850"
+      ]
+    }
+  ],
+  "nomenclature_note": "Platypus externedentatus appears in an 1849-imprint separate (p. 78) and an 1850 journal issue (p. 51); the date of effective first publication remains unresolved. Multiple names placed under this species in the 2023 Palaearctic catalogue remain Pending as independent taxonomic synonymies. Crossotarsus formosanus is a project-merged but taxonomically contested historical concept.",
+  "nomenclature_note_reference_ids": [
+    "fairmaire1849",
+    "fairmaire1850",
+    "alonso2023"
+  ],
+  "resources": {
+    "images": "No image with confirmed public reuse rights is linked in this release.",
+    "specimens": "Specimen/type evidence is recorded in the cited original descriptions; specimen accessions have not been independently mapped to online repositories.",
+    "molecular": "No verified molecular accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28",
+    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+  },
+  "references": [
+    {
+      "id": "a2021",
+      "label": "A et al. (2021)",
+      "citation": "A, H. C., Lai, S. C., Duan, B., Zhang, L., Liao, S., Zhu, G. Y., Wu, Z. H., Zhang, Y. K., & Wang, J. G. (2021). Pin-hole borer pest occurred in rubber tree in Yunnan Province. Tropical Agricultural Science & Technology, 44(2): 11–17, 27.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "fairmaire1849",
+      "label": "Fairmaire (1849 imprint)",
+      "citation": "Fairmaire, L. (1849 [imprint; effective issuance unverified]). Essai sur les Coléoptères de la Polynésie. Imprimerie de Sapia, Paris, 102 pp., original description p. 78.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "fairmaire1850",
+      "label": "Fairmaire (1850)",
+      "citation": "Fairmaire, L. (1850). Essai sur les Coléoptères de la Polynésie (suite). Revue et Magasin de Zoologie Pure et Appliquée, série 2, 2: 50–64, original description p. 51.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "lai2020",
+      "label": "Lai et al. (2020)",
+      "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ],
+      "doi": "10.1649/0010-065X-74.3.626"
+    },
+    {
+      "id": "lau2025",
+      "label": "Lau (2025)",
+      "citation": "Lau, C. S. K. (2025). Checklist of Insects of Hong Kong, 2nd edition.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "yin2001",
+      "label": "Yin et al. (2001)",
+      "citation": "Yin, H., Huang, F., Zeng, R., & Li, H. (2001). Coleoptera: Platypodidae. In Y. Liang (Ed.), Forest insects of Hainan (pp. 472–473). China Forestry Publishing House.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "fairmaire1849",
+    "fairmaire1850"
+  ],
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

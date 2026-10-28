@@ -1,0 +1,132 @@
+{
+  "plt": "PLT_000007",
+  "scientific_name": "Crossotarsus flavomaculatus",
+  "authorship": "Strohmeyer, 1912",
+  "chinese_name": "黄翅长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (literature-reported; acceptance pending)",
+    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "beaverShih2003"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "zhang2008"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "zhang2008",
+      "alonso2023"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus glauca",
+      "reported_from": "Taiwan (literature-reported)",
+      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
+      "evidence_status": "Literature-reported; host acceptance pending",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    }
+  ],
+  "host_note": "Quercus glauca is a Taiwan checklist host record, not a separately verified specimen-gallery observation; Chinese vernacular host records still require nomenclature checking.",
+  "taxonomy_summary": "Crossotarsus flavomaculatus Strohmeyer, 1912. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
+  "taxonomic_history": [
+    {
+      "year": "1912",
+      "event": "Original description",
+      "name": "Crossotarsus flavomaculatus",
+      "authorship": "Strohmeyer, 1912",
+      "note": "Original protologue directly inspected on 40–41.",
+      "reference_ids": [
+        "strohmeyer1912"
+      ]
+    }
+  ],
+  "nomenclature_note": "The species was originally described in Crossotarsus by Strohmeyer (1912:40–41); no independently validated additional synonym is currently adopted.",
+  "nomenclature_note_reference_ids": [
+    "strohmeyer1912"
+  ],
+  "resources": {
+    "images": "No image with confirmed public reuse rights is linked in this release.",
+    "specimens": "Specimen/type evidence is recorded in the cited original descriptions; specimen accessions have not been independently mapped to online repositories.",
+    "molecular": "No verified molecular accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28",
+    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+  },
+  "references": [
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "strohmeyer1912",
+      "label": "Strohmeyer (1912)",
+      "citation": "Strohmeyer, H. (1912). H. Sauter's Formosa-Ausbeute. Ipidae und Platypodidae (Col.). Entomologische Mitteilungen, 1: 38–42.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ],
+      "doi": "10.5962/bhl.part.25902"
+    },
+    {
+      "id": "zhang2008",
+      "label": "Zhang et al. (2008)",
+      "citation": "Zhang, Y., Du, Y.-Z., Zhu, H.-B., Gu, J., & Zhang, Y.-Z. (2008). Species record of Chinese Crossotarsus. Entomological Journal of East China, 17(3): 205–212.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "strohmeyer1912"
+  ],
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

@@ -1,0 +1,122 @@
+{
+  "plt": "PLT_000010",
+  "scientific_name": "Crossotarsus piceus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "黑异胫长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (literature-reported; acceptance pending)",
+    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "beaverShih2003"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "zhang2008"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "zhang2008",
+      "alonso2023"
+    ]
+  },
+  "hosts": [],
+  "host_note": "Sources in this batch do not identify a verified botanical host for this species.",
+  "taxonomy_summary": "Crossotarsus piceus Chapuis, 1865. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original description",
+      "name": "Crossotarsus piceus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original protologue directly inspected on 56–57.",
+      "reference_ids": [
+        "chapuis1865"
+      ]
+    }
+  ],
+  "nomenclature_note": "Chapuis (1865:56–57) originally described Crossotarsus piceus. The original Moluccas/Aru material must not be presented as Taiwan or mainland China evidence.",
+  "nomenclature_note_reference_ids": [
+    "chapuis1865"
+  ],
+  "resources": {
+    "images": "No image with confirmed public reuse rights is linked in this release.",
+    "specimens": "Specimen/type evidence is recorded in the cited original descriptions; specimen accessions have not been independently mapped to online repositories.",
+    "molecular": "No verified molecular accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28",
+    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+  },
+  "references": [
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "chapuis1865",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ],
+      "doi": "10.5962/bhl.title.9204"
+    },
+    {
+      "id": "zhang2008",
+      "label": "Zhang et al. (2008)",
+      "citation": "Zhang, Y., Du, Y.-Z., Zhu, H.-B., Gu, J., & Zhang, Y.-Z. (2008). Species record of Chinese Crossotarsus. Entomological Journal of East China, 17(3): 205–212.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "chapuis1865"
+  ],
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
