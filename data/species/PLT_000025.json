@@ -1,0 +1,70 @@
+{
+  "plt": "PLT_000025",
+  "scientific_name": "Platypus kiushuensis",
+  "authorship": "Murayama, 1936",
+  "chinese_name": "壳斗长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Published candidate occurrence records remain separate from the current accepted distribution union.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "",
+  "taxonomy_summary": "Platypus kiushuensis Murayama, 1936. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1936",
+      "event": "Original combination (secondary-supported; primary text not directly checked)",
+      "name": "Platypus kiushuensis",
+      "authorship": "Murayama, 1936",
+      "note": "Original account p. 145 (secondary citation); original text not directly examined.",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original description (Murayama, 1936:145) has not been directly examined. Original combination and year follow Beaver & Shih (2003) and Alonso-Zarazaga et al. (2023).",
+  "references": [
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "alonso2023"
+  ],
+  "host_note_reference_ids": []
+}
