@@ -16,7 +16,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan;Hainan;Yunnan",
+    "summary": "Taiwan; Hainan; Yunnan",
     "review_status": "Accepted",
     "narrative": "",
     "claims": [
@@ -24,27 +24,21 @@
         "region": "Taiwan",
         "reference_ids": [
           "beaverShih2003",
-          "alonso2023",
-          "zhang2008",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Hainan",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
           "zhang2008",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Yunnan",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
-          "zhang2008",
-          "lai2020"
+          "lai2020",
+          "alonso2023"
         ]
       }
     ],
@@ -58,22 +52,33 @@
   "hosts": [
     {
       "scientific_name": "Hevea brasiliensis",
+      "reported_from": "Yunnan, China",
       "reference_ids": [
-        "beaverShih2003"
+        "lai2020"
       ],
       "review_status": "Accepted"
     }
   ],
   "host_review_status": "Accepted",
-  "host_note": "",
+  "host_note": "The Chinese rubber-tree association is from Yunnan and does not demonstrate attacks on healthy live trees.",
   "taxonomy_summary": "Crossotarsus wallacei (Thomson, 1857). Source-specific taxonomic history and uncertainties follow.",
   "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Documented subsequent combination",
+      "name": "Crossotarsus wallacei",
+      "authorship": "(Thomson, 1857)",
+      "note": "Chapuis (1865:53–55) listed Thomson's original Platypus wallacei in Crossotarsus; first transfer not independently established.",
+      "reference_ids": [
+        "chapuis1865"
+      ]
+    },
     {
       "year": "1857",
       "event": "Original description",
       "name": "Platypus wallacei",
-      "authorship": "(Thomson, 1857)",
-      "note": "Original Platypus wallacei Thomson 1857:343–344 verified; Chapuis 1865:53–55 documents use in Crossotarsus. Original Borneo type is not China distribution.",
+      "authorship": "Thomson, 1857",
+      "note": "Original pages 343–344 directly checked; later wallaci spelling and 1858 attribution are not original.",
       "reference_ids": [
         "thomson1857"
       ]
@@ -81,6 +86,7 @@
   ],
   "nomenclature_note": "Original Platypus wallacei Thomson 1857:343–344 verified; Chapuis 1865:53–55 documents use in Crossotarsus. Original Borneo type is not China distribution.",
   "nomenclature_note_reference_ids": [
+    "chapuis1865",
     "thomson1857"
   ],
   "references": [
@@ -124,9 +130,15 @@
         "published evidence"
       ],
       "doi": "10.1649/0010-065X-74.3.626"
+    },
+    {
+      "id": "chapuis1865",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
     }
   ],
   "taxonomy_reference_ids": [
+    "chapuis1865",
     "thomson1857"
   ],
   "resources": {

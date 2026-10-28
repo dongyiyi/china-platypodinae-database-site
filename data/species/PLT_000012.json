@@ -36,6 +36,7 @@
   "hosts": [
     {
       "scientific_name": "Quercus glauca",
+      "reported_from": "Japan (Kyushu)",
       "reference_ids": [
         "murayama1925supp"
       ],
@@ -43,6 +44,7 @@
     },
     {
       "scientific_name": "Quercus gilva",
+      "reported_from": "Japan (Kyushu)",
       "reference_ids": [
         "murayama1925supp"
       ],
@@ -50,7 +52,7 @@
     }
   ],
   "host_review_status": "Accepted",
-  "host_note": "Japanese original records of Quercus glauca and Q. gilva are distinguished from Taiwanese occurrence reports.",
+  "host_note": "Murayama (1925:232) reports Quercus hosts from Japan, not Taiwan. Beaver & Shih (2003) noted that the earlier original Taiwan specimen evidence was uncertain.",
   "taxonomy_summary": "Crossotarsus simplex Murayama, 1925. Source-specific taxonomic history and uncertainties follow.",
   "taxonomic_history": [
     {

@@ -22,35 +22,22 @@
   "alonso2023": {
     "id": "alonso2023",
     "label": "Alonso-Zarazaga et al. (2023)",
-    "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ]
+    "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780."
   },
   "beaverShih2003": {
     "id": "beaverShih2003",
     "label": "Beaver & Shih (2003)",
-    "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ]
+    "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
   },
   "blandford1894": {
     "id": "blandford1894",
     "label": "Blandford (1894)",
-    "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ]
+    "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141."
   },
   "chapuis1865": {
     "id": "chapuis1865",
     "label": "Chapuis (1865)",
-    "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ],
-    "doi": "10.5962/bhl.title.9204"
+    "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
   },
   "lau2025": {
     "id": "lau2025",
@@ -79,18 +66,12 @@
   "lai2019": {
     "id": "lai2019",
     "label": "Lai (2019)",
-    "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ]
+    "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University."
   },
   "murayama1934": {
     "id": "murayama1934",
     "label": "Murayama (1934)",
-    "citation": "Murayama, J. (1934). Supplementary notes on the Platypodidae of Formosa IV. Journal of the Faculty of Agriculture, Hokkaido Imperial University, 35(3): 133–149.",
-    "role": [
-      "Taxonomic, distribution or host source"
-    ]
+    "citation": "Murayama, J. (1934). Supplementary notes on the Platypodidae of Formosa IV. Journal of the Faculty of Agriculture, Hokkaido Imperial University, 35(3): 133–149."
   },
   "beaver2016": {
     "id": "beaver2016",
@@ -156,5 +137,70 @@
       "Taxonomic, distribution or host source"
     ],
     "doi": "10.5962/bhl.part.25902"
+  },
+  "murayama1925supp": {
+    "id": "murayama1925supp",
+    "label": "Murayama (1925b)",
+    "citation": "Murayama, J. (1925). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University 15:229–236.",
+    "role": [
+      "published evidence"
+    ]
+  },
+  "thomson1857": {
+    "id": "thomson1857",
+    "label": "Thomson (1857)",
+    "citation": "Thomson, J. (1857). Description de trois espèces de Coléoptères. Archives Entomologiques 1:341–344.",
+    "role": [
+      "published evidence"
+    ]
+  },
+  "murayama1931": {
+    "id": "murayama1931",
+    "label": "Murayama (1931)",
+    "citation": "Murayama, J. (1931). Supplementary notes on the Platypodidae of Formosa III. Journal of the Faculty of Agriculture, Hokkaido Imperial University 30(4):195–203.",
+    "role": [
+      "published evidence"
+    ]
+  },
+  "beaver2013": {
+    "id": "beaver2013",
+    "label": "Beaver (2013)",
+    "citation": "Beaver, R. A. (2013). New synonymy and new records of Oriental pin-hole borers. Entomologist's Monthly Magazine 149:23–27."
+  },
+  "schedl1941": {
+    "id": "schedl1941",
+    "label": "Schedl (1941)",
+    "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. Entomologische Blätter 37:42–44."
+  },
+  "murayama1925on": {
+    "id": "murayama1925on",
+    "label": "Murayama (1925a)",
+    "citation": "Murayama, J. (1925). On the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University 15(4):197–228."
+  },
+  "murayama1956": {
+    "id": "murayama1956",
+    "label": "Murayama (1956)",
+    "citation": "Murayama, J. (1956). Two new species of Platypodidae from the Oriental region. The Coleopterists' Bulletin 10(1):11–15.",
+    "role": [
+      "published evidence"
+    ],
+    "doi": "10.5962/p.372884"
+  },
+  "wood1993": {
+    "id": "wood1993",
+    "label": "Wood (1993)",
+    "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281.",
+    "doi": "10.5962/bhl.part.16605"
+  },
+  "laiHawthorn2019": {
+    "id": "laiHawthorn2019",
+    "label": "Lai et al. (2019)",
+    "citation": "Lai, S., Liao, J., Dai, X., Wang, Y., & Wang, J. (2019). Identification of hawthorn trunk borer (Platypus contaminatus), an important insect pest on hawthorn. Plant Quarantine, 33(1): 48–51."
+  },
+  "beaverLiu2013": {
+    "id": "beaverLiu2013",
+    "label": "Beaver & Liu (2013)",
+    "citation": "Beaver, R. A., & Liu, L.-Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4): 447–486.",
+    "doi": "10.11646/zootaxa.3646.4.7"
   }
 }

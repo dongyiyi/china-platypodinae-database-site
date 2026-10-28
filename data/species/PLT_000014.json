@@ -16,7 +16,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan;Jiangxi;Fujian;Guangdong;Hainan;Yunnan",
+    "summary": "Taiwan; Jiangxi; Fujian; Guangdong; Hainan; Yunnan",
     "review_status": "Accepted",
     "narrative": "",
     "claims": [
@@ -24,54 +24,39 @@
         "region": "Taiwan",
         "reference_ids": [
           "beaverShih2003",
-          "alonso2023",
-          "lai2019",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Jiangxi",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
-          "lai2019",
-          "lai2020"
+          "lai2019"
         ]
       },
       {
         "region": "Fujian",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
           "lai2019",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Guangdong",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
-          "lai2019",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Hainan",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
-          "lai2019",
-          "lai2020"
+          "alonso2023"
         ]
       },
       {
         "region": "Yunnan",
         "reference_ids": [
-          "beaverShih2003",
-          "alonso2023",
-          "lai2019",
-          "lai2020"
+          "lai2020",
+          "alonso2023"
         ]
       }
     ],
@@ -85,6 +70,7 @@
   "hosts": [
     {
       "scientific_name": "Cinnamomum camphora",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -92,6 +78,7 @@
     },
     {
       "scientific_name": "Cinnamomum micranthum",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -99,6 +86,7 @@
     },
     {
       "scientific_name": "Lagerstroemia subcostata",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -106,6 +94,7 @@
     },
     {
       "scientific_name": "Diplospora viridifolia",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -113,6 +102,7 @@
     },
     {
       "scientific_name": "Styrax formosanum",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -120,8 +110,9 @@
     },
     {
       "scientific_name": "Hevea brasiliensis",
+      "reported_from": "Yunnan, China (wood association)",
       "reference_ids": [
-        "beaverShih2003"
+        "lai2020"
       ],
       "review_status": "Accepted"
     }
@@ -131,19 +122,63 @@
   "taxonomy_summary": "Dinoplatypus flectus (Niijima & Murayama, 1931). Source-specific taxonomic history and uncertainties follow.",
   "taxonomic_history": [
     {
+      "year": "2013",
+      "event": "Subjective synonymy",
+      "name": "Platypus triplurus",
+      "authorship": "Browne, 1980",
+      "note": "Beaver (2013:23) synonymized this name under D. flectus.",
+      "reference_ids": [
+        "beaver2013"
+      ]
+    },
+    {
+      "year": "2003",
+      "event": "New generic combination",
+      "name": "Dinoplatypus flectus",
+      "authorship": "(Niijima & Murayama, 1931)",
+      "note": "New combination made by Beaver & Shih (2003:79–80).",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Later unnecessary replacement name",
+      "name": "Platypus murayamaensis",
+      "authorship": "Schedl, 1941",
+      "note": "Replacement published after Murayama 1931 flectus.",
+      "reference_ids": [
+        "schedl1941"
+      ]
+    },
+    {
       "year": "1931",
       "event": "Replacement name",
       "name": "Platypus lepidus flectus",
-      "authorship": "(Niijima & Murayama, 1931)",
-      "note": "Replacement flectus Murayama 1931:197 verified; 1925 formosanus homonymy, unnecessary Schedl 1941 murayamaensis, Beaver & Shih 2003 combination and Beaver 2013 triplurus synonymy verified; uncertain Psidium guaiacum excluded.",
+      "authorship": "Niijima & Murayama, 1931",
+      "note": "Murayama (1931:197) replaced a preoccupied formosanus name.",
       "reference_ids": [
         "murayama1931"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Earlier homonymous subspecific name",
+      "name": "Platypus lepidus formosanus",
+      "authorship": "Niijima & Murayama, 1925",
+      "note": "Original Murayama (1925:214–215) describes the two homonymous species-group names in the same genus.",
+      "reference_ids": [
+        "murayama1925on"
       ]
     }
   ],
   "nomenclature_note": "Replacement flectus Murayama 1931:197 verified; 1925 formosanus homonymy, unnecessary Schedl 1941 murayamaensis, Beaver & Shih 2003 combination and Beaver 2013 triplurus synonymy verified; uncertain Psidium guaiacum excluded.",
   "nomenclature_note_reference_ids": [
-    "murayama1931"
+    "beaver2013",
+    "beaverShih2003",
+    "schedl1941",
+    "murayama1931",
+    "murayama1925on"
   ],
   "references": [
     {
@@ -186,10 +221,29 @@
         "published evidence"
       ],
       "doi": "10.1649/0010-065X-74.3.626"
+    },
+    {
+      "id": "beaver2013",
+      "label": "Beaver (2013)",
+      "citation": "Beaver, R. A. (2013). New synonymy and new records of Oriental pin-hole borers. Entomologist's Monthly Magazine 149:23–27."
+    },
+    {
+      "id": "schedl1941",
+      "label": "Schedl (1941)",
+      "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. Entomologische Blätter 37:42–44."
+    },
+    {
+      "id": "murayama1925on",
+      "label": "Murayama (1925a)",
+      "citation": "Murayama, J. (1925). On the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University 15(4):197–228."
     }
   ],
   "taxonomy_reference_ids": [
-    "murayama1931"
+    "beaver2013",
+    "beaverShih2003",
+    "schedl1941",
+    "murayama1931",
+    "murayama1925on"
   ],
   "resources": {
     "images": "No verified image record linked.",

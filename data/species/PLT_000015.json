@@ -34,6 +34,7 @@
   "hosts": [
     {
       "scientific_name": "Cryptomeria japonica",
+      "reported_from": "Taiwan",
       "reference_ids": [
         "beaverShih2003"
       ],
@@ -45,11 +46,21 @@
   "taxonomy_summary": "Dinoplatypus kusukusensis (Murayama, 1956). Source-specific taxonomic history and uncertainties follow.",
   "taxonomic_history": [
     {
+      "year": "2003",
+      "event": "New generic combination",
+      "name": "Dinoplatypus kusukusensis",
+      "authorship": "(Murayama, 1956)",
+      "note": "Beaver & Shih (2003:80) explicitly proposed this combination.",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
       "year": "1956",
       "event": "Original description",
       "name": "Platypus kusukusensis",
-      "authorship": "(Murayama, 1956)",
-      "note": "Original Platypus kusukusensis Murayama 1956:13 and new combination by Beaver & Shih 2003:80 verified.",
+      "authorship": "Murayama, 1956",
+      "note": "Murayama (1956:13) directly verified.",
       "reference_ids": [
         "murayama1956"
       ]
@@ -57,6 +68,7 @@
   ],
   "nomenclature_note": "Original Platypus kusukusensis Murayama 1956:13 and new combination by Beaver & Shih 2003:80 verified.",
   "nomenclature_note_reference_ids": [
+    "beaverShih2003",
     "murayama1956"
   ],
   "references": [
@@ -79,6 +91,7 @@
     }
   ],
   "taxonomy_reference_ids": [
+    "beaverShih2003",
     "murayama1956"
   ],
   "resources": {
