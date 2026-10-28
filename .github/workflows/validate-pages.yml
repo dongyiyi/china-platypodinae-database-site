@@ -28,13 +28,29 @@ jobs:
           about=json.loads(Path('data/about.json').read_text())
           meta=json.loads(Path('data/site-meta.json').read_text())
           assert [meta['provisional_species_count'],meta['provisional_genera_count'],meta['provisional_tribes_count']]==[74,9,3]
-          assert meta['published_profile_count']==0 and meta['profile_data_release_approved'] is False
+          assert meta['published_profile_count']==1 and meta['profile_data_release_approved'] is False
+          assert meta['pilot_profile_id']=='PLT_000062'
+          pilot=json.loads(Path('data/species/PLT_000062.json').read_text())
+          index=json.loads(Path('data/taxa.json').read_text())
+          assert [r['plt'] for r in index]==['PLT_000062'] and pilot['plt']=='PLT_000062'
+          assert pilot['checklist_status']=='Unreviewed' and pilot['china_occurrence']['Mainland China']=='Candidate'
+          assert set(pilot['distribution']['reference_ids'])=={'lai2020'}
+          refs={r['id'] for r in pilot['references']}
+          assert all(id in refs for id in pilot['taxonomy_reference_ids'])
+          assert all(id in refs for h in pilot['hosts'] for id in h['reference_ids'])
+          assert [int(x['year']) for x in pilot['taxonomic_history']]==sorted([int(x['year']) for x in pilot['taxonomic_history']],reverse=True)
           assert all('#/'+r in html for r in ['browse','data','methods','contribute','cite','about'])
           assert all("'/"+r+"'" in js for r in ['data','methods','contribute','cite','about'])
           assert 'All subfamilies' in html and 'Explore Scolytinae' in html
           assert 'assets/platypodinae.js?v=20261027-2' in html
           assert 'href="assets/site.css?v=20261027-1"' in html
-          assert not list(Path('.').glob('taxa/PLT_*/index.html'))
+          assert [p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html')]==['PLT_000062']
+          page=Path('taxa/PLT_000062/index.html').read_text()
+          assert page.count('href="#ref-lai2020"')>=3 and page.count('href="#ref-browne1972"')>=3
+          assert page.index('2020 · Subsequent published usage') < page.index('1972 · Original description')
+          assert 'China checklist occurrence under review' in page and 'PLT_000062' in page
+          assert all('id="ref-'+r+'"' in page for r in refs)
+          assert 'data/taxa.json' not in html or 'PLT_000062' in html
           files=['assets/contribute-page.js','assets/cite-page.js','assets/methods-page.js']
           for p in files:
             data=Path(p).read_text()
@@ -45,5 +61,5 @@ jobs:
           assert len(about['sections'])>=4
           assert 'VSN' not in json.dumps(about)
           assert 'Existing PLT' in Path('assets/templates/china_platypodinae_public_submission_template.csv').read_text()
-          print('PASS: five page nav, provisional counts, scoped identifiers and withheld PLT profiles')
+          print('PASS: provisional 74 taxa, exactly one public PLT_000062 pilot, candidate retained, citations & chronological history')
           PY
