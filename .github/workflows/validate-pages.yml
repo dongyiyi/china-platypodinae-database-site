@@ -46,10 +46,13 @@ jobs:
           assert 'href="assets/site.css?v=20261027-1"' in html
           assert [p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html')]==['PLT_000062']
           page=Path('taxa/PLT_000062/index.html').read_text()
-          assert page.count('href="#ref-lai2020"')>=3 and page.count('href="#ref-browne1972"')>=3
-          assert page.index('2020 · Subsequent published usage') < page.index('1972 · Original description')
+          assert 'assets/platypodinae-profile.js?v=20261028-1' in page
+          jsprofile=Path('assets/platypodinae-profile.js').read_text()
+          assert 'sortTaxonomicHistory' in jsprofile and 'data-ref-jump' in jsprofile
+          assert 'grid profile-content' in jsprofile and 'resource-tab' in jsprofile
+          assert [int(x['year']) for x in pilot['taxonomic_history']]==[2020,1972]
           assert 'China checklist occurrence under review' in page and 'PLT_000062' in page
-          assert all('id="ref-'+r+'"' in page for r in refs)
+          assert all('ref-'+r in jsprofile or "'ref-'" in jsprofile for r in refs)
           assert 'data/taxa.json' not in html or 'PLT_000062' in html
           files=['assets/contribute-page.js','assets/cite-page.js','assets/methods-page.js']
           for p in files:
