@@ -8,50 +8,40 @@
   "tribe": "Tesserocerini",
   "checklist_status": "Unreviewed",
   "review_status": "Not started",
-  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "publication_status": "Published profile — taxonomy notes independently maintained",
   "china_occurrence": {
-    "Mainland China": "Candidate",
-    "Taiwan": "Candidate",
+    "Mainland China": "Present",
+    "Taiwan": "Present",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Jiangxi; Taiwan (literature-reported; acceptance pending)",
-    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "summary": "Taiwan; Jiangxi",
+    "narrative": "",
     "claims": [
       {
         "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "beaverShih2003"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "beaverShih2003",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       },
       {
         "region": "Jiangxi",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
           "lai2019"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       }
     ],
     "reference_ids": [
       "beaverShih2003",
       "alonso2023",
       "lai2019"
-    ]
+    ],
+    "review_status": "Accepted"
   },
   "hosts": [],
-  "host_note": "The Jiangxi submission lists plants under Chinese vernacular and family-level terms (e.g., 青冈, 栲树, 枫香, 肉桂). Botanical identification, collection methods and source page must be reconciled before publishing species-level host names. Generic polyphagy does not establish a host.",
+  "host_note": "Some Jiangxi reports use Chinese vernacular plant names without verified species-level botanical identification; these are not assigned Latin binomials.",
   "taxonomy_summary": "Diapus truncatus Niijima & Murayama, 1934. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
   "taxonomic_history": [
     {
@@ -88,7 +78,7 @@
   },
   "provenance": {
     "last_reviewed": "2026-10-28",
-    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+    "scope": "Distribution and host entries are consolidated and accepted for website presentation; specific unresolved nomenclatural and biological qualifications remain separately annotated."
   },
   "references": [
     {
@@ -137,5 +127,6 @@
     "murayama1934"
   ],
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_review_status": "Accepted"
 }
