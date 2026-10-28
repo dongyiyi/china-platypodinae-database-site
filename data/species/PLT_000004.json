@@ -29,23 +29,21 @@
       {
         "region": "Jiangxi",
         "reference_ids": [
-          "lai2019",
-          "beaver2016"
+          "lai2019"
         ]
       }
     ],
     "reference_ids": [
       "beaverShih2003",
       "alonso2023",
-      "lai2019",
-      "beaver2016"
+      "lai2019"
     ],
     "review_status": "Accepted"
   },
   "hosts": [
     {
       "scientific_name": "Lithocarpus cuspidatus",
-      "reported_from": "Taiwan (source prints Lithocarpus cuspidata; botanical spelling needs review); Taiwan (source prints Lithocarpus cuspidata; botanical spelling needs review)",
+      "reported_from": "Taiwan (source prints Lithocarpus cuspidata; botanical spelling needs review)",
       "reference_ids": [
         "zhang2008"
       ],
@@ -93,7 +91,7 @@
     {
       "id": "alonso2023",
       "label": "Alonso-Zarazaga et al. (2023)",
-      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -101,7 +99,7 @@
     {
       "id": "beaver2016",
       "label": "Beaver (2016)",
-      "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey, 35: 487–504.",
+      "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey 35: 487–504.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -109,7 +107,7 @@
     {
       "id": "beaverShih2003",
       "label": "Beaver & Shih (2003)",
-      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -117,7 +115,7 @@
     {
       "id": "lai2019",
       "label": "Lai (2019)",
-      "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University.",
+      "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics [Master's thesis, Jiangxi Agricultural University].",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -125,7 +123,7 @@
     {
       "id": "strohmeyer1913",
       "label": "Strohmeyer (1913)",
-      "citation": "Strohmeyer, H. (1913). Neue Platypodiden. Entomologische Blätter, 9: 161–165.",
+      "citation": "Strohmeyer, H. (1913). Neue Platypodiden. Entomologische Blätter 9: 161–165.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -133,7 +131,7 @@
     {
       "id": "zhang2008",
       "label": "Zhang et al. (2008)",
-      "citation": "Zhang, Y., Du, Y.-Z., Zhu, H.-B., Gu, J., & Zhang, Y.-Z. (2008). Species record of Chinese Crossotarsus. Entomological Journal of East China, 17(3): 205–212.",
+      "citation": "Zhang, Y., Du, Y.-Z., Zhu, H.-B., Gu, J., & Zhang, Y.-Z. (2008). Species record of Chinese Crossotarsus. Entomological Journal of East China, 17(3), 205–212.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -144,5 +142,8 @@
   ],
   "recommended_chinese_name": "",
   "former_chinese_names": [],
-  "host_review_status": "Accepted"
+  "host_review_status": "Accepted",
+  "host_note_reference_ids": [
+    "zhang2008"
+  ]
 }

@@ -97,7 +97,7 @@
     {
       "id": "alonso2023",
       "label": "Alonso-Zarazaga et al. (2023)",
-      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -105,7 +105,7 @@
     {
       "id": "beaverShih2003",
       "label": "Beaver & Shih (2003)",
-      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -122,7 +122,7 @@
     {
       "id": "lau2025",
       "label": "Lau (2025)",
-      "citation": "Lau, C. S. K. (2025). Checklist of Insects of Hong Kong, 2nd edition.",
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition.",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -130,7 +130,7 @@
     {
       "id": "schedl1972",
       "label": "Schedl (1972)",
-      "citation": "Schedl, K. E. (1972). Some new Scolytidae and Platypodidae (Col.) of the British Museum (Natural History). The Entomologist's Monthly Magazine, 107: 199–202.",
+      "citation": "Schedl, K. E. (1972). Some new Scolytidae and Platypodidae (Col.) of the British Museum (Natural History). The Entomologist's Monthly Magazine 107: 199–202. [277th contribution to the morphology and taxonomy of the Scolytoidea].",
       "role": [
         "Taxonomic, distribution or host source"
       ]
@@ -142,5 +142,8 @@
   ],
   "recommended_chinese_name": "",
   "former_chinese_names": [],
-  "host_review_status": "Accepted"
+  "host_review_status": "Accepted",
+  "host_note_reference_ids": [
+    "beaverShih2003"
+  ]
 }
