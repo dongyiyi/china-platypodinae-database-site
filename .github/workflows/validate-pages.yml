@@ -28,11 +28,21 @@ jobs:
           about=json.loads(Path('data/about.json').read_text())
           meta=json.loads(Path('data/site-meta.json').read_text())
           assert [meta['provisional_species_count'],meta['provisional_genera_count'],meta['provisional_tribes_count']]==[74,9,3]
-          assert meta['published_profile_count']==1 and meta['profile_data_release_approved'] is False
+          assert meta['published_profile_count']==10 and meta['profile_data_release_approved'] is False
           assert meta['pilot_profile_id']=='PLT_000062'
           pilot=json.loads(Path('data/species/PLT_000062.json').read_text())
           index=json.loads(Path('data/taxa.json').read_text())
-          assert [r['plt'] for r in index]==['PLT_000062'] and pilot['plt']=='PLT_000062'
+          assert [r['plt'] for r in index]==sorted([r['plt'] for r in index])
+          assert set(r['plt'] for r in index)==set('PLT_'+str(i).zfill(6) for i in [1,2,3,4,5,6,7,9,10,62]) and pilot['plt']=='PLT_000062'
+          assert all(json.loads(Path('data/species/'+r['plt']+'.json').read_text())['checklist_status']=='Unreviewed' for r in index)
+          for entry in index:
+            p=json.loads(Path('data/species/'+entry['plt']+'.json').read_text())
+            refs={r['id'] for r in p['references']}
+            assert all(x in refs for x in p['distribution'].get('reference_ids',[]))
+            assert all(x in refs for h in p['hosts'] for x in h.get('reference_ids',[]))
+            assert all(x in refs for h in p['taxonomic_history'] for x in h.get('reference_ids',[]))
+            years=[int(x['year']) for x in p['taxonomic_history']]
+            assert years==sorted(years,reverse=True)
           assert pilot['checklist_status']=='Unreviewed' and pilot['china_occurrence']['Mainland China']=='Candidate'
           assert set(pilot['distribution']['reference_ids'])=={'lai2020'}
           refs={r['id'] for r in pilot['references']}
@@ -44,11 +54,11 @@ jobs:
           assert 'All subfamilies' in html and 'Explore Scolytinae' in html
           assert 'assets/platypodinae.js?v=20261027-2' in html
           assert 'href="assets/site.css?v=20261027-1"' in html
-          assert [p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html')]==['PLT_000062']
+          assert set(p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html'))==set(r['plt'] for r in index)
           page=Path('taxa/PLT_000062/index.html').read_text()
           assert 'assets/platypodinae-profile.js?v=20261028-1' in page
           jsprofile=Path('assets/platypodinae-profile.js').read_text()
-          assert 'sortTaxonomicHistory' in jsprofile and 'data-ref-jump' in jsprofile
+          assert 'sortTaxonomicHistory' in jsprofile and 'data-ref-jump' in jsprofile and 'host-ref-placeholder' in jsprofile and 'claim-ref-placeholder' in jsprofile
           assert 'grid profile-content' in jsprofile and 'resource-tab' in jsprofile
           assert [int(x['year']) for x in pilot['taxonomic_history']]==[2020,1972]
           assert 'PLT_000062' in page and 'id="app"' in page
@@ -64,5 +74,5 @@ jobs:
           assert len(about['sections'])>=4
           assert 'VSN' not in json.dumps(about)
           assert 'Existing PLT' in Path('assets/templates/china_platypodinae_public_submission_template.csv').read_text()
-          print('PASS: provisional 74 taxa, exactly one public PLT_000062 pilot, candidate retained, citations & chronological history')
+          print('PASS: ten provisional profiles, 000008 excluded, references and chronology verified')
           PY
