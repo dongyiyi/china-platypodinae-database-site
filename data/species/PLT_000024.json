@@ -1,0 +1,70 @@
+{
+  "plt": "PLT_000024",
+  "scientific_name": "Platypus indicus",
+  "authorship": "Strohmeyer, 1910",
+  "chinese_name": "印度长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Published candidate occurrence records remain separate from the current accepted distribution union.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "",
+  "taxonomy_summary": "Platypus indicus Strohmeyer, 1910. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1910",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus indicus",
+      "authorship": "Strohmeyer, 1910",
+      "note": "Original account pp. 131–132; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000053"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original specimens came from the Nilgiri Hills in India; no Chinese occurrence or botanical host can be inferred from Strohmeyer (1910:131–132). Synonymy involving Platypus formosanus remains disputed.",
+  "references": [
+    {
+      "id": "pltSrc000053",
+      "label": "Strohmeyer (1910)",
+      "citation": "Strohmeyer, H. (1910). Neue Borkenkäfer aus Abessynien, Madagaskar, Indien und Tasmania. Entomologische Blätter, 6: 126–132."
+    },
+    {
+      "id": "beaver2013",
+      "label": "Beaver (2013)",
+      "citation": "Beaver, R. A. (2013). New synonymy and new records of Oriental pin-hole borers. Entomologist's Monthly Magazine 149:23–27."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000053"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000053",
+    "beaver2013"
+  ],
+  "host_note_reference_ids": []
+}
