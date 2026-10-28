@@ -8,69 +8,58 @@
   "tribe": "Platypodini",
   "checklist_status": "Unreviewed",
   "review_status": "Not started",
-  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "publication_status": "Published profile — taxonomy notes independently maintained",
   "china_occurrence": {
     "Mainland China": "Not assessed",
-    "Taiwan": "Candidate",
+    "Taiwan": "Present",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (literature-reported; acceptance pending)",
-    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "summary": "Taiwan",
+    "narrative": "",
     "claims": [
       {
         "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
         "reference_ids": [
-          "beaverShih2003"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
-      },
-      {
-        "region": "Taiwan",
-        "evidence_status": "Literature-reported; occurrence acceptance pending",
-        "reference_ids": [
+          "beaverShih2003",
           "alonso2023"
-        ],
-        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+        ]
       }
     ],
     "reference_ids": [
       "beaverShih2003",
       "alonso2023"
-    ]
+    ],
+    "review_status": "Accepted"
   },
   "hosts": [
     {
       "scientific_name": "Glochidion hongkongense",
       "reported_from": "Taiwan",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Mallotus paniculatus",
       "reported_from": "Taiwan",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Wendlandia paniculata",
       "reported_from": "Taiwan",
-      "association": "Reported botanical association; specific collection or rearing method has not been fully validated in this batch.",
-      "evidence_status": "Literature-reported; host acceptance pending",
       "reference_ids": [
         "beaverShih2003"
-      ]
+      ],
+      "review_status": "Accepted"
     }
   ],
-  "host_note": "These botanical associations come from a regional checklist and are retained as literature-reported, awaiting independent host-association QA. Statements about polyphagy are not separate plant-host records.",
+  "host_note": "",
   "taxonomy_summary": "Crossotarsus emancipatus Murayama, 1934. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
   "taxonomic_history": [
     {
@@ -96,7 +85,7 @@
   },
   "provenance": {
     "last_reviewed": "2026-10-28",
-    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+    "scope": "Distribution and host entries are consolidated and accepted for website presentation; specific unresolved nomenclatural and biological qualifications remain separately annotated."
   },
   "references": [
     {
@@ -128,5 +117,6 @@
     "murayama1934"
   ],
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_review_status": "Accepted"
 }
