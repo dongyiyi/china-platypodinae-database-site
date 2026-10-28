@@ -8,19 +8,28 @@
   "tribe": "Platypodini",
   "checklist_status": "Unreviewed",
   "review_status": "In review",
-  "publication_status": "Public pilot — under review",
+  "publication_status": "Published profile — taxonomy independently reviewed",
   "china_occurrence": {
-    "Mainland China": "Candidate",
+    "Mainland China": "Present",
     "Taiwan": "Not assessed",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan (literature-reported; checklist acceptance pending)",
-    "narrative": "Lai et al. (2020) reported six specimens from Xishuangbanna, Yunnan: five recovered from dissected rubber-tree logs and one captured in an ethanol-baited trap. The published record supports a Yunnan occurrence, but the checklist assessment remains under review.",
+    "summary": "Yunnan",
+    "narrative": "Six specimens were reported from Xishuangbanna: five recovered from rubber-tree logs and one from an ethanol trap.",
     "evidence": "Xishuangbanna, Yunnan; five specimens from logs and one ethanol-trap specimen (Lai et al., 2020, Table 1, p. 628).",
     "reference_ids": [
       "lai2020"
+    ],
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "lai2020"
+        ]
+      }
     ]
   },
   "original_type_locality": {
@@ -37,7 +46,8 @@
       "association": "Type series recorded ex Afzelia xylocarpa; original 1972 source.",
       "reference_ids": [
         "browne1972"
-      ]
+      ],
+      "review_status": "Accepted"
     },
     {
       "scientific_name": "Hevea brasiliensis",
@@ -45,10 +55,11 @@
       "association": "Five adults recovered from dissected rubber-tree logs; this does not establish attack on healthy standing trees.",
       "reference_ids": [
         "lai2020"
-      ]
+      ],
+      "review_status": "Accepted"
     }
   ],
-  "host_note": "Host and wood-substrate evidence are shown with their original country and method. The ethanol-trapped specimen is not assigned a host plant; the five rubber-log specimens do not establish colonization of healthy living rubber trees.",
+  "host_note": "The five Chinese specimens dissected from rubber-tree logs do not establish attack on healthy standing trees; the ethanol-trapped specimen is not a plant-host record.",
   "taxonomy_summary": "Platypus afzeliae Browne, 1972 retains the original generic combination. The 1972 protologue has been directly examined; the 2020 Chinese report uses the same scientific name.",
   "taxonomic_history": [
     {
@@ -108,5 +119,9 @@
     "lai2020"
   ],
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_review_status": "Accepted",
+  "provenance": {
+    "last_reviewed": "2026-10-28"
+  }
 }
