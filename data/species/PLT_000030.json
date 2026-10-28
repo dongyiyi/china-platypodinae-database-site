@@ -1,0 +1,75 @@
+{
+  "plt": "PLT_000030",
+  "scientific_name": "Platypus niijimai",
+  "authorship": "Murayama, 1931",
+  "chinese_name": "番石榴长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "narrative": "",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "pltSrc000036"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000036"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Murayama (1931:198) wrote Psidium guajacum, but botanical normalization is unresolved.",
+  "taxonomy_summary": "Platypus niijimai Murayama, 1931. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1931",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus niijimai",
+      "authorship": "Murayama, 1931",
+      "note": "Original account pp. 197–198; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000036"
+      ]
+    }
+  ],
+  "nomenclature_note": "Murayama (1931:198) reported an attacked tree under the printed name Psidium guajacum. Its relationship to a currently accepted botanical name is unresolved; the historical original host spelling is retained.",
+  "references": [
+    {
+      "id": "pltSrc000036",
+      "label": "Murayama (1931)",
+      "citation": "Murayama, J. (1931). Supplementary notes on the Platypodidae of Formosa III. Journal of the Faculty of Agriculture, Hokkaido Imperial University 30(4): 195–203."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000036"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000036"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000036"
+  ]
+}
