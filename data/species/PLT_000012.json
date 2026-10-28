@@ -52,7 +52,7 @@
     }
   ],
   "host_review_status": "Accepted",
-  "host_note": "Murayama (1925:232) reports Quercus hosts from Japan, not Taiwan. Beaver & Shih (2003) noted that the earlier original Taiwan specimen evidence was uncertain.",
+  "host_note": "Murayama (1925b:232) reported Quercus glauca and Q. gilva from Japan, not Taiwan. Beaver & Shih (2003) noted that original Taiwan specimen documentation was uncertain.",
   "taxonomy_summary": "Crossotarsus simplex Murayama, 1925. Source-specific taxonomic history and uncertainties follow.",
   "taxonomic_history": [
     {
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "nomenclature_note": "Original 1925:231–232 checked. Taiwan checklist notes no actual original Taiwan specimens located; Japanese host observations are direct original evidence.",
+  "nomenclature_note": "The original description was verified in Murayama (1925b:231–232). Beaver & Shih (2003) questioned the earlier Taiwan specimen documentation.",
   "nomenclature_note_reference_ids": [
     "murayama1925supp"
   ],
@@ -74,7 +74,7 @@
     {
       "id": "murayama1925supp",
       "label": "Murayama (1925b)",
-      "citation": "Murayama, J. (1925). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University 15:229–236.",
+      "citation": "Murayama, J. (1925b). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15: 229–236.",
       "role": [
         "published evidence"
       ]
