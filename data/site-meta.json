@@ -2,13 +2,14 @@
   "schema_version": 1,
   "subfamily": "Platypodinae",
   "provisional_species_count": 74,
-  "publication_state": "provisional",
-  "published_profile_count": 0,
+  "publication_state": "single-species public layout pilot; working checklist still provisional",
+  "published_profile_count": 1,
   "id_namespace": "PLT",
   "future_index_path": "data/taxa.json",
   "future_taxon_path_pattern": "taxa/PLT_000001/",
   "profile_data_release_approved": false,
   "provisional_genera_count": 9,
   "provisional_tribes_count": 3,
-  "counts_status": "provisional; working checklist estimates, not validated public profiles"
+  "counts_status": "provisional; working checklist estimates, not validated public profiles",
+  "pilot_profile_id": "PLT_000062"
 }
