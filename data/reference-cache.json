@@ -13,12 +13,148 @@
   "lai2020": {
     "id": "lai2020",
     "label": "Lai et al. (2020)",
-    "role": [
-      "China distribution",
-      "host/substrate",
-      "subsequent usage"
-    ],
     "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ],
     "doi": "10.1649/0010-065X-74.3.626"
+  },
+  "alonso2023": {
+    "id": "alonso2023",
+    "label": "Alonso-Zarazaga et al. (2023)",
+    "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "beaverShih2003": {
+    "id": "beaverShih2003",
+    "label": "Beaver & Shih (2003)",
+    "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "blandford1894": {
+    "id": "blandford1894",
+    "label": "Blandford (1894)",
+    "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "chapuis1865": {
+    "id": "chapuis1865",
+    "label": "Chapuis (1865)",
+    "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ],
+    "doi": "10.5962/bhl.title.9204"
+  },
+  "lau2025": {
+    "id": "lau2025",
+    "label": "Lau (2025)",
+    "citation": "Lau, C. S. K. (2025). Checklist of Insects of Hong Kong, 2nd edition.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "schedl1972": {
+    "id": "schedl1972",
+    "label": "Schedl (1972)",
+    "citation": "Schedl, K. E. (1972). Some new Scolytidae and Platypodidae (Col.) of the British Museum (Natural History). The Entomologist's Monthly Magazine, 107: 199–202.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "beaver2000": {
+    "id": "beaver2000",
+    "label": "Beaver (2000)",
+    "citation": "Beaver, R. A. (2000). Studies on the genus Diapus Chapuis (Coleoptera: Platypodidae): new species and new synonymy. Serangga, 5(2): 247–260.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "lai2019": {
+    "id": "lai2019",
+    "label": "Lai (2019)",
+    "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "murayama1934": {
+    "id": "murayama1934",
+    "label": "Murayama (1934)",
+    "citation": "Murayama, J. (1934). Supplementary notes on the Platypodidae of Formosa IV. Journal of the Faculty of Agriculture, Hokkaido Imperial University, 35(3): 133–149.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "beaver2016": {
+    "id": "beaver2016",
+    "label": "Beaver (2016)",
+    "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey, 35: 487–504.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "strohmeyer1913": {
+    "id": "strohmeyer1913",
+    "label": "Strohmeyer (1913)",
+    "citation": "Strohmeyer, H. (1913). Neue Platypodiden. Entomologische Blätter, 9: 161–165.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "zhang2008": {
+    "id": "zhang2008",
+    "label": "Zhang et al. (2008)",
+    "citation": "Zhang, Y., Du, Y.-Z., Zhu, H.-B., Gu, J., & Zhang, Y.-Z. (2008). Species record of Chinese Crossotarsus. Entomological Journal of East China, 17(3): 205–212.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "a2021": {
+    "id": "a2021",
+    "label": "A et al. (2021)",
+    "citation": "A, H. C., Lai, S. C., Duan, B., Zhang, L., Liao, S., Zhu, G. Y., Wu, Z. H., Zhang, Y. K., & Wang, J. G. (2021). Pin-hole borer pest occurred in rubber tree in Yunnan Province. Tropical Agricultural Science & Technology, 44(2): 11–17, 27.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "fairmaire1849": {
+    "id": "fairmaire1849",
+    "label": "Fairmaire (1849 imprint)",
+    "citation": "Fairmaire, L. (1849 [imprint; effective issuance unverified]). Essai sur les Coléoptères de la Polynésie. Imprimerie de Sapia, Paris, 102 pp., original description p. 78.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "fairmaire1850": {
+    "id": "fairmaire1850",
+    "label": "Fairmaire (1850)",
+    "citation": "Fairmaire, L. (1850). Essai sur les Coléoptères de la Polynésie (suite). Revue et Magasin de Zoologie Pure et Appliquée, série 2, 2: 50–64, original description p. 51.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "yin2001": {
+    "id": "yin2001",
+    "label": "Yin et al. (2001)",
+    "citation": "Yin, H., Huang, F., Zeng, R., & Li, H. (2001). Coleoptera: Platypodidae. In Y. Liang (Ed.), Forest insects of Hainan (pp. 472–473). China Forestry Publishing House.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ]
+  },
+  "strohmeyer1912": {
+    "id": "strohmeyer1912",
+    "label": "Strohmeyer (1912)",
+    "citation": "Strohmeyer, H. (1912). H. Sauter's Formosa-Ausbeute. Ipidae und Platypodidae (Col.). Entomologische Mitteilungen, 1: 38–42.",
+    "role": [
+      "Taxonomic, distribution or host source"
+    ],
+    "doi": "10.5962/bhl.part.25902"
   }
 }
