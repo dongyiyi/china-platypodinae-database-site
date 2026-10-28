@@ -1,0 +1,141 @@
+{
+  "plt": "PLT_000003",
+  "scientific_name": "Diapus truncatus",
+  "authorship": "Niijima & Murayama, 1934",
+  "chinese_name": "截尾离足长小蠹",
+  "genus": "Diapus",
+  "subfamily": "Platypodinae",
+  "tribe": "Tesserocerini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "publication_status": "Provisional public profile — occurrence and hosts under review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Jiangxi; Taiwan (literature-reported; acceptance pending)",
+    "narrative": "The source-specific regions listed below are provisional literature reports. No final accepted regional distribution synthesis has been approved.",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "beaverShih2003"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Taiwan",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "alonso2023"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      },
+      {
+        "region": "Jiangxi",
+        "evidence_status": "Literature-reported; occurrence acceptance pending",
+        "reference_ids": [
+          "lai2019"
+        ],
+        "note": "Original country/region assertion retained from the cited publication or regional catalogue; independent specimen-level acceptance not yet completed."
+      }
+    ],
+    "reference_ids": [
+      "beaverShih2003",
+      "alonso2023",
+      "lai2019"
+    ]
+  },
+  "hosts": [],
+  "host_note": "The Jiangxi submission lists plants under Chinese vernacular and family-level terms (e.g., 青冈, 栲树, 枫香, 肉桂). Botanical identification, collection methods and source page must be reconciled before publishing species-level host names. Generic polyphagy does not establish a host.",
+  "taxonomy_summary": "Diapus truncatus Niijima & Murayama, 1934. Original description and historical taxonomic treatments are displayed with claim-specific source verification; provisional distribution and host assertions remain separate from nomenclatural decisions.",
+  "taxonomic_history": [
+    {
+      "year": "2000",
+      "event": "Subjective taxonomic synonymy",
+      "name": "Diapus spatulifer",
+      "authorship": "Browne, 1977",
+      "note": "Beaver (2000) treated this name as a subjective junior synonym of D. truncatus, following direct type comparisons.",
+      "reference_ids": [
+        "beaver2000"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Original description",
+      "name": "Diapus truncatus",
+      "authorship": "Niijima & Murayama, 1934",
+      "note": "Original protologue directly inspected on 143–145.",
+      "reference_ids": [
+        "murayama1934"
+      ]
+    }
+  ],
+  "nomenclature_note": "Diapus spatulifer Browne, 1977 was treated as a subjective junior synonym in Beaver (2000); the source-specific synonymy was directly reviewed. Chinese host submissions remain separate from this taxonomic decision.",
+  "nomenclature_note_reference_ids": [
+    "murayama1934",
+    "beaver2000"
+  ],
+  "resources": {
+    "images": "No image with confirmed public reuse rights is linked in this release.",
+    "specimens": "Specimen/type evidence is recorded in the cited original descriptions; specimen accessions have not been independently mapped to online repositories.",
+    "molecular": "No verified molecular accession linked.",
+    "symbionts": "No verified symbiont record linked."
+  },
+  "provenance": {
+    "last_reviewed": "2026-10-28",
+    "scope": "Taxonomic original-page QA substantially complete; source-specific China occurrence and host acceptance remain Pending."
+  },
+  "references": [
+    {
+      "id": "alonso2023",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaver2000",
+      "label": "Beaver (2000)",
+      "citation": "Beaver, R. A. (2000). Studies on the genus Diapus Chapuis (Coleoptera: Platypodidae): new species and new synonymy. Serangga, 5(2): 247–260.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "lai2019",
+      "label": "Lai (2019)",
+      "citation": "Lai, S. C. (2019). Systematics and taxonomy of Platypodinae in Jiangxi Province inferred by morphological and molecular characteristics. Master's thesis, Jiangxi Agricultural University.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    },
+    {
+      "id": "murayama1934",
+      "label": "Murayama (1934)",
+      "citation": "Murayama, J. (1934). Supplementary notes on the Platypodidae of Formosa IV. Journal of the Faculty of Agriculture, Hokkaido Imperial University, 35(3): 133–149.",
+      "role": [
+        "Taxonomic, distribution or host source"
+      ]
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaver2000",
+    "murayama1934"
+  ],
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
