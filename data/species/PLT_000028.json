@@ -1,0 +1,81 @@
+{
+  "plt": "PLT_000028",
+  "scientific_name": "Platypus lunatulus",
+  "authorship": "Browne, 1980",
+  "chinese_name": "弯弓长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "publication_status": "Published provisional profile — checklist review remains separate",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "narrative": "Original evidence concerns interception from timber shipped from Taiwan; establishment in Taiwan is not demonstrated.",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp.",
+      "reported_from": "Taiwan-exported intercepted timber",
+      "reference_ids": [
+        "pltSrc000054"
+      ],
+      "review_status": "Accepted"
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Browne (1980:498) reported Quercus sp. from intercepted timber, not an in situ standing tree.",
+  "taxonomy_summary": "Platypus lunatulus Browne, 1980. Original publication and subsequent nomenclatural qualifications are documented below.",
+  "taxonomic_history": [
+    {
+      "year": "1980",
+      "event": "Original description (primary source examined)",
+      "name": "Platypus lunatulus",
+      "authorship": "Browne, 1980",
+      "note": "Original account pp. 497–498; original name and description verified.",
+      "reference_ids": [
+        "pltSrc000054"
+      ]
+    }
+  ],
+  "nomenclature_note": "Browne (1980:497–498) described specimens intercepted in Japanese quarantine from Taiwan-exported Quercus wood. This is a timber association, not proof of a locally established Taiwanese population. Synonymy with Platypus tayabasi remains unresolved.",
+  "references": [
+    {
+      "id": "pltSrc000054",
+      "label": "Browne (1980) IV",
+      "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species. IV. Kontyû, 48(4): 490–500."
+    },
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000054"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": [],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000054",
+    "beaverShih2003"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000054"
+  ]
+}
