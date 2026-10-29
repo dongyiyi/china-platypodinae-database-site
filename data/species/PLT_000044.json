@@ -1,0 +1,78 @@
+{
+  "plt": "PLT_000044",
+  "scientific_name": "Euplatypus parallelus",
+  "authorship": "(Fabricius, 1801)",
+  "chinese_name": "中对长小蠹",
+  "genus": "Euplatypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Hainan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Hainan",
+        "reference_ids": [
+          "pltSrc000022"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000022"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Li et al. (2018:141–143) directly documented Euplatypus parallelus from Hainan. Original Fabricius (1801) paper does not substantiate a host or later generic transfer.",
+  "taxonomy_summary": "Euplatypus parallelus (Fabricius, 1801).",
+  "taxonomic_history": [
+    {
+      "year": "1801",
+      "event": "Original description",
+      "name": "Bostrichus parallelus",
+      "authorship": "",
+      "note": "Fabricius (1801:384–385) original description, South American origin.",
+      "reference_ids": [
+        "pltSrc000064"
+      ]
+    }
+  ],
+  "nomenclature_note": "Li et al. (2018:141–143) directly documented Euplatypus parallelus from Hainan. Original Fabricius (1801) paper does not substantiate a host or later generic transfer.",
+  "references": [
+    {
+      "id": "pltSrc000064",
+      "label": "Fabricius (1801)",
+      "citation": "Fabricius, J. C. (1801). Systema Eleutheratorum secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Tomus II. Bibliopolii Academici Novi, Kiliae, 687 pp."
+    },
+    {
+      "id": "pltSrc000022",
+      "label": "Li et al. (2018)",
+      "citation": "Li, Y., Zhou, X., Lai, S., Yin, T., Ji, Y., Wang, S., ... & Hulcr, J. (2018). First record of Euplatypus parallelus (Coleoptera: Curculionidae) in China. Florida Entomologist, 101(1), 141-143.",
+      "doi": "10.1653/024.101.0127"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000064"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000064",
+    "pltSrc000022"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

@@ -1,0 +1,79 @@
+{
+  "plt": "PLT_000045",
+  "scientific_name": "Crossotarsus coniferae",
+  "authorship": "Stebbing, 1906",
+  "chinese_name": "针叶异胫长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cedrus deodara",
+      "reported_from": "India, freshly felled wood; not a Chinese host",
+      "reference_ids": [
+        "pltSrc000070"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Original Indian collection was from recently felled Cedrus deodara, not healthy living trees. Chinese province and other host reports require separate source verification.",
+  "taxonomy_summary": "Crossotarsus coniferae Stebbing, 1906.",
+  "taxonomic_history": [
+    {
+      "year": "1906",
+      "event": "Original description",
+      "name": "Crossotarsus coniferae",
+      "authorship": "",
+      "note": "Stebbing (1906:411–412), Indian type locality in Tehri Garhwal.",
+      "reference_ids": [
+        "pltSrc000070"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Indian collection was from recently felled Cedrus deodara, not healthy living trees. Chinese province and other host reports require separate source verification.",
+  "references": [
+    {
+      "id": "pltSrc000070",
+      "label": "Stebbing (1906)",
+      "citation": "Stebbing, E. P. (1906). Departmental notes on insects that affect forestry. No. 3. Office of the Superintendent of Government Printing, Calcutta, pp. 335–469."
+    },
+    {
+      "id": "pltSrc000014",
+      "label": "Lai et al. (2021)",
+      "citation": "Lai, S., Zhang, L., Li, Y., & Wang, J. (2021). A new species, a new combination, and a new record of Crossotarsus Chapuis, 1865 (Coleoptera, Curculionidae, Platypodinae) from China. ZooKeys, 1028, 69–83.",
+      "doi": "10.3897/zookeys.1028.61018"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000070"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000070",
+    "pltSrc000014"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000070"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
