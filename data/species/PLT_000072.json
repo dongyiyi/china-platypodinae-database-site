@@ -1,0 +1,72 @@
+{
+  "plt": "PLT_000072",
+  "scientific_name": "Treptoplatypus quadriporus",
+  "authorship": "Schedl, 1971",
+  "chinese_name": "",
+  "genus": "Treptoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Fujian",
+        "reference_ids": [
+          "pltSrc000066"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000066"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Distinct from Platypus quadriporus (Beeson, 1937), PLT_000061; no named original host.",
+  "taxonomy_summary": "Treptoplatypus quadriporus Schedl, 1971.",
+  "taxonomic_history": [
+    {
+      "year": "1971",
+      "event": "Original description verified, Fukien (Fujian) type locality",
+      "name": "Treptoplatypus quadriporus",
+      "authorship": "Schedl, 1971",
+      "note": "Original description verified, Fukien (Fujian) type locality",
+      "reference_ids": [
+        "pltSrc000066"
+      ]
+    }
+  ],
+  "nomenclature_note": "Distinct from Platypus quadriporus (Beeson, 1937), PLT_000061; no named original host.",
+  "references": [
+    {
+      "id": "pltSrc000066",
+      "label": "Schedl (1971)",
+      "citation": "Schedl, K. E. (1971). Indomalayan bark and timber beetles. 273. Contribution to the morphology and taxonomy of the Scolytoidea. Oriental Insects, 5: 361–399. https://doi.org/10.1080/00305316.1971.10434023.",
+      "doi": "10.1080/00305316.1971.10434023"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000066"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000066"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
