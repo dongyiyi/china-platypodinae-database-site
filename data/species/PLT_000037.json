@@ -29,7 +29,7 @@
       "year": "1993",
       "event": "Later combination",
       "name": "Treptoplatypus solidus",
-      "authorship": "",
+      "authorship": "(Walker, 1858)",
       "note": "Later combination",
       "reference_ids": [
         "wood1993"
@@ -39,7 +39,7 @@
       "year": "1859",
       "event": "Later historical account",
       "name": "Platypus solidus",
-      "authorship": "",
+      "authorship": "Walker, 1858",
       "note": "Later historical account",
       "reference_ids": [
         "walker1859"
@@ -49,7 +49,7 @@
       "year": "1858",
       "event": "Original p.286 verified",
       "name": "Platypus solidus",
-      "authorship": "",
+      "authorship": "Walker, 1858",
       "note": "Original p.286 verified",
       "reference_ids": [
         "walker1858"
