@@ -24,3 +24,10 @@ async function showData(){const [taxa,m]=await Promise.all([taxaPromise,metaProm
 async function showAbout(){const a=await aboutPromise;app.innerHTML='<section class="taxonomy-banner"><div class="eyebrow">About</div><h1>'+esc(a.title)+'</h1><p class="subtitle">'+esc(a.subtitle)+'</p></section><section class="grid">'+(a.sections||[]).map(s=>'<article class="card full"><h2>'+esc(s.heading)+'</h2>'+(s.paragraphs||[]).map(p=>'<p>'+esc(p)+'</p>').join('')+'</article>').join('')+'<article class="card full"><h2>Selected foundational sources</h2>'+(a.foundational_sources||[]).map(r=>'<p><strong>'+esc(r.label)+'</strong> '+esc(r.citation)+'</p>').join('')+'</article></section>'}
 async function route(){const path=(location.hash.slice(1)||'/').split('?')[0];const view=({'/':showHome,'/browse':showBrowse,'/genera':()=>showGroups('genera'),'/tribes':()=>showGroups('tribes'),'/regions':showRegions,'/invasive':showInvasive,'/data':showData,'/methods':()=>renderMethods(app),'/contribute':()=>renderContribute(app),'/cite':()=>renderCite(app),'/about':showAbout})[path];if(!view){app.innerHTML=banner('Page unavailable','No published page at this route.');return}try{await view()}catch(e){console.error(e);app.innerHTML='<p class="notice">This section could not be loaded. Try refreshing this page.</p>'}}
 window.addEventListener('hashchange',route);route();
+
+// Shared Back to top control for all SPA routes.
+let backToTopBound=false;
+function updateBackToTop(){const b=document.querySelector('.back-to-top');if(b)b.classList.toggle('visible',window.scrollY>300)}
+function showBackToTop(){let b=document.querySelector('.back-to-top');if(!b){b=document.createElement('button');b.type='button';b.className='back-to-top';b.setAttribute('aria-label','Back to top');b.innerHTML='<span aria-hidden="true">↑</span> Back to top';b.addEventListener('click',()=>window.scrollTo({top:0,behavior:'smooth'}));document.body.appendChild(b)}if(!backToTopBound){window.addEventListener('scroll',updateBackToTop,{passive:true});backToTopBound=true}updateBackToTop()}
+showBackToTop();
+window.addEventListener('hashchange',()=>{window.scrollTo({top:0,behavior:'instant'});showBackToTop()});
