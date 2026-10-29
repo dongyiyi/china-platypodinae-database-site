@@ -1,0 +1,98 @@
+{
+  "plt": "PLT_000056",
+  "scientific_name": "Crossotarsus brevis",
+  "authorship": "(Browne, 1975)",
+  "chinese_name": "",
+  "genus": "Crossotarsus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original Thai type in unidentified tree; no confirmed named host or Chinese distribution from original.",
+  "taxonomy_summary": "Crossotarsus brevis (Browne, 1975).",
+  "taxonomic_history": [
+    {
+      "year": "2021",
+      "event": "Historical treatment",
+      "name": "Crossotarsus brevis",
+      "authorship": "(Browne, 1975)",
+      "note": "Original Thai type in unidentified tree; no confirmed named host or Chinese distribution from original.",
+      "reference_ids": [
+        "pltSrc000014"
+      ]
+    },
+    {
+      "year": "1998",
+      "event": "Historical treatment",
+      "name": "Dinoplatypus brevis",
+      "authorship": "(Browne, 1975)",
+      "note": "Original Thai type in unidentified tree; no confirmed named host or Chinese distribution from original.",
+      "reference_ids": [
+        "pltSrc000079"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Original description",
+      "name": "Platypus brevis",
+      "authorship": "Browne, 1975",
+      "note": "Original Thai type in unidentified tree; no confirmed named host or Chinese distribution from original.",
+      "reference_ids": [
+        "pltSrc000018"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Thai type in unidentified tree; no confirmed named host or Chinese distribution from original.",
+  "references": [
+    {
+      "id": "pltSrc000014",
+      "label": "Lai et al. (2021)",
+      "citation": "Lai, S., Zhang, L., Li, Y., & Wang, J. (2021). A new species, a new combination, and a new record of Crossotarsus Chapuis, 1865 (Coleoptera, Curculionidae, Platypodinae) from China. ZooKeys, 1028, 69–83.",
+      "doi": "10.3897/zookeys.1028.61018"
+    },
+    {
+      "id": "pltSrc000079",
+      "label": "Beaver (1998)",
+      "citation": "Beaver, R. A. (1998). New synonymy, new combinations and taxonomic notes on Scolytidae and Platypodidae (Insecta: Coleoptera). Annalen des Naturhistorischen Museums in Wien, Serie B, 100: 179–192."
+    },
+    {
+      "id": "pltSrc000018",
+      "label": "Beaver & Browne (1975)",
+      "citation": "Beaver, R. A., & Browne, F. G. (1975). The Scolytidae and Platypodidae (Coleoptera) of Thailand. Oriental Insects, 9(3), 283–311.",
+      "doi": "10.1080/00305316.1975.10434499"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000014",
+    "pltSrc000079",
+    "pltSrc000018"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000014",
+    "pltSrc000079",
+    "pltSrc000018"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
