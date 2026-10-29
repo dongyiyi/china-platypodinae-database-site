@@ -63,6 +63,12 @@ jobs:
           assert 'assets/platypodinae.js?v=20261027-2' in html
           assert 'href="assets/site.css?v=20261027-1"' in html
           assert set(p.parent.name for p in Path('.').glob('taxa/PLT_*/index.html'))==set(r['plt'] for r in index)
+          required_species_nav=['Home','All subfamilies','Scolytinae','Browse taxa','Data &amp; coverage','Methods','Contribute','Cite','About']
+          for taxon in index:
+            html_nav=Path('taxa',taxon['plt'],'index.html').read_text().split('<nav>',1)[1].split('</nav>',1)[0]
+            labels=[x.split('</a>',1)[0].split('>',1)[-1] for x in html_nav.split('<a ')[1:]]
+            assert labels==required_species_nav, f"Navigation mismatch in {taxon['plt']}: {labels}"
+            assert all(link in html_nav for link in ['href="../../#/browse"','href="../../#/data"','href="../../#/methods"','href="../../#/contribute"','href="../../#/cite"','href="../../#/about"'])
           page=Path('taxa/PLT_000062/index.html').read_text()
           assert 'assets/platypodinae-profile.js?v=20261028-2' in page
           jsprofile=Path('assets/platypodinae-profile.js').read_text()
