@@ -472,5 +472,47 @@
     "label": "Knížek, Beaver & Liu (2015)",
     "citation": "Knížek, M., Beaver, R. A., & Liu, L.-Y. (2015). A new species of Diapus Chapuis from South-West China and North Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 4058(2): 296–300. https://doi.org/10.11646/zootaxa.4058.2.12.",
     "doi": "10.11646/zootaxa.4058.2.12"
+  },
+  "pltSrc000085": {
+    "id": "pltSrc000085",
+    "label": "Schedl (1962)",
+    "citation": "Schedl, K. E. (1962). Zur Synonymie der Borkenkäfer VI. 203. Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Blätter, 58(3): 201–211."
+  },
+  "pltSrc000003": {
+    "id": "pltSrc000003",
+    "label": "Beeson (1937)",
+    "citation": "Beeson, C. F. C. (1937). New Crossotarsus (Platypodidae, Col.). Indian Forest Records (New Series), Entomology 3(3):49–103."
+  },
+  "pltSrc000084": {
+    "id": "pltSrc000084",
+    "label": "Schedl (1937)",
+    "citation": "Schedl, K. E. (1937). Platypodiden des Berliner Zoologischen Museums. Entomologische Blätter, 33: 33–44."
+  },
+  "pltSrc000026": {
+    "id": "pltSrc000026",
+    "label": "Lai et al. (2020)",
+    "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631. https://doi.org/10.1649/0010-065X-74.3.626.",
+    "doi": "10.1649/0010-065X-74.3.626"
+  },
+  "pltSrc000086": {
+    "id": "pltSrc000086",
+    "label": "Schedl (1954)",
+    "citation": "Schedl, K. E. (1954). Fauna Indomalayensis IV. 141. Beitrag zur Morphologie und Systematik der Scolytoidea. Philippine Journal of Science, 83(2): 137–159."
+  },
+  "pltSrc000087": {
+    "id": "pltSrc000087",
+    "label": "Sampson (1922)",
+    "citation": "Sampson, F. W. (1922). Previously undescribed Scolytidae and Platypodidae from the Indian area. Annals and Magazine of Natural History, series 9, 10(55): 145–152. https://doi.org/10.1080/00222932208632753.",
+    "doi": "10.1080/00222932208632753"
+  },
+  "pltSrc000090": {
+    "id": "pltSrc000090",
+    "label": "Schedl (1940a)",
+    "citation": "Schedl, K. E. (1940a). Entomological Results from the Swedish Expedition 1934 to Burma and British India. Coleoptera: Platypodidae. 65. Beitrag zur Systematik und Morphologie des Scolytoidae. Arkiv för Zoologi, 31B(11): 1–4."
+  },
+  "pltSrc000089": {
+    "id": "pltSrc000089",
+    "label": "Beaver, Liu & Puranasakul (2008)",
+    "citation": "Beaver, R. A., Liu, L.-Y., & Puranasakul, W. (2008). Two new species of Diapus Chapuis (Col., Curculionidae: Platypodinae) from Taiwan and Thailand, with a note on the female of Diapus aculeatus Blandford. The Entomologist’s Monthly Magazine, 144: 111–120."
   }
 }
