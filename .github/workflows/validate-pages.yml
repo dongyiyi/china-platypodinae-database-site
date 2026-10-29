@@ -28,6 +28,10 @@ jobs:
           about=json.loads(Path('data/about.json').read_text())
           meta=json.loads(Path('data/site-meta.json').read_text())
           assert [meta['provisional_species_count'],meta['provisional_genera_count'],meta['provisional_tribes_count']]==[74,9,3]
+          assert html.count('class="card third dashboard-link"')==6
+          assert 'href="#/invasive"' in html
+          assert 'Xizang' in js and "'西藏'" in js
+          assert 'species-result' in js and "'/invasive':showInvasive" in js
           assert meta['published_profile_count']==70 and meta['profile_data_release_approved'] is False
           assert meta['pilot_profile_id']=='PLT_000062'
           pilot=json.loads(Path('data/species/PLT_000062.json').read_text())
