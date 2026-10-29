@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000039",
+  "scientific_name": "Crossotarsus concinnus",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "雅截尾长小蠹",
+  "genus": "Crossotarsus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "The replacement name is an objective nomenclatural relation, not species-level subjective synonymy. Taiwan is dubious.",
+  "taxonomy_summary": "Crossotarsus concinnus Blandford, 1894.",
+  "taxonomic_history": [
+    {
+      "year": "2003",
+      "event": "Dubious Taiwan report",
+      "name": "Crossotarsus concinnus",
+      "authorship": "",
+      "note": "Dubious Taiwan report",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Replacement name on p.578",
+      "name": "Crossotarsus concinnus",
+      "authorship": "",
+      "note": "Replacement name on p.578",
+      "reference_ids": [
+        "blandfordSupp1894"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Replaced junior primary homonym p.129",
+      "name": "Crossotarsus chapuisi",
+      "authorship": "",
+      "note": "Replaced junior primary homonym p.129",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "The replacement name is an objective nomenclatural relation, not species-level subjective synonymy. Taiwan is dubious.",
+  "references": [
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "blandfordSupp1894",
+      "label": "Blandford (1894), Supplement",
+      "citation": "Blandford, W. F. H. (1894). Supplementary Notes on the Scolytidae of Japan. Transactions of the Entomological Society of London, 42: 575–580."
+    },
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003",
+    "blandfordSupp1894",
+    "blandford1894"
+  ],
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "blandfordSupp1894",
+    "blandford1894"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

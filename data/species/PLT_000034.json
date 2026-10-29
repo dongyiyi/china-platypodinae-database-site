@@ -1,0 +1,144 @@
+{
+  "plt": "PLT_000034",
+  "scientific_name": "Platypus quercivorus",
+  "authorship": "(Murayama, 1925)",
+  "chinese_name": "灾害长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Guangdong; Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Guangdong",
+        "reference_ids": [
+          "pltSrc000020"
+        ]
+      },
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000020"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000020"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus glauca",
+      "reported_from": "Japan, attacked trees",
+      "reference_ids": [
+        "pltSrc000048"
+      ]
+    },
+    {
+      "scientific_name": "Quercus gilva",
+      "reported_from": "Japan, attacked trees",
+      "reference_ids": [
+        "pltSrc000048"
+      ]
+    },
+    {
+      "scientific_name": "Lithocarpus edulis",
+      "reported_from": "Japan, attacked trees (original spelling)",
+      "reference_ids": [
+        "pltSrc000048"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Murayama (1925:229–230) originally described Crossotarsus quercivorus and reported three Japanese attacked-tree hosts. Schedl (1972:217) documents later Platypus usage, but the first transfer is unresolved. Schedl (1972:156) synonymized Crossotarsus sexfenestratus; source-specific taxonomic action verified.",
+  "taxonomy_summary": "Platypus quercivorus (Murayama, 1925).",
+  "taxonomic_history": [
+    {
+      "year": "1972",
+      "event": "Synonymy (adopted)",
+      "name": "Crossotarsus sexfenestratus",
+      "authorship": "",
+      "note": "Schedl (1972:156) proposed a subjective synonym of P. quercivorus.",
+      "reference_ids": [
+        "pltSrc000058"
+      ]
+    },
+    {
+      "year": "1972",
+      "event": "Subsequent Platypus combination (first transfer unverified)",
+      "name": "Platypus quercivorus",
+      "authorship": "",
+      "note": "Recorded in Schedl 1972 monograph p.217.",
+      "reference_ids": [
+        "pltSrc000031"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Original description",
+      "name": "Crossotarsus quercivorus",
+      "authorship": "(Murayama, 1925)",
+      "note": "Murayama 1925:229–230 original verified.",
+      "reference_ids": [
+        "pltSrc000048"
+      ]
+    }
+  ],
+  "nomenclature_note": "Murayama (1925:229–230) originally described Crossotarsus quercivorus and reported three Japanese attacked-tree hosts. Schedl (1972:217) documents later Platypus usage, but the first transfer is unresolved. Schedl (1972:156) synonymized Crossotarsus sexfenestratus; source-specific taxonomic action verified.",
+  "references": [
+    {
+      "id": "pltSrc000048",
+      "label": "Murayama (1925)",
+      "citation": "Murayama, J. (1925b). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15: 229–236, especially pp. 231–232."
+    },
+    {
+      "id": "pltSrc000031",
+      "label": "Schedl (1972)",
+      "citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp."
+    },
+    {
+      "id": "pltSrc000058",
+      "label": "Schedl (1972)",
+      "citation": "Schedl, K. E. (1972). Zur Synonymie der Borkenkäfer XXI. 281. Beitrag zur Morphologie und Systematik der Scolytoidea (Col.). Entomologische Arbeiten aus dem Museum G. Frey 23: 150–161."
+    },
+    {
+      "id": "pltSrc000020",
+      "label": "Lai et al. (2023)",
+      "citation": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D. (2023). First record of two ambrosia beetle, Platypus quercivorus (Murayama) and Platypus koryoensis (Murayama)(Coleoptera: Curculionidae, Platypodinae) in Mainland China. Zootaxa, 5284(2), 397-400.",
+      "doi": "10.11646/zootaxa.5284.2.11"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000058",
+    "pltSrc000031",
+    "pltSrc000048"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000048",
+    "pltSrc000031",
+    "pltSrc000058",
+    "pltSrc000020"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000048",
+    "pltSrc000048",
+    "pltSrc000048"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

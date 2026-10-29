@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000037",
+  "scientific_name": "Treptoplatypus solidus",
+  "authorship": "(Walker, 1858)",
+  "chinese_name": "锥尾长小蠹",
+  "genus": "Treptoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Do not confuse Walker 1858 original with 1859 continuation; Chinese distribution candidates pending.",
+  "taxonomy_summary": "Treptoplatypus solidus (Walker, 1858).",
+  "taxonomic_history": [
+    {
+      "year": "1993",
+      "event": "Later combination",
+      "name": "Treptoplatypus solidus",
+      "authorship": "",
+      "note": "Later combination",
+      "reference_ids": [
+        "wood1993"
+      ]
+    },
+    {
+      "year": "1859",
+      "event": "Later historical account",
+      "name": "Platypus solidus",
+      "authorship": "",
+      "note": "Later historical account",
+      "reference_ids": [
+        "walker1859"
+      ]
+    },
+    {
+      "year": "1858",
+      "event": "Original p.286 verified",
+      "name": "Platypus solidus",
+      "authorship": "",
+      "note": "Original p.286 verified",
+      "reference_ids": [
+        "walker1858"
+      ]
+    }
+  ],
+  "nomenclature_note": "Do not confuse Walker 1858 original with 1859 continuation; Chinese distribution candidates pending.",
+  "references": [
+    {
+      "id": "wood1993",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281."
+    },
+    {
+      "id": "walker1859",
+      "label": "Walker (1859)",
+      "citation": "Walker, F. (1859). XXVII.—Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History, series 3, 3(16): 258–265."
+    },
+    {
+      "id": "walker1858",
+      "label": "Walker (1858)",
+      "citation": "Walker, F. (1858). XXX.—Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History, series 3, 2(10): 280–286."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "wood1993",
+    "walker1859",
+    "walker1858"
+  ],
+  "nomenclature_note_reference_ids": [
+    "wood1993",
+    "walker1859",
+    "walker1858"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

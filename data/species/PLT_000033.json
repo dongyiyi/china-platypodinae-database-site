@@ -1,0 +1,72 @@
+{
+  "plt": "PLT_000033",
+  "scientific_name": "Platypus querci",
+  "authorship": "Browne, 1980",
+  "chinese_name": "橡树长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp.",
+      "reported_from": "Imported timber, Keelung to Nagoya; no in situ tree attack confirmed",
+      "reference_ids": [
+        "pltSrc000056"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Browne (1980:488) described specimens intercepted from Quercus sp. logs shipped from Keelung to Nagoya; natural Taiwan establishment is not demonstrated.",
+  "taxonomy_summary": "Platypus querci Browne, 1980.",
+  "taxonomic_history": [
+    {
+      "year": "1980",
+      "event": "Original description",
+      "name": "Platypus querci",
+      "authorship": "Browne, 1980",
+      "note": "Original p.488 directly checked; intercepted timber record.",
+      "reference_ids": [
+        "pltSrc000056"
+      ]
+    }
+  ],
+  "nomenclature_note": "Browne (1980:488) described specimens intercepted from Quercus sp. logs shipped from Keelung to Nagoya; natural Taiwan establishment is not demonstrated.",
+  "references": [
+    {
+      "id": "pltSrc000056",
+      "label": "Browne (1980)",
+      "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, III. Kontyû 48(4): 482–489."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000056"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000056"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000056"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
