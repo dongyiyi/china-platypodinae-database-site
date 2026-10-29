@@ -164,3 +164,11 @@
 .taxonomy-group>.taxonomy-group{margin:0 15px 15px}
 @media(max-width:880px){.browse-tools{grid-template-columns:1fr 1fr}.browse-count{grid-column:1/-1}}
 @media(max-width:560px){.browse-tools{grid-template-columns:1fr}}
+
+/* Scolytinae-style two-line species result cards */
+.species-results{display:grid;gap:10px;margin:12px 0 22px;max-width:100%}
+.species-result{display:block;background:#fff;border:1px solid var(--line);border-radius:13px;padding:17px 22px;color:var(--accent);text-decoration:none;box-shadow:0 1px 1px rgba(0,0,0,.02)}
+.species-result:hover{border-color:var(--accent);text-decoration:none;background:#fdfefd}
+.species-result .result-title{display:block;font-size:1rem;font-weight:750;line-height:1.4}
+.species-result .result-meta{display:block;color:var(--muted);font-size:.83rem;line-height:1.5;margin-top:5px}
+.taxonomy-group>.species-results,.taxonomy-group .taxonomy-group>.species-results{padding:0 18px 14px 38px;margin:0}
