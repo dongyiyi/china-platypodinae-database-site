@@ -1,0 +1,98 @@
+{
+  "plt": "PLT_000035",
+  "scientific_name": "Platypus taiheizanensis",
+  "authorship": "(Murayama, 1932)",
+  "chinese_name": "太平山长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "murayama1932"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "murayama1932"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis kawakamii",
+      "reported_from": "Taiwan, original tree attacked",
+      "reference_ids": [
+        "murayama1932"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Murayama (1932:486) documents Taiwan locality and attacked tree Castanopsis kawakamii; first combination transfer uncertain.",
+  "taxonomy_summary": "Platypus taiheizanensis (Murayama, 1932).",
+  "taxonomic_history": [
+    {
+      "year": "1972",
+      "event": "Subsequent combination; first transfer not established",
+      "name": "Platypus taiheizanensis",
+      "authorship": "",
+      "note": "Subsequent combination; first transfer not established",
+      "reference_ids": [
+        "schedlMon1972"
+      ]
+    },
+    {
+      "year": "1932",
+      "event": "Original description pp.485–486",
+      "name": "Crossotarsus taiheizanensis",
+      "authorship": "",
+      "note": "Original description pp.485–486",
+      "reference_ids": [
+        "murayama1932"
+      ]
+    }
+  ],
+  "nomenclature_note": "Murayama (1932:486) documents Taiwan locality and attacked tree Castanopsis kawakamii; first combination transfer uncertain.",
+  "references": [
+    {
+      "id": "schedlMon1972",
+      "label": "Schedl (1972)",
+      "citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp."
+    },
+    {
+      "id": "murayama1932",
+      "label": "Murayama (1932)",
+      "citation": "Murayama, J. (1932). Original description of Crossotarsus taiheizanensis. Transactions of the Natural History Society of Formosa, 22: 485–486."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "schedlMon1972",
+    "murayama1932"
+  ],
+  "nomenclature_note_reference_ids": [
+    "schedlMon1972",
+    "murayama1932"
+  ],
+  "host_note_reference_ids": [
+    "murayama1932"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
