@@ -1,0 +1,105 @@
+{
+  "plt": "PLT_000050",
+  "scientific_name": "Peroplatypus laosi",
+  "authorship": "(Schedl, 1971)",
+  "chinese_name": "老挝长小蠹",
+  "genus": "Peroplatypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Historical PLT_000046 Crossotarsus fagacearum is a merged non-current concept; no independent species page or automatic Chinese occurrence/host aggregation. Peroplatypus generic placement retains qualification.",
+  "taxonomy_summary": "Peroplatypus laosi (Schedl, 1971).",
+  "taxonomic_history": [
+    {
+      "year": "2016",
+      "event": "Adopted subjective synonymy",
+      "name": "Crossotarsus fagacearum",
+      "authorship": "",
+      "note": "Beaver (2016:495) directly compared type and paratypes; C. fagacearum Browne, 1975 is a junior subjective synonym of Peroplatypus laosi.",
+      "reference_ids": [
+        "pltSrc000004"
+      ]
+    },
+    {
+      "year": "1993",
+      "event": "New genus placement / subsequent combination",
+      "name": "Peroplatypus laosi",
+      "authorship": "",
+      "note": "Wood (1993:272–273,279) documented placement.",
+      "reference_ids": [
+        "pltSrc000050"
+      ]
+    },
+    {
+      "year": "1971",
+      "event": "Original description",
+      "name": "Platypus laosi",
+      "authorship": "",
+      "note": "Schedl (1971:391–392) original holotype from Laos.",
+      "reference_ids": [
+        "pltSrc000066"
+      ]
+    }
+  ],
+  "nomenclature_note": "Historical PLT_000046 Crossotarsus fagacearum is a merged non-current concept; no independent species page or automatic Chinese occurrence/host aggregation. Peroplatypus generic placement retains qualification.",
+  "references": [
+    {
+      "id": "pltSrc000066",
+      "label": "Schedl (1971)",
+      "citation": "Schedl, K. E. (1971). Indomalayan bark and timber beetles. 273. Contribution to the morphology and taxonomy of the Scolytoidea. Oriental Insects, 5: 361–399. https://doi.org/10.1080/00305316.1971.10434023.",
+      "doi": "10.1080/00305316.1971.10434023"
+    },
+    {
+      "id": "pltSrc000050",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281. https://doi.org/10.5962/bhl.part.16605.",
+      "doi": "10.5962/bhl.part.16605"
+    },
+    {
+      "id": "pltSrc000004",
+      "label": "Beaver (2016)",
+      "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey 35: 487–504."
+    },
+    {
+      "id": "pltSrc000018",
+      "label": "Beaver & Browne (1975)",
+      "citation": "Beaver, R. A., & Browne, F. G. (1975). The Scolytidae and Platypodidae (Coleoptera) of Thailand. Oriental Insects, 9(3), 283–311.",
+      "doi": "10.1080/00305316.1975.10434499"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000004",
+    "pltSrc000050",
+    "pltSrc000066"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000066",
+    "pltSrc000050",
+    "pltSrc000004",
+    "pltSrc000018"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
