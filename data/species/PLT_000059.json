@@ -1,0 +1,63 @@
+{
+  "plt": "PLT_000059",
+  "scientific_name": "Platypus secretus",
+  "authorship": "Sampson, 1921",
+  "chinese_name": "角面长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Sampson (1921:25–26) type from Tonkin, modern Vietnam; no original botanical host.",
+  "taxonomy_summary": "Platypus secretus Sampson, 1921.",
+  "taxonomic_history": [
+    {
+      "year": "1921",
+      "event": "Original description",
+      "name": "Platypus secretus",
+      "authorship": "Sampson, 1921",
+      "note": "Sampson (1921:25–26) type from Tonkin, modern Vietnam; no original botanical host.",
+      "reference_ids": [
+        "pltSrc000081"
+      ]
+    }
+  ],
+  "nomenclature_note": "Sampson (1921:25–26) type from Tonkin, modern Vietnam; no original botanical host.",
+  "references": [
+    {
+      "id": "pltSrc000081",
+      "label": "Sampson (1921)",
+      "citation": "Sampson, F. W. (1921). Further notes on Platypodidae and Scolytidae collected by Mr. G. E. Bryant and others. Annals and Magazine of Natural History, series 9, 7: 25–37. https://doi.org/10.1080/00222932108632486.",
+      "doi": "10.1080/00222932108632486"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000081"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000081"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
