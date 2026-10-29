@@ -1,0 +1,93 @@
+{
+  "plt": "PLT_000041",
+  "scientific_name": "Dinoplatypus luniger",
+  "authorship": "(Motschulsky, 1863)",
+  "chinese_name": "迷月黄截尾长小蠹",
+  "genus": "Dinoplatypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Beaver & Shih (2003:86–87) considered Taiwan occurrence dubious. Do not treat this as a verified Chinese occurrence.",
+  "taxonomy_summary": "Dinoplatypus luniger (Motschulsky, 1863).",
+  "taxonomic_history": [
+    {
+      "year": "1969",
+      "event": "Taxonomic synonymy (historical)",
+      "name": "Platypus caliculus",
+      "authorship": "",
+      "note": "Wood (1969:120) treated Platypus caliculus Chapuis, 1865 as synonym under P. luniger; priority and current combination remain distinct.",
+      "reference_ids": [
+        "pltSrc000069"
+      ]
+    },
+    {
+      "year": "1863",
+      "event": "Original description",
+      "name": "Platypus luniger",
+      "authorship": "",
+      "note": "Motschulsky (1863:510), original combination.",
+      "reference_ids": [
+        "pltSrc000063"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Shih (2003:86–87) considered Taiwan occurrence dubious. Do not treat this as a verified Chinese occurrence.",
+  "references": [
+    {
+      "id": "pltSrc000063",
+      "label": "Motschulsky (1863)",
+      "citation": "Motschulsky, V. de (1863). Essai d'un catalogue des insectes de l'île Ceylan. Bulletin de la Société Impériale des Naturalistes de Moscou, 36(2): 421–532."
+    },
+    {
+      "id": "pltSrc000069",
+      "label": "Wood (1969)",
+      "citation": "Wood, S. L. (1969). New synonymy and records of Platypodidae and Scolytidae (Coleoptera). Great Basin Naturalist, 29(3): 113–128. https://doi.org/10.5962/bhl.part.17054.",
+      "doi": "10.5962/bhl.part.17054"
+    },
+    {
+      "id": "pltSrc000006",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "pltSrc000050",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281. https://doi.org/10.5962/bhl.part.16605.",
+      "doi": "10.5962/bhl.part.16605"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000069",
+    "pltSrc000063"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000063",
+    "pltSrc000069",
+    "pltSrc000006",
+    "pltSrc000050"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
