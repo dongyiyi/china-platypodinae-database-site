@@ -29,7 +29,7 @@
       "year": "2003",
       "event": "Taiwan dubious",
       "name": "Dinoplatypus calamus",
-      "authorship": "",
+      "authorship": "(Blandford, 1894)",
       "note": "Taiwan dubious",
       "reference_ids": [
         "beaverShih2003"
@@ -39,7 +39,7 @@
       "year": "1993",
       "event": "Later generic combination",
       "name": "Dinoplatypus calamus",
-      "authorship": "",
+      "authorship": "(Blandford, 1894)",
       "note": "Later generic combination",
       "reference_ids": [
         "wood1993"
@@ -49,7 +49,7 @@
       "year": "1941",
       "event": "Historical infraspecific name; availability unresolved",
       "name": "Platypus calamus var. fukiensis",
-      "authorship": "",
+      "authorship": "Schedl, 1941",
       "note": "Historical infraspecific name; availability unresolved",
       "reference_ids": [
         "schedl1941"
@@ -59,7 +59,7 @@
       "year": "1894",
       "event": "Original p.137",
       "name": "Platypus calamus",
-      "authorship": "",
+      "authorship": "Blandford, 1894",
       "note": "Original p.137",
       "reference_ids": [
         "blandford1894"
