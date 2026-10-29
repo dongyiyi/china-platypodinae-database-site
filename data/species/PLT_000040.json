@@ -1,0 +1,113 @@
+{
+  "plt": "PLT_000040",
+  "scientific_name": "Dinoplatypus calamus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "芦苇长小蠹",
+  "genus": "Dinoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Taiwan occurrence is dubious; mainland province reports are candidates requiring source-level review.",
+  "taxonomy_summary": "Dinoplatypus calamus (Blandford, 1894).",
+  "taxonomic_history": [
+    {
+      "year": "2003",
+      "event": "Taiwan dubious",
+      "name": "Dinoplatypus calamus",
+      "authorship": "",
+      "note": "Taiwan dubious",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1993",
+      "event": "Later generic combination",
+      "name": "Dinoplatypus calamus",
+      "authorship": "",
+      "note": "Later generic combination",
+      "reference_ids": [
+        "wood1993"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Historical infraspecific name; availability unresolved",
+      "name": "Platypus calamus var. fukiensis",
+      "authorship": "",
+      "note": "Historical infraspecific name; availability unresolved",
+      "reference_ids": [
+        "schedl1941"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Original p.137",
+      "name": "Platypus calamus",
+      "authorship": "",
+      "note": "Original p.137",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "Taiwan occurrence is dubious; mainland province reports are candidates requiring source-level review.",
+  "references": [
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "wood1993",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281."
+    },
+    {
+      "id": "schedl1941",
+      "label": "Schedl (1941)",
+      "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. Entomologische Blätter, 37: 42–44."
+    },
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003",
+    "wood1993",
+    "schedl1941",
+    "blandford1894"
+  ],
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "wood1993",
+    "schedl1941",
+    "blandford1894"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
