@@ -1,0 +1,72 @@
+{
+  "plt": "PLT_000032",
+  "scientific_name": "Platypus octodentatus",
+  "authorship": "Browne, 1985",
+  "chinese_name": "八齿长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp.",
+      "reported_from": "Imported timber (red oak log), Keelung to Nagoya; not verified living-tree host",
+      "reference_ids": [
+        "pltSrc000057"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Browne (1985:294–295) described beetles intercepted in Japan from a Quercus ('red oak') log shipped from Keelung. This does not demonstrate an established Taiwanese population or attack on a living tree.",
+  "taxonomy_summary": "Platypus octodentatus Browne, 1985.",
+  "taxonomic_history": [
+    {
+      "year": "1985",
+      "event": "Original description",
+      "name": "Platypus octodentatus",
+      "authorship": "Browne, 1985",
+      "note": "Directly checked Browne 1985:294–295; original Japanese-port interception.",
+      "reference_ids": [
+        "pltSrc000057"
+      ]
+    }
+  ],
+  "nomenclature_note": "Browne (1985:294–295) described beetles intercepted in Japan from a Quercus ('red oak') log shipped from Keelung. This does not demonstrate an established Taiwanese population or attack on a living tree.",
+  "references": [
+    {
+      "id": "pltSrc000057",
+      "label": "Browne (1985)",
+      "citation": "Browne, F. G. (1985). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, XII. Kontyû 53(2): 290–296."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000057"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000057"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000057"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
