@@ -133,3 +133,17 @@
 
 .taxonomy-group .higher-taxon-cn{font-size:.9em;font-weight:500;white-space:normal}
 .taxonomy-group .group-label{line-height:1.55}
+
+/* Public taxonomic browse views */
+.browse-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:22px 0}
+.browse-tabs a{background:#fff;border:1px solid var(--line);border-radius:9px;padding:9px 14px;font-weight:600}
+.browse-tabs a.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+#browse-q,#group-q,#region-q{display:block;width:100%;max-width:580px;margin:10px 0 22px;padding:12px;border:1px solid var(--line);border-radius:9px;font:inherit}
+.taxonomy-group{border:1px solid var(--line);border-radius:12px;margin:12px 0;padding:0;background:#fff}
+.taxonomy-group>summary{cursor:pointer;padding:15px 18px}
+.taxonomy-group>.taxonomy-group{margin:0 15px 15px}
+.taxonomy-group>ul,.taxonomy-group>.species-list{margin:0 18px 18px}
+.species-list{padding-left:24px;line-height:1.9}
+.species-list li{margin:2px 0}
+.search-results{background:#fff;border:1px solid var(--line);border-radius:12px;margin-top:12px;padding:16px 20px}
+.search-results .species-list{margin-bottom:0}
