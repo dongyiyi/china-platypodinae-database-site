@@ -1,0 +1,89 @@
+{
+  "plt": "PLT_000036",
+  "scientific_name": "Treptoplatypus severini",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "灾徨长小蠹",
+  "genus": "Treptoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "beech (vernacular; species undetermined)",
+      "reported_from": "Japan; vernacular beech",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Japanese beech report cannot be converted to botanical Fagus species; Taiwan records remain pending.",
+  "taxonomy_summary": "Treptoplatypus severini (Blandford, 1894).",
+  "taxonomic_history": [
+    {
+      "year": "2003",
+      "event": "New combination",
+      "name": "Treptoplatypus severini",
+      "authorship": "",
+      "note": "New combination",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Original pp.136–137",
+      "name": "Platypus severini",
+      "authorship": "",
+      "note": "Original pp.136–137",
+      "reference_ids": [
+        "blandford1894"
+      ]
+    }
+  ],
+  "nomenclature_note": "Japanese beech report cannot be converted to botanical Fagus species; Taiwan records remain pending.",
+  "references": [
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "blandford1894",
+      "label": "Blandford (1894)",
+      "citation": "Blandford, W. F. H. (1894). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London, 1894: 53–141."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003",
+    "blandford1894"
+  ],
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "blandford1894"
+  ],
+  "host_note_reference_ids": [
+    "blandford1894"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
