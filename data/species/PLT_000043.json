@@ -1,0 +1,69 @@
+{
+  "plt": "PLT_000043",
+  "scientific_name": "Crossotarsus terminatus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "端异胫长小蠹",
+  "genus": "Crossotarsus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Chapuis (1865:88) also described Crossotarsus venustus; its later synonymy with C. terminatus is pending, not adopted.",
+  "taxonomy_summary": "Crossotarsus terminatus Chapuis, 1865.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original description",
+      "name": "Crossotarsus terminatus",
+      "authorship": "",
+      "note": "Chapuis (1865:83) original female specimen from Singapore. Synonymization of C. venustus and other nominal taxa remains pending.",
+      "reference_ids": [
+        "pltSrc000042"
+      ]
+    }
+  ],
+  "nomenclature_note": "Chapuis (1865:88) also described Crossotarsus venustus; its later synonymy with C. terminatus is pending, not adopted.",
+  "references": [
+    {
+      "id": "pltSrc000042",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    },
+    {
+      "id": "pltSrc000014",
+      "label": "Lai et al. (2021)",
+      "citation": "Lai, S., Zhang, L., Li, Y., & Wang, J. (2021). A new species, a new combination, and a new record of Crossotarsus Chapuis, 1865 (Coleoptera, Curculionidae, Platypodinae) from China. ZooKeys, 1028, 69–83.",
+      "doi": "10.3897/zookeys.1028.61018"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000042"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000042",
+    "pltSrc000014"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
