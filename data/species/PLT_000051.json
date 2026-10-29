@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000051",
+  "scientific_name": "Platypus levannongi",
+  "authorship": "Schedl, 1974",
+  "chinese_name": "泰国长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis sp.",
+      "reported_from": "Thailand; Beaver & Liu (2013), not China",
+      "reference_ids": [
+        "pltSrc000024"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Historical synonym of Platypus levannongi confirmed; Vietnam type and Thailand Castanopsis association do not establish China occurrence.",
+  "taxonomy_summary": "Platypus levannongi Schedl, 1974.",
+  "taxonomic_history": [
+    {
+      "year": "2011",
+      "event": "Historical taxonomic treatment",
+      "name": "Platypus beaveri",
+      "authorship": "Beaver, 2011",
+      "note": "Adopted subjective synonymy; type comparisons by Beaver 2011:286",
+      "reference_ids": [
+        "pltSrc000072"
+      ]
+    },
+    {
+      "year": "1974",
+      "event": "Original description",
+      "name": "Platypus levannongi",
+      "authorship": "Schedl, 1974",
+      "note": "Original combination; type catalogue places type in northern Vietnam, primary original under review",
+      "reference_ids": [
+        "pltSrc000076"
+      ]
+    }
+  ],
+  "nomenclature_note": "Historical synonym of Platypus levannongi confirmed; Vietnam type and Thailand Castanopsis association do not establish China occurrence.",
+  "references": [
+    {
+      "id": "pltSrc000072",
+      "label": "Beaver (2011)",
+      "citation": "Beaver, R. A. (2011). New synonymy and taxonomic changes in bark and ambrosia beetles (Coleoptera: Curculionidae: Scolytinae, Platypodinae). Koleopterologische Rundschau, 81: 277–289."
+    },
+    {
+      "id": "pltSrc000076",
+      "label": "Schedl (1978)",
+      "citation": "Schedl, K. E. (1978). Die Typen der Sammlung Schedl. Familie Platypodidae (Coleoptera). Kataloge der wissenschaftlichen Sammlungen des Naturhistorischen Museums in Wien, Entomologie, Heft 1: 1–82."
+    },
+    {
+      "id": "pltSrc000024",
+      "label": "Beaver & Liu (2013)",
+      "citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+      "doi": "10.11646/zootaxa.3646.4.7"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000072",
+    "pltSrc000076"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000072",
+    "pltSrc000076",
+    "pltSrc000024"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000024"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

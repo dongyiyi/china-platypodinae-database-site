@@ -1,0 +1,78 @@
+{
+  "plt": "PLT_000060",
+  "scientific_name": "Diapus orientalis",
+  "authorship": "Knížek, Beaver & Liu, 2015",
+  "chinese_name": "",
+  "genus": "Diapus",
+  "tribe": "Tesserocerini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan; Sichuan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000080"
+        ]
+      },
+      {
+        "region": "Sichuan",
+        "reference_ids": [
+          "pltSrc000080"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000080"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original description verifies Chinese type locality and paratypes. Historical D. quadrispinatus identification correction is not synonymy.",
+  "taxonomy_summary": "Diapus orientalis Knížek, Beaver & Liu, 2015.",
+  "taxonomic_history": [
+    {
+      "year": "2015",
+      "event": "Original description",
+      "name": "Diapus orientalis",
+      "authorship": "Knížek, Beaver & Liu, 2015",
+      "note": "Original description verifies Chinese type locality and paratypes. Historical D. quadrispinatus identification correction is not synonymy.",
+      "reference_ids": [
+        "pltSrc000080"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original description verifies Chinese type locality and paratypes. Historical D. quadrispinatus identification correction is not synonymy.",
+  "references": [
+    {
+      "id": "pltSrc000080",
+      "label": "Knížek, Beaver & Liu (2015)",
+      "citation": "Knížek, M., Beaver, R. A., & Liu, L.-Y. (2015). A new species of Diapus Chapuis from South-West China and North Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 4058(2): 296–300. https://doi.org/10.11646/zootaxa.4058.2.12.",
+      "doi": "10.11646/zootaxa.4058.2.12"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000080"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000080"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

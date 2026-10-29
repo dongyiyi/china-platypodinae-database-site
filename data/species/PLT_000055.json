@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000055",
+  "scientific_name": "Crossotarsus emorsus",
+  "authorship": "Beeson, 1937",
+  "chinese_name": "",
+  "genus": "Crossotarsus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000014"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000014"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Dalbergia assamica",
+      "reported_from": "Original source-specific wood association; not necessarily a healthy standing tree",
+      "reference_ids": [
+        "pltSrc000014"
+      ]
+    },
+    {
+      "scientific_name": "Cassia siamea",
+      "reported_from": "Original source-specific wood association; not necessarily a healthy standing tree",
+      "reference_ids": [
+        "pltSrc000014"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Lai et al. 2021:78 verified two Yunnan log associations. Cassia siamea is a synonym of Senna siamea, not a second host.",
+  "taxonomy_summary": "Crossotarsus emorsus Beeson, 1937.",
+  "taxonomic_history": [
+    {
+      "year": "1937",
+      "event": "Original description",
+      "name": "Crossotarsus emorsus",
+      "authorship": "Beeson, 1937",
+      "note": "Lai et al. 2021:78 verified two Yunnan log associations. Cassia siamea is a synonym of Senna siamea, not a second host.",
+      "reference_ids": [
+        "pltSrc000024"
+      ]
+    }
+  ],
+  "nomenclature_note": "Lai et al. 2021:78 verified two Yunnan log associations. Cassia siamea is a synonym of Senna siamea, not a second host.",
+  "references": [
+    {
+      "id": "pltSrc000024",
+      "label": "Beaver & Liu (2013)",
+      "citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+      "doi": "10.11646/zootaxa.3646.4.7"
+    },
+    {
+      "id": "pltSrc000014",
+      "label": "Lai et al. (2021)",
+      "citation": "Lai, S., Zhang, L., Li, Y., & Wang, J. (2021). A new species, a new combination, and a new record of Crossotarsus Chapuis, 1865 (Coleoptera, Curculionidae, Platypodinae) from China. ZooKeys, 1028, 69–83.",
+      "doi": "10.3897/zookeys.1028.61018"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000024"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000024",
+    "pltSrc000014"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000014"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

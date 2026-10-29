@@ -1,0 +1,62 @@
+{
+  "plt": "PLT_000052",
+  "scientific_name": "Platypus sinensis",
+  "authorship": "Schedl, 1941",
+  "chinese_name": "中华长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original p.43 directly checked, but p.44 continuation is unverified. Fujian type locality requires independent page audit.",
+  "taxonomy_summary": "Platypus sinensis Schedl, 1941.",
+  "taxonomic_history": [
+    {
+      "year": "1941",
+      "event": "Original description",
+      "name": "Platypus sinensis",
+      "authorship": "Schedl, 1941",
+      "note": "Original p.43 directly checked, but p.44 continuation is unverified. Fujian type locality requires independent page audit.",
+      "reference_ids": [
+        "pltSrc000037"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original p.43 directly checked, but p.44 continuation is unverified. Fujian type locality requires independent page audit.",
+  "references": [
+    {
+      "id": "pltSrc000037",
+      "label": "Schedl (1941)",
+      "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. 75. Beitrag zur Morphologie und Systematik der Scolytoiden. Entomologische Blätter 37: 42–44."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000037"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000037"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

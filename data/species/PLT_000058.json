@@ -1,0 +1,72 @@
+{
+  "plt": "PLT_000058",
+  "scientific_name": "Platypus insulindicus",
+  "authorship": "Schedl, 1952",
+  "chinese_name": "双刺长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Beaver (1995:200) verified junior subjective synonym; original 1952 publication needs review.",
+  "taxonomy_summary": "Platypus insulindicus Schedl, 1952.",
+  "taxonomic_history": [
+    {
+      "year": "1995",
+      "event": "Historical treatment",
+      "name": "Platypus suzukii",
+      "authorship": "Browne, 1981",
+      "note": "Beaver (1995:200) verified junior subjective synonym; original 1952 publication needs review.",
+      "reference_ids": [
+        "pltSrc000078"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Original description",
+      "name": "Platypus insulindicus",
+      "authorship": "Schedl, 1952",
+      "note": "Beaver (1995:200) verified junior subjective synonym; original 1952 publication needs review.",
+      "reference_ids": [
+        "pltSrc000078"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver (1995:200) verified junior subjective synonym; original 1952 publication needs review.",
+  "references": [
+    {
+      "id": "pltSrc000078",
+      "label": "Beaver (1995)",
+      "citation": "Beaver, R. A. (1995). New synonymy and taxonomic changes in Oriental and Australasian Scolytidae and Platypodidae (Insecta: Coleoptera). Annalen des Naturhistorischen Museums in Wien, Serie B, 97: 197–204."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000078"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000078"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

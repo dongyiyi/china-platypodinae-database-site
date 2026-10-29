@@ -1,0 +1,62 @@
+{
+  "plt": "PLT_000054",
+  "scientific_name": "Diapus minutissimus",
+  "authorship": "Schedl, 1969",
+  "chinese_name": "纤细离足长小蠹",
+  "genus": "Diapus",
+  "tribe": "Tesserocerini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original Sumatra timber intercepted in Japan: not a field occurrence, nor a Chinese record.",
+  "taxonomy_summary": "Diapus minutissimus Schedl, 1969.",
+  "taxonomic_history": [
+    {
+      "year": "1969",
+      "event": "Original description",
+      "name": "Diapus minutissimus",
+      "authorship": "Schedl, 1969",
+      "note": "Original Sumatra timber intercepted in Japan: not a field occurrence, nor a Chinese record.",
+      "reference_ids": [
+        "pltSrc000062"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Sumatra timber intercepted in Japan: not a field occurrence, nor a Chinese record.",
+  "references": [
+    {
+      "id": "pltSrc000062",
+      "label": "Schedl (1969)",
+      "citation": "Schedl, K. E. (1969). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese port III. Kontyû, 37(2): 202–219."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000062"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000062"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
