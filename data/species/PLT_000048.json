@@ -38,7 +38,7 @@
       "year": "1928",
       "event": "Historical infraspecific name use",
       "name": "Crossotarsus fragmentus var. minor",
-      "authorship": "",
+      "authorship": "Sampson, 1928",
       "note": "Sampson (1928:2), not originally a full binomen C. minor; relationship to C. squamulatus pending.",
       "reference_ids": [
         "pltSrc000068"
@@ -48,7 +48,7 @@
       "year": "1912",
       "event": "Original name of another nominal taxon",
       "name": "Crossotarsus fragmentus",
-      "authorship": "",
+      "authorship": "Sampson, 1912",
       "note": "Sampson (1912:249), pending synonymy.",
       "reference_ids": [
         "pltSrc000067"
@@ -58,7 +58,7 @@
       "year": "1865",
       "event": "Original description",
       "name": "Crossotarsus squamulatus",
-      "authorship": "",
+      "authorship": "Chapuis, 1865",
       "note": "Chapuis (1865:87–88) original male from Java.",
       "reference_ids": [
         "pltSrc000042"
