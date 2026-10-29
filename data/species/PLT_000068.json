@@ -1,0 +1,91 @@
+{
+  "plt": "PLT_000068",
+  "scientific_name": "Dinoplatypus decens",
+  "authorship": "(Sampson, 1922)",
+  "chinese_name": "",
+  "genus": "Dinoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Sal (unresolved vernacular tree)",
+      "reported_from": "Historical source-specific substrate or wood association; see source notes",
+      "reference_ids": [
+        "pltSrc000087"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Original ex Sal substrate in India; botanical species identification and living-tree status unresolved.",
+  "taxonomy_summary": "Dinoplatypus decens (Sampson, 1922).",
+  "taxonomic_history": [
+    {
+      "year": "1993",
+      "event": "Wood 1993:279 generic usage; first transfer unresolved",
+      "name": "Dinoplatypus decens",
+      "authorship": "(Sampson, 1922)",
+      "note": "Wood 1993:279 generic usage; first transfer unresolved",
+      "reference_ids": [
+        "pltSrc000050"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Original pp.147–148 direct, India Assam",
+      "name": "Platypus decens",
+      "authorship": "Sampson, 1922",
+      "note": "Original pp.147–148 direct, India Assam",
+      "reference_ids": [
+        "pltSrc000087"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original ex Sal substrate in India; botanical species identification and living-tree status unresolved.",
+  "references": [
+    {
+      "id": "pltSrc000050",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281. https://doi.org/10.5962/bhl.part.16605.",
+      "doi": "10.5962/bhl.part.16605"
+    },
+    {
+      "id": "pltSrc000087",
+      "label": "Sampson (1922)",
+      "citation": "Sampson, F. W. (1922). Previously undescribed Scolytidae and Platypodidae from the Indian area. Annals and Magazine of Natural History, series 9, 10(55): 145–152. https://doi.org/10.1080/00222932208632753.",
+      "doi": "10.1080/00222932208632753"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000050",
+    "pltSrc000087"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000050",
+    "pltSrc000087"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000087"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

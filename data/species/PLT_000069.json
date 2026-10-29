@@ -1,0 +1,62 @@
+{
+  "plt": "PLT_000069",
+  "scientific_name": "Platypus jansoni",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Broad original locality cannot be converted into precise Chinese locality or host.",
+  "taxonomy_summary": "Platypus jansoni Chapuis, 1865.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original pp.244–245 verified; general New Guinea/Moluccas/Celebes provenance",
+      "name": "Platypus jansoni",
+      "authorship": "Chapuis, 1865",
+      "note": "Original pp.244–245 verified; general New Guinea/Moluccas/Celebes provenance",
+      "reference_ids": [
+        "pltSrc000042"
+      ]
+    }
+  ],
+  "nomenclature_note": "Broad original locality cannot be converted into precise Chinese locality or host.",
+  "references": [
+    {
+      "id": "pltSrc000042",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000042"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000042"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

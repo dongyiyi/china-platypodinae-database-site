@@ -1,0 +1,71 @@
+{
+  "plt": "PLT_000073",
+  "scientific_name": "Diapus aulacus",
+  "authorship": "Beaver & Liu, 2008",
+  "chinese_name": "",
+  "genus": "Diapus",
+  "tribe": "Tesserocerini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Taiwan",
+        "reference_ids": [
+          "pltSrc000089"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000089"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Taiwan original type record verified; ethanol trap cannot be interpreted as host evidence.",
+  "taxonomy_summary": "Diapus aulacus Beaver & Liu, 2008.",
+  "taxonomic_history": [
+    {
+      "year": "2008",
+      "event": "Original type collected in Taiwan using ethanol trap; no host",
+      "name": "Diapus aulacus",
+      "authorship": "Beaver & Liu, 2008",
+      "note": "Original type collected in Taiwan using ethanol trap; no host",
+      "reference_ids": [
+        "pltSrc000089"
+      ]
+    }
+  ],
+  "nomenclature_note": "Taiwan original type record verified; ethanol trap cannot be interpreted as host evidence.",
+  "references": [
+    {
+      "id": "pltSrc000089",
+      "label": "Beaver, Liu & Puranasakul (2008)",
+      "citation": "Beaver, R. A., Liu, L.-Y., & Puranasakul, W. (2008). Two new species of Diapus Chapuis (Col., Curculionidae: Platypodinae) from Taiwan and Thailand, with a note on the female of Diapus aculeatus Blandford. The Entomologist’s Monthly Magazine, 144: 111–120."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000089"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000089"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000065",
+  "scientific_name": "Carchesiopygus assamensis",
+  "authorship": "(Beeson, 1937)",
+  "chinese_name": "",
+  "genus": "Carchesiopygus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000027"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000027"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Yunnan source verified; rubber plantation collection site is not a Hevea host.",
+  "taxonomy_summary": "Carchesiopygus assamensis (Beeson, 1937).",
+  "taxonomic_history": [
+    {
+      "year": "1962",
+      "event": "Browne 1962:647 direct subsequent combination",
+      "name": "Carchesiopygus assamensis",
+      "authorship": "(Beeson, 1937)",
+      "note": "Browne 1962:647 direct subsequent combination",
+      "reference_ids": [
+        "pltSrc000065"
+      ]
+    },
+    {
+      "year": "1937",
+      "event": "Original description p.59 not directly read",
+      "name": "Crossotarsus assamensis",
+      "authorship": "Beeson, 1937",
+      "note": "Original description p.59 not directly read",
+      "reference_ids": [
+        "pltSrc000003"
+      ]
+    }
+  ],
+  "nomenclature_note": "Yunnan source verified; rubber plantation collection site is not a Hevea host.",
+  "references": [
+    {
+      "id": "pltSrc000065",
+      "label": "Browne (1962)",
+      "citation": "Browne, F. G. (1962). Taxonomic notes on Platypodidae (Coleoptera). Annals and Magazine of Natural History, series 13, 4(47) [1961 volume]: 641–656. https://doi.org/10.1080/00222936108651189.",
+      "doi": "10.1080/00222936108651189"
+    },
+    {
+      "id": "pltSrc000003",
+      "label": "Beeson (1937)",
+      "citation": "Beeson, C. F. C. (1937). New Crossotarsus (Platypodidae, Col.). Indian Forest Records (New Series), Entomology 3(3):49–103."
+    },
+    {
+      "id": "pltSrc000027",
+      "label": "Beaver & Sanguansub (2015)",
+      "citation": "Beaver, R. A., & Sanguansub, S. (2015). A review of the genus Carchesiopygus Schedl (Coleoptera: Curculionidae: Platypodinae), with keys to species. Zootaxa, 3931(3): 401–412. https://doi.org/10.11646/zootaxa.3931.3.4.",
+      "doi": "10.11646/zootaxa.3931.3.4"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000065",
+    "pltSrc000003"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000065",
+    "pltSrc000003",
+    "pltSrc000027"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}

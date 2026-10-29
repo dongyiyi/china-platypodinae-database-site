@@ -1,0 +1,88 @@
+{
+  "plt": "PLT_000064",
+  "scientific_name": "Platypus signatus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000026"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000026"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Hevea brasiliensis",
+      "reported_from": "Historical source-specific substrate or wood association; see source notes",
+      "reference_ids": [
+        "pltSrc000026"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Lai 2020 Xishuangbanna log specimens and trap specimens are separate; Hevea linked only to confirmed wood evidence.",
+  "taxonomy_summary": "Platypus signatus Chapuis, 1865.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original description p.235; Borneo Sarawak type locality",
+      "name": "Platypus signatus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original description p.235; Borneo Sarawak type locality",
+      "reference_ids": [
+        "pltSrc000042"
+      ]
+    }
+  ],
+  "nomenclature_note": "Lai 2020 Xishuangbanna log specimens and trap specimens are separate; Hevea linked only to confirmed wood evidence.",
+  "references": [
+    {
+      "id": "pltSrc000042",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    },
+    {
+      "id": "pltSrc000026",
+      "label": "Lai et al. (2020)",
+      "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631. https://doi.org/10.1649/0010-065X-74.3.626.",
+      "doi": "10.1649/0010-065X-74.3.626"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000042"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000042",
+    "pltSrc000026"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000026"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
