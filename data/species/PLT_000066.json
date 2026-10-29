@@ -1,0 +1,79 @@
+{
+  "plt": "PLT_000066",
+  "scientific_name": "Crossotarsus saltatorinus",
+  "authorship": "(Schedl, 1954)",
+  "chinese_name": "",
+  "genus": "Crossotarsus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Java type locality; Fujian report remains candidate, not accepted.",
+  "taxonomy_summary": "Crossotarsus saltatorinus (Schedl, 1954).",
+  "taxonomic_history": [
+    {
+      "year": "1978",
+      "event": "Schedl 1978:63 documented combination, first transfer uncertain",
+      "name": "Crossotarsus saltatorinus",
+      "authorship": "(Schedl, 1954)",
+      "note": "Schedl 1978:63 documented combination, first transfer uncertain",
+      "reference_ids": [
+        "pltSrc000076"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Original 1954:157 still pending primary review",
+      "name": "Platypus saltatorinus",
+      "authorship": "Schedl, 1954",
+      "note": "Original 1954:157 still pending primary review",
+      "reference_ids": [
+        "pltSrc000086"
+      ]
+    }
+  ],
+  "nomenclature_note": "Java type locality; Fujian report remains candidate, not accepted.",
+  "references": [
+    {
+      "id": "pltSrc000076",
+      "label": "Schedl (1978)",
+      "citation": "Schedl, K. E. (1978). Die Typen der Sammlung Schedl. Familie Platypodidae (Coleoptera). Kataloge der wissenschaftlichen Sammlungen des Naturhistorischen Museums in Wien, Entomologie, Heft 1: 1–82."
+    },
+    {
+      "id": "pltSrc000086",
+      "label": "Schedl (1954)",
+      "citation": "Schedl, K. E. (1954). Fauna Indomalayensis IV. 141. Beitrag zur Morphologie und Systematik der Scolytoidea. Philippine Journal of Science, 83(2): 137–159."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000076",
+    "pltSrc000086"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000076",
+    "pltSrc000086"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
