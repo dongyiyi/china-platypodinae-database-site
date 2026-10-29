@@ -252,5 +252,71 @@
     "id": "pltSrc000036",
     "label": "Murayama (1931)",
     "citation": "Murayama, J. (1931). Supplementary notes on the Platypodidae of Formosa III. Journal of the Faculty of Agriculture, Hokkaido Imperial University 30(4): 195–203."
+  },
+  "pltSrc000005": {
+    "id": "pltSrc000005",
+    "label": "Alonso-Zarazaga et al. (2023)",
+    "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+  },
+  "pltSrc000006": {
+    "id": "pltSrc000006",
+    "label": "Beaver & Shih (2003)",
+    "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+  },
+  "pltSrc000057": {
+    "id": "pltSrc000057",
+    "label": "Browne (1985)",
+    "citation": "Browne, F. G. (1985). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, XII. Kontyû 53(2): 290–296."
+  },
+  "pltSrc000056": {
+    "id": "pltSrc000056",
+    "label": "Browne (1980)",
+    "citation": "Browne, F. G. (1980). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, III. Kontyû 48(4): 482–489."
+  },
+  "pltSrc000048": {
+    "id": "pltSrc000048",
+    "label": "Murayama (1925)",
+    "citation": "Murayama, J. (1925b). Supplementary notes on the Platypodidae of Formosa. Journal of the College of Agriculture, Hokkaido Imperial University, 15: 229–236, especially pp. 231–232."
+  },
+  "pltSrc000058": {
+    "id": "pltSrc000058",
+    "label": "Schedl (1972)",
+    "citation": "Schedl, K. E. (1972). Zur Synonymie der Borkenkäfer XXI. 281. Beitrag zur Morphologie und Systematik der Scolytoidea (Col.). Entomologische Arbeiten aus dem Museum G. Frey 23: 150–161."
+  },
+  "pltSrc000020": {
+    "id": "pltSrc000020",
+    "label": "Lai et al. (2023)",
+    "citation": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D. (2023). First record of two ambrosia beetle, Platypus quercivorus (Murayama) and Platypus koryoensis (Murayama)(Coleoptera: Curculionidae, Platypodinae) in Mainland China. Zootaxa, 5284(2), 397-400.",
+    "doi": "10.11646/zootaxa.5284.2.11"
+  },
+  "schedlMon1972": {
+    "id": "schedlMon1972",
+    "label": "Schedl (1972)",
+    "citation": "Schedl, K. E. (1972). Monographie der Familie Platypodidae (Coleoptera). W. Junk, Den Haag, 322 pp."
+  },
+  "murayama1932": {
+    "id": "murayama1932",
+    "label": "Murayama (1932)",
+    "citation": "Murayama, J. (1932). Original description of Crossotarsus taiheizanensis. Transactions of the Natural History Society of Formosa, 22: 485–486."
+  },
+  "walker1859": {
+    "id": "walker1859",
+    "label": "Walker (1859)",
+    "citation": "Walker, F. (1859). XXVII.—Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History, series 3, 3(16): 258–265."
+  },
+  "walker1858": {
+    "id": "walker1858",
+    "label": "Walker (1858)",
+    "citation": "Walker, F. (1858). XXX.—Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History, series 3, 2(10): 280–286."
+  },
+  "schedl1969": {
+    "id": "schedl1969",
+    "label": "Schedl (1969)",
+    "citation": "Schedl, K. E. (1969). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese port III. Kontyû, 37(2): 202–219."
+  },
+  "blandfordSupp1894": {
+    "id": "blandfordSupp1894",
+    "label": "Blandford (1894), Supplement",
+    "citation": "Blandford, W. F. H. (1894). Supplementary Notes on the Scolytidae of Japan. Transactions of the Entomological Society of London, 42: 575–580."
   }
 }
