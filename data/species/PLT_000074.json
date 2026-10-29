@@ -1,0 +1,62 @@
+{
+  "plt": "PLT_000074",
+  "scientific_name": "Diapus quadrispinatus",
+  "authorship": "Chapuis, 1865",
+  "chinese_name": "",
+  "genus": "Diapus",
+  "tribe": "Tesserocerini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original 'East Indies' provenance not specific modern nation or China; Diapus orientalis remains distinct.",
+  "taxonomy_summary": "Diapus quadrispinatus Chapuis, 1865.",
+  "taxonomic_history": [
+    {
+      "year": "1865",
+      "event": "Original printed 'quadri-spinatus'; corrected spelling, not a taxonomic synonym",
+      "name": "Diapus quadrispinatus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original printed 'quadri-spinatus'; corrected spelling, not a taxonomic synonym",
+      "reference_ids": [
+        "pltSrc000042"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original 'East Indies' provenance not specific modern nation or China; Diapus orientalis remains distinct.",
+  "references": [
+    {
+      "id": "pltSrc000042",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000042"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000042"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
