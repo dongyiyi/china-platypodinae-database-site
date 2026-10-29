@@ -147,3 +147,20 @@
 .species-list li{margin:2px 0}
 .search-results{background:#fff;border:1px solid var(--line);border-radius:12px;margin-top:12px;padding:16px 20px}
 .search-results .species-list{margin-bottom:0}
+
+/* Layout parity with Scolytinae taxonomic browse */
+.browse-view-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px}
+.browse-view-tabs a{display:inline-block;border:1px solid var(--line);border-radius:9px;background:#fff;padding:9px 17px;font-weight:700}
+.browse-view-tabs a[aria-current="page"]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.browse-tools{display:grid;grid-template-columns:minmax(260px,1fr) 190px 190px auto;gap:12px;align-items:center;margin:24px 0}
+.browse-tools input,.browse-tools select{width:100%;min-width:0;padding:12px 14px;margin:0;border:1px solid var(--line);border-radius:10px;background:#fff;font:inherit}
+.browse-count{color:var(--muted);font-weight:700;white-space:nowrap}
+.grouped-browser{margin-top:18px}
+.taxonomy-group{border:1px solid var(--line);border-radius:12px;background:#fff;margin:10px 0;overflow:hidden}
+.taxonomy-group summary{display:flex;cursor:pointer;align-items:center;gap:12px;list-style:none;padding:14px 20px;font-weight:700;justify-content:flex-start}
+.taxonomy-group summary::before{content:"+";display:inline-block;width:18px;color:var(--accent);font-size:1.2rem}
+.taxonomy-group[open]>summary::before{content:"−"}
+.taxonomy-group>summary::-webkit-details-marker{display:none}
+.taxonomy-group>.taxonomy-group{margin:0 15px 15px}
+@media(max-width:880px){.browse-tools{grid-template-columns:1fr 1fr}.browse-count{grid-column:1/-1}}
+@media(max-width:560px){.browse-tools{grid-template-columns:1fr}}
