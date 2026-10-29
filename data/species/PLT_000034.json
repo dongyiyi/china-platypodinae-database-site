@@ -66,7 +66,7 @@
       "year": "1972",
       "event": "Synonymy (adopted)",
       "name": "Crossotarsus sexfenestratus",
-      "authorship": "",
+      "authorship": "Beeson, 1937",
       "note": "Schedl (1972:156) proposed a subjective synonym of P. quercivorus.",
       "reference_ids": [
         "pltSrc000058"
@@ -76,7 +76,7 @@
       "year": "1972",
       "event": "Subsequent Platypus combination (first transfer unverified)",
       "name": "Platypus quercivorus",
-      "authorship": "",
+      "authorship": "(Murayama, 1925)",
       "note": "Recorded in Schedl 1972 monograph p.217.",
       "reference_ids": [
         "pltSrc000031"
@@ -86,7 +86,7 @@
       "year": "1925",
       "event": "Original description",
       "name": "Crossotarsus quercivorus",
-      "authorship": "(Murayama, 1925)",
+      "authorship": "Murayama, 1925",
       "note": "Murayama 1925:229–230 original verified.",
       "reference_ids": [
         "pltSrc000048"

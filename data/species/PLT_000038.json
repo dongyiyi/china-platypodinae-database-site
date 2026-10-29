@@ -44,7 +44,7 @@
       "year": "2003",
       "event": "New combination",
       "name": "Treptoplatypus xylographus",
-      "authorship": "",
+      "authorship": "(Schedl, 1969)",
       "note": "New combination",
       "reference_ids": [
         "beaverShih2003"
@@ -54,7 +54,7 @@
       "year": "1969",
       "event": "Original p.216",
       "name": "Platypus xylographus",
-      "authorship": "",
+      "authorship": "Schedl, 1969",
       "note": "Original p.216",
       "reference_ids": [
         "schedl1969"

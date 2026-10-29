@@ -48,6 +48,7 @@ jobs:
             assert len(p.get('hosts',[]))==len(set(h['scientific_name'].lower() for h in p.get('hosts',[])))
             assert all(x in refs for h in p['hosts'] for x in h.get('reference_ids',[]))
             assert all(x in refs for h in p['taxonomic_history'] for x in h.get('reference_ids',[]))
+            assert all(isinstance(h.get('authorship'),str) and h['authorship'].strip() for h in p['taxonomic_history']), f"Missing taxonomic authority in {entry['plt']}"
             years=[int(x['year']) for x in p['taxonomic_history']]
             assert years==sorted(years,reverse=True)
           assert pilot['checklist_status']=='Unreviewed' and pilot['china_occurrence']['Mainland China']=='Present'
