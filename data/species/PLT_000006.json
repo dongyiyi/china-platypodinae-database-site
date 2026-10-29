@@ -140,11 +140,12 @@
       ]
     }
   ],
-  "nomenclature_note": "Platypus externedentatus appears in an 1849-imprint separate (p. 78) and an 1850 journal issue (p. 51); the date of effective first publication remains unresolved. Multiple names placed under this species in the 2023 Palaearctic catalogue remain Pending as independent taxonomic synonymies. Crossotarsus formosanus is a project-merged but taxonomically contested historical concept.",
+  "nomenclature_note": "Platypus externedentatus appears in an 1849-imprint separate (p. 78) and an 1850 journal issue (p. 51); the date of effective first publication remains unresolved. Multiple names placed under this species in the 2023 Palaearctic catalogue remain Pending as independent taxonomic synonymies. Crossotarsus formosanus is a project-merged but taxonomically contested historical concept. Crossotarsus formosanus Strohmeyer, 1912 (PLT_000008) is historically merged here under C. externedentatus, but the relationship is disputed. Beaver & Shih (2003:78) suggested possible conspecificity, rather than formally synonymizing the two; a subsequent Chinese Crossotarsus treatment retained both as separate species. The merge reflects a provisional curator decision, not confirmed synonymy. Type or diagnostic-specimen comparison is still required; hosts and distributions are not transferred automatically.",
   "nomenclature_note_reference_ids": [
     "fairmaire1849",
     "fairmaire1850",
-    "alonso2023"
+    "alonso2023",
+    "beaverShih2003"
   ],
   "resources": {
     "images": "No image with confirmed public reuse rights is linked in this release.",

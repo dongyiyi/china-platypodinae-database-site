@@ -72,10 +72,12 @@
       ]
     }
   ],
-  "nomenclature_note": "Strohmeyer (1913:164) originally printed Crossotarsus Sauteri; capitalization of the epithet is corrected to sauteri. The historical Crossotarsinulus combination and reported C. rengetensis relationship need separate verification.",
+  "nomenclature_note": "Strohmeyer (1913:164) originally printed Crossotarsus Sauteri; capitalization of the epithet is corrected to sauteri. The historical Crossotarsinulus combination and reported C. rengetensis relationship need separate verification. The historical name Crossotarsus rengetensis Niijima & Murayama, 1925 (PLT_000011) is provisionally treated under C. sauteri in this database. Beaver & Shih (2003) treated the two separately; Beaver (2016:491) subsequently assigned records reported under rengetensis to sauteri. The first explicit synonymization and type-based comparison have not been verified. This is a provisional project treatment, not a verified syn. nov.; no host or occurrence records have been automatically transferred.",
   "nomenclature_note_reference_ids": [
     "strohmeyer1913",
-    "zhang2008"
+    "zhang2008",
+    "beaverShih2003",
+    "beaver2016"
   ],
   "resources": {
     "images": "No image with confirmed public reuse rights is linked in this release.",
