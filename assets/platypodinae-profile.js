@@ -102,3 +102,8 @@ const refs=(t.references||[]).map(r=>'<div class="ref"'+(r.id?' id="ref-'+esc(r.
 
 const hit=location.pathname.match(/\/taxa\/(PLT_\d{6})\/?$/);
 if(hit) taxon(hit[1]); else app.innerHTML='<p class="notice">Invalid Platypodinae profile URL.</p>';
+
+// Common footer for all permanent species profiles, using the shared site template.
+const commonFooter="<footer class=\"site-footer\"><div class=\"footer-left\">Website designed and developed by Yiyi Dong. Platypodinae remains provisionally scoped pending scientific QA.</div><div class=\"footer-meta\"><div>Feedback and corrections welcome. · Last updated: 28 October 2026</div><div>Taxonomic content maintained by Yiyi Dong.</div></div></footer>";
+const profileFooter=document.querySelector('footer.site-footer');
+if(profileFooter)profileFooter.outerHTML=commonFooter;
