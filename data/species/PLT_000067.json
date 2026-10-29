@@ -1,0 +1,80 @@
+{
+  "plt": "PLT_000067",
+  "scientific_name": "Dinoplatypus cupulatus",
+  "authorship": "(Chapuis, 1865)",
+  "chinese_name": "",
+  "genus": "Dinoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Schedl 1979 blumi relationship pending; original Borneo type cannot establish Chinese occurrence.",
+  "taxonomy_summary": "Dinoplatypus cupulatus (Chapuis, 1865).",
+  "taxonomic_history": [
+    {
+      "year": "1993",
+      "event": "Wood 1993:279 documents generic usage, earliest transfer unresolved",
+      "name": "Dinoplatypus cupulatus",
+      "authorship": "(Chapuis, 1865)",
+      "note": "Wood 1993:279 documents generic usage, earliest transfer unresolved",
+      "reference_ids": [
+        "pltSrc000050"
+      ]
+    },
+    {
+      "year": "1865",
+      "event": "Original pp.278–279 direct; Borneo Sarawak provenance",
+      "name": "Platypus cupulatus",
+      "authorship": "Chapuis, 1865",
+      "note": "Original pp.278–279 direct; Borneo Sarawak provenance",
+      "reference_ids": [
+        "pltSrc000042"
+      ]
+    }
+  ],
+  "nomenclature_note": "Schedl 1979 blumi relationship pending; original Borneo type cannot establish Chinese occurrence.",
+  "references": [
+    {
+      "id": "pltSrc000050",
+      "label": "Wood (1993)",
+      "citation": "Wood, S. L. (1993). Revision of the genera of Platypodidae (Coleoptera). Great Basin Naturalist, 53(3): 259–281. https://doi.org/10.5962/bhl.part.16605.",
+      "doi": "10.5962/bhl.part.16605"
+    },
+    {
+      "id": "pltSrc000042",
+      "label": "Chapuis (1865)",
+      "citation": "Chapuis, F. (1865). Monographie des Platypides. H. Dessain, Liège, 344 pp."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000050",
+    "pltSrc000042"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000050",
+    "pltSrc000042"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
