@@ -1,0 +1,71 @@
+{
+  "plt": "PLT_000070",
+  "scientific_name": "Platypus klapperichi",
+  "authorship": "(Schedl, 1941)",
+  "chinese_name": "",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Fujian",
+        "reference_ids": [
+          "pltSrc000037"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000037"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Original Fujian Kuatun type verified; original and current genera differ; first transfer pending.",
+  "taxonomy_summary": "Platypus klapperichi (Schedl, 1941).",
+  "taxonomic_history": [
+    {
+      "year": "1941",
+      "event": "Original on p.44 verified; type from Fujian Kuatun; later transfer to Platypus unresolved",
+      "name": "Stenoplatypus klapperichi",
+      "authorship": "Schedl, 1941",
+      "note": "Original on p.44 verified; type from Fujian Kuatun; later transfer to Platypus unresolved",
+      "reference_ids": [
+        "pltSrc000037"
+      ]
+    }
+  ],
+  "nomenclature_note": "Original Fujian Kuatun type verified; original and current genera differ; first transfer pending.",
+  "references": [
+    {
+      "id": "pltSrc000037",
+      "label": "Schedl (1941)",
+      "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. 75. Beitrag zur Morphologie und Systematik der Scolytoiden. Entomologische Blätter 37: 42–44."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000037"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000037"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
