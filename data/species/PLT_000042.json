@@ -1,0 +1,78 @@
+{
+  "plt": "PLT_000042",
+  "scientific_name": "Baiocis pernanulus",
+  "authorship": "(Schedl, 1935)",
+  "chinese_name": "",
+  "genus": "Baiocis",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000028"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000028"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Beaver & Liu (2018:496–497) reported a specimen from Xishuangbanna, Yunnan. Original type locality Luzon, Philippines. Later Baiocis combination requires separate original nomenclatural audit.",
+  "taxonomy_summary": "Baiocis pernanulus (Schedl, 1935).",
+  "taxonomic_history": [
+    {
+      "year": "1935",
+      "event": "Original description",
+      "name": "Crossotarsus pernanulus",
+      "authorship": "",
+      "note": "Schedl (1935:482), Philippines type locality; no original host indicated.",
+      "reference_ids": [
+        "pltSrc000071"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2018:496–497) reported a specimen from Xishuangbanna, Yunnan. Original type locality Luzon, Philippines. Later Baiocis combination requires separate original nomenclatural audit.",
+  "references": [
+    {
+      "id": "pltSrc000071",
+      "label": "Schedl (1935)",
+      "citation": "Schedl, K. E. (1935). Scolytidae and Platypodidae: Thirty-second contribution. New species from the Philippine Islands and Formosa. Philippine Journal of Science, 57(4): 479–489."
+    },
+    {
+      "id": "pltSrc000028",
+      "label": "Beaver & Liu (2018)",
+      "citation": "Beaver, R. A., & Liu, L. Y. (2018). A review of the genus Baiocis Browne, 1962 (Coleoptera: Curculionidae: Platypodinae), with new species, new synonymy and a key to males. Zootaxa, 4434(3), 481-501.",
+      "doi": "10.11646/zootaxa.4434.3.5"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000071"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000071",
+    "pltSrc000028"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
