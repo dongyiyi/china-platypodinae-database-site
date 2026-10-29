@@ -1,0 +1,73 @@
+{
+  "plt": "PLT_000031",
+  "scientific_name": "Platypus obtusipennis",
+  "authorship": "Schedl, 1939",
+  "chinese_name": "龙脑香长小蠹",
+  "genus": "Platypus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Schedl's original date is provisionally 1939; the 2023 catalogue uses 1940a. The original issue publication date has not been verified; neither year is treated as a separate taxon.",
+  "taxonomy_summary": "Platypus obtusipennis Schedl, 1939.",
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Original description — year unresolved",
+      "name": "Platypus obtusipennis",
+      "authorship": "Schedl, 1939",
+      "note": "Original publication of Schedl cited inconsistently as 1939 versus 1940; bibliographic date unresolved.",
+      "reference_ids": [
+        "pltSrc000005",
+        "pltSrc000006"
+      ]
+    }
+  ],
+  "nomenclature_note": "Schedl's original date is provisionally 1939; the 2023 catalogue uses 1940a. The original issue publication date has not been verified; neither year is treated as a separate taxon.",
+  "references": [
+    {
+      "id": "pltSrc000005",
+      "label": "Alonso-Zarazaga et al. (2023)",
+      "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+    },
+    {
+      "id": "pltSrc000006",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000005",
+    "pltSrc000006"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000005",
+    "pltSrc000006"
+  ],
+  "host_note_reference_ids": [
+    "pltSrc000005",
+    "pltSrc000006"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
