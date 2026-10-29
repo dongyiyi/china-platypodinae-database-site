@@ -1,0 +1,97 @@
+{
+  "plt": "PLT_000047",
+  "scientific_name": "Carchesiopygus impariporus",
+  "authorship": "(Beeson, 1937)",
+  "chinese_name": "端刺异胫长小蠹",
+  "genus": "Carchesiopygus",
+  "subfamily": "Platypodinae",
+  "tribe": "Platypodini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "review_status": "Accepted",
+    "claims": [
+      {
+        "region": "Yunnan",
+        "reference_ids": [
+          "pltSrc000027"
+        ]
+      }
+    ],
+    "reference_ids": [
+      "pltSrc000027"
+    ]
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Beaver & Liu (2018:409) report specimen evidence from Xishuangbanna, Yunnan. The collection site was a rubber plantation, not proof that Hevea was a host. Other province reports remain unreviewed.",
+  "taxonomy_summary": "Carchesiopygus impariporus (Beeson, 1937).",
+  "taxonomic_history": [
+    {
+      "year": "1962",
+      "event": "New combination",
+      "name": "Carchesiopygus impariporus",
+      "authorship": "",
+      "note": "Browne (1962:647) explicitly transferred the original Crossotarsus name.",
+      "reference_ids": [
+        "pltSrc000065"
+      ]
+    },
+    {
+      "year": "1937",
+      "event": "Original description (primary remains unverified)",
+      "name": "Crossotarsus impariporus",
+      "authorship": "",
+      "note": "Beeson (1937:62) cited; original page has not been directly confirmed.",
+      "reference_ids": [
+        "pltSrc000018"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2018:409) report specimen evidence from Xishuangbanna, Yunnan. The collection site was a rubber plantation, not proof that Hevea was a host. Other province reports remain unreviewed.",
+  "references": [
+    {
+      "id": "pltSrc000065",
+      "label": "Browne (1962)",
+      "citation": "Browne, F. G. (1962). Taxonomic notes on Platypodidae (Coleoptera). Annals and Magazine of Natural History, series 13, 4(47) [1961 volume]: 641–656. https://doi.org/10.1080/00222936108651189.",
+      "doi": "10.1080/00222936108651189"
+    },
+    {
+      "id": "pltSrc000027",
+      "label": "Beaver & Sanguansub (2015)",
+      "citation": "Beaver, R. A., & Sanguansub, S. (2015). A review of the genus Carchesiopygus Schedl (Coleoptera: Curculionidae: Platypodinae), with keys to species. Zootaxa, 3931(3): 401–412. https://doi.org/10.11646/zootaxa.3931.3.4.",
+      "doi": "10.11646/zootaxa.3931.3.4"
+    },
+    {
+      "id": "pltSrc000018",
+      "label": "Beaver & Browne (1975)",
+      "citation": "Beaver, R. A., & Browne, F. G. (1975). The Scolytidae and Platypodidae (Coleoptera) of Thailand. Oriental Insects, 9(3), 283–311.",
+      "doi": "10.1080/00305316.1975.10434499"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000065",
+    "pltSrc000018"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000065",
+    "pltSrc000027",
+    "pltSrc000018"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
