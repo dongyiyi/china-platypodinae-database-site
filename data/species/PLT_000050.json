@@ -40,7 +40,7 @@
       "year": "1993",
       "event": "New genus placement / subsequent combination",
       "name": "Peroplatypus laosi",
-      "authorship": "",
+      "authorship": "(Schedl, 1971)",
       "note": "Wood (1993:272–273,279) documented placement.",
       "reference_ids": [
         "pltSrc000050"
@@ -50,7 +50,7 @@
       "year": "1971",
       "event": "Original description",
       "name": "Platypus laosi",
-      "authorship": "",
+      "authorship": "Schedl, 1971",
       "note": "Schedl (1971:391–392) original holotype from Laos.",
       "reference_ids": [
         "pltSrc000066"

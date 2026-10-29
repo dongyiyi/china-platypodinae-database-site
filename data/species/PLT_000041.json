@@ -29,7 +29,7 @@
       "year": "1969",
       "event": "Taxonomic synonymy (historical)",
       "name": "Platypus caliculus",
-      "authorship": "",
+      "authorship": "Chapuis, 1865",
       "note": "Wood (1969:120) treated Platypus caliculus Chapuis, 1865 as synonym under P. luniger; priority and current combination remain distinct.",
       "reference_ids": [
         "pltSrc000069"
@@ -39,7 +39,7 @@
       "year": "1863",
       "event": "Original description",
       "name": "Platypus luniger",
-      "authorship": "",
+      "authorship": "Motschulsky, 1863",
       "note": "Motschulsky (1863:510), original combination.",
       "reference_ids": [
         "pltSrc000063"
