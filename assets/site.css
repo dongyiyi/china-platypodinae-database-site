@@ -181,3 +181,10 @@
 .result-meta{display:block;color:var(--muted);font-size:.85rem;margin-top:5px}
 .taxonomy-group>.species-results{margin:0 16px 16px 38px}
 @media(max-width:560px){.taxonomy-group>.species-results{margin:0 10px 12px 18px}}
+
+/* Shared Scolytinae-style two-column site footer */
+.site-footer{display:flex;justify-content:space-between;align-items:flex-start;gap:28px}
+.footer-left{text-align:left;max-width:55%}
+.footer-meta{text-align:right;margin-left:auto;white-space:normal}
+.footer-meta>div+div{margin-top:2px}
+@media(max-width:760px){.site-footer{flex-direction:column}.footer-left{max-width:100%}.footer-meta{text-align:left;margin-left:0}}
