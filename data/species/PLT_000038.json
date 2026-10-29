@@ -1,0 +1,96 @@
+{
+  "plt": "PLT_000038",
+  "scientific_name": "Treptoplatypus xylographus",
+  "authorship": "(Schedl, 1969)",
+  "chinese_name": "松徨长小蠹",
+  "genus": "Treptoplatypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus sp.",
+      "reported_from": "Taiwan-origin timber intercepted in Japan",
+      "reference_ids": [
+        "schedl1969"
+      ]
+    },
+    {
+      "scientific_name": "Picea sp.",
+      "reported_from": "Taiwan-origin timber intercepted in Japan",
+      "reference_ids": [
+        "schedl1969"
+      ]
+    }
+  ],
+  "host_review_status": "Accepted",
+  "host_note": "Pinus/Picea are imported wood associations in Japanese interception, not established Taiwan forest hosts.",
+  "taxonomy_summary": "Treptoplatypus xylographus (Schedl, 1969).",
+  "taxonomic_history": [
+    {
+      "year": "2003",
+      "event": "New combination",
+      "name": "Treptoplatypus xylographus",
+      "authorship": "",
+      "note": "New combination",
+      "reference_ids": [
+        "beaverShih2003"
+      ]
+    },
+    {
+      "year": "1969",
+      "event": "Original p.216",
+      "name": "Platypus xylographus",
+      "authorship": "",
+      "note": "Original p.216",
+      "reference_ids": [
+        "schedl1969"
+      ]
+    }
+  ],
+  "nomenclature_note": "Pinus/Picea are imported wood associations in Japanese interception, not established Taiwan forest hosts.",
+  "references": [
+    {
+      "id": "beaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A. & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "schedl1969",
+      "label": "Schedl (1969)",
+      "citation": "Schedl, K. E. (1969). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese port III. Kontyû, 37(2): 202–219."
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "beaverShih2003",
+    "schedl1969"
+  ],
+  "nomenclature_note_reference_ids": [
+    "beaverShih2003",
+    "schedl1969"
+  ],
+  "host_note_reference_ids": [
+    "schedl1969"
+  ],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
