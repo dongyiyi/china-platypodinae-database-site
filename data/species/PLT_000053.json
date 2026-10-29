@@ -1,0 +1,90 @@
+{
+  "plt": "PLT_000053",
+  "scientific_name": "Platypus vethi",
+  "authorship": "Strohmeyer, 1913",
+  "chinese_name": "韦氏长小蠹",
+  "genus": "Platypus",
+  "tribe": "Platypodini",
+  "subfamily": "Platypodinae",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "review_status": "Pending",
+    "claims": [],
+    "reference_ids": []
+  },
+  "hosts": [],
+  "host_review_status": "Pending",
+  "host_note": "Kalshoven 1960:63–64 reports historical synonymies. Do not propagate unreviewed China host records.",
+  "taxonomy_summary": "Platypus vethi Strohmeyer, 1913.",
+  "taxonomic_history": [
+    {
+      "year": "1960",
+      "event": "Historical treatment",
+      "name": "Platypus spretus",
+      "authorship": "Schedl, 1936",
+      "note": "Kalshoven 1960:63–64 reports historical synonymies. Do not propagate unreviewed China host records.",
+      "reference_ids": [
+        "pltSrc000075"
+      ]
+    },
+    {
+      "year": "1960",
+      "event": "Historical treatment",
+      "name": "Platypus suffodiens var. malayensis",
+      "authorship": "Schedl, 1939",
+      "note": "Kalshoven 1960:63–64 reports historical synonymies. Do not propagate unreviewed China host records.",
+      "reference_ids": [
+        "pltSrc000075"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Original description",
+      "name": "Platypus vethi",
+      "authorship": "Strohmeyer, 1913",
+      "note": "Kalshoven 1960:63–64 reports historical synonymies. Do not propagate unreviewed China host records.",
+      "reference_ids": [
+        "pltSrc000074"
+      ]
+    }
+  ],
+  "nomenclature_note": "Kalshoven 1960:63–64 reports historical synonymies. Do not propagate unreviewed China host records.",
+  "references": [
+    {
+      "id": "pltSrc000075",
+      "label": "Kalshoven (1960)",
+      "citation": "Kalshoven, L. G. E. (1960). Two new cases of synonymy in Indomalayan Platypodidae and Scolytidae. Entomologische Berichten, 20: 63–64."
+    },
+    {
+      "id": "pltSrc000074",
+      "label": "Beaver et al. (2026)",
+      "citation": "Beaver, R. A., Smith, S. M., Ong, S. P., & Cognato, A. I. (2026). Synopsis of the pinhole borers of West Malaysia (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 5782(2): 201–248. https://doi.org/10.11646/zootaxa.5782.2.1.",
+      "doi": "10.11646/zootaxa.5782.2.1"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "pltSrc000075",
+    "pltSrc000074"
+  ],
+  "nomenclature_note_reference_ids": [
+    "pltSrc000075",
+    "pltSrc000074"
+  ],
+  "host_note_reference_ids": [],
+  "resources": {
+    "images": "No verified image record linked.",
+    "specimens": "No online specimen accession linked.",
+    "molecular": "No verified sequence accession.",
+    "symbionts": "No verified association."
+  },
+  "recommended_chinese_name": "",
+  "former_chinese_names": []
+}
