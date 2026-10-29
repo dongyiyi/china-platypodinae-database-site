@@ -413,5 +413,64 @@
     "id": "pltSrc000004",
     "label": "Beaver (2016)",
     "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey 35: 487–504."
+  },
+  "pltSrc000072": {
+    "id": "pltSrc000072",
+    "label": "Beaver (2011)",
+    "citation": "Beaver, R. A. (2011). New synonymy and taxonomic changes in bark and ambrosia beetles (Coleoptera: Curculionidae: Scolytinae, Platypodinae). Koleopterologische Rundschau, 81: 277–289."
+  },
+  "pltSrc000076": {
+    "id": "pltSrc000076",
+    "label": "Schedl (1978)",
+    "citation": "Schedl, K. E. (1978). Die Typen der Sammlung Schedl. Familie Platypodidae (Coleoptera). Kataloge der wissenschaftlichen Sammlungen des Naturhistorischen Museums in Wien, Entomologie, Heft 1: 1–82."
+  },
+  "pltSrc000024": {
+    "id": "pltSrc000024",
+    "label": "Beaver & Liu (2013)",
+    "citation": "Beaver, R. A., & Liu, L. Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4), 447-486.",
+    "doi": "10.11646/zootaxa.3646.4.7"
+  },
+  "pltSrc000037": {
+    "id": "pltSrc000037",
+    "label": "Schedl (1941)",
+    "citation": "Schedl, K. E. (1941). Borken- und Ambrosiakäfer aus Ostasien. 75. Beitrag zur Morphologie und Systematik der Scolytoiden. Entomologische Blätter 37: 42–44."
+  },
+  "pltSrc000075": {
+    "id": "pltSrc000075",
+    "label": "Kalshoven (1960)",
+    "citation": "Kalshoven, L. G. E. (1960). Two new cases of synonymy in Indomalayan Platypodidae and Scolytidae. Entomologische Berichten, 20: 63–64."
+  },
+  "pltSrc000074": {
+    "id": "pltSrc000074",
+    "label": "Beaver et al. (2026)",
+    "citation": "Beaver, R. A., Smith, S. M., Ong, S. P., & Cognato, A. I. (2026). Synopsis of the pinhole borers of West Malaysia (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 5782(2): 201–248. https://doi.org/10.11646/zootaxa.5782.2.1.",
+    "doi": "10.11646/zootaxa.5782.2.1"
+  },
+  "pltSrc000062": {
+    "id": "pltSrc000062",
+    "label": "Schedl (1969)",
+    "citation": "Schedl, K. E. (1969). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese port III. Kontyû, 37(2): 202–219."
+  },
+  "pltSrc000079": {
+    "id": "pltSrc000079",
+    "label": "Beaver (1998)",
+    "citation": "Beaver, R. A. (1998). New synonymy, new combinations and taxonomic notes on Scolytidae and Platypodidae (Insecta: Coleoptera). Annalen des Naturhistorischen Museums in Wien, Serie B, 100: 179–192."
+  },
+  "pltSrc000078": {
+    "id": "pltSrc000078",
+    "label": "Beaver (1995)",
+    "citation": "Beaver, R. A. (1995). New synonymy and taxonomic changes in Oriental and Australasian Scolytidae and Platypodidae (Insecta: Coleoptera). Annalen des Naturhistorischen Museums in Wien, Serie B, 97: 197–204."
+  },
+  "pltSrc000081": {
+    "id": "pltSrc000081",
+    "label": "Sampson (1921)",
+    "citation": "Sampson, F. W. (1921). Further notes on Platypodidae and Scolytidae collected by Mr. G. E. Bryant and others. Annals and Magazine of Natural History, series 9, 7: 25–37. https://doi.org/10.1080/00222932108632486.",
+    "doi": "10.1080/00222932108632486"
+  },
+  "pltSrc000080": {
+    "id": "pltSrc000080",
+    "label": "Knížek, Beaver & Liu (2015)",
+    "citation": "Knížek, M., Beaver, R. A., & Liu, L.-Y. (2015). A new species of Diapus Chapuis from South-West China and North Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 4058(2): 296–300. https://doi.org/10.11646/zootaxa.4058.2.12.",
+    "doi": "10.11646/zootaxa.4058.2.12"
   }
 }
