@@ -29,11 +29,12 @@
       "year": "2016",
       "event": "Adopted subjective synonymy",
       "name": "Crossotarsus fagacearum",
-      "authorship": "",
-      "note": "Beaver (2016:495) directly compared type and paratypes; C. fagacearum Browne, 1975 is a junior subjective synonym of Peroplatypus laosi.",
+      "authorship": "Browne, 1975",
+      "note": "Beaver (2016:495) directly compared type and paratypes; Crossotarsus fagacearum Browne, 1975 (historical ID PLT_000046) is a junior subjective synonym of Peroplatypus laosi (PLT_000050).",
       "reference_ids": [
         "pltSrc000004"
-      ]
+      ],
+      "historical_taxon_id": "PLT_000046"
     },
     {
       "year": "1993",
