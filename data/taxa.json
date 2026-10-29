@@ -10,7 +10,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "棘刺长小蠹",
     "former_chinese_names": []
   },
   {
@@ -24,7 +24,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "针刺长小蠹",
     "former_chinese_names": []
   },
   {
@@ -38,8 +38,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "截尾离足长小蠹",
+    "former_chinese_names": [
+      "截尾刺长小蠹"
+    ]
   },
   {
     "plt": "PLT_000004",
@@ -52,8 +54,11 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "台湾异胫长小蠹",
+    "former_chinese_names": [
+      "绍德拟截尾长小蠹",
+      "莲华池长小蠹"
+    ]
   },
   {
     "plt": "PLT_000005",
@@ -66,8 +71,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "缺刻异胫长小蠹",
+    "former_chinese_names": [
+      "迅行截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000006",
@@ -80,8 +87,11 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "外齿异胫长小蠹",
+    "former_chinese_names": [
+      "外齿截尾长小蠹",
+      "黑尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000007",
@@ -94,8 +104,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "黄翅长小蠹",
+    "former_chinese_names": [
+      "黄斑截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000009",
@@ -108,8 +120,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "日本异胫长小蠹",
+    "former_chinese_names": [
+      "台日截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000010",
@@ -122,8 +136,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "Not started",
     "publication_status": "Provisional public profile — occurrence and hosts under review",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "黑异胫长小蠹",
+    "former_chinese_names": [
+      "黑截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000012",
@@ -136,8 +152,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "简长小蠹",
+    "former_chinese_names": [
+      "亚东截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000013",
@@ -150,8 +168,12 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "华氏异胫长小蠹",
+    "former_chinese_names": [
+      "华莱士截尾长小蠹",
+      "雕额异胫长小蠹",
+      "华莱士异胫长小蠹"
+    ]
   },
   {
     "plt": "PLT_000014",
@@ -164,7 +186,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "黄拱截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -178,7 +200,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "高士黄截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -192,7 +214,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "纤细黄截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -206,7 +228,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "阿里山长小蠹",
     "former_chinese_names": []
   },
   {
@@ -220,8 +242,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "山楂长小蠹",
+    "former_chinese_names": [
+      "污秽长小蠹"
+    ]
   },
   {
     "plt": "PLT_000020",
@@ -234,7 +258,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published profile",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -248,7 +272,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "木材长小蠹",
     "former_chinese_names": []
   },
   {
@@ -262,7 +286,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "台湾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -276,7 +300,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "埔里长小蠹",
     "former_chinese_names": []
   },
   {
@@ -290,7 +314,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "印度长小蠹",
     "former_chinese_names": []
   },
   {
@@ -304,7 +328,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "壳斗长小蠹",
     "former_chinese_names": []
   },
   {
@@ -318,7 +342,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "东亚长小蠹",
     "former_chinese_names": []
   },
   {
@@ -332,7 +356,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "东亚李氏长小蠹",
     "former_chinese_names": []
   },
   {
@@ -346,7 +370,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "弯弓长小蠹",
     "former_chinese_names": []
   },
   {
@@ -360,7 +384,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "方形长小蠹",
     "former_chinese_names": []
   },
   {
@@ -374,7 +398,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — checklist review remains separate",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "番石榴长小蠹",
     "former_chinese_names": []
   },
   {
@@ -388,7 +412,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "龙脑香长小蠹",
     "former_chinese_names": []
   },
   {
@@ -402,7 +426,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "八齿长小蠹",
     "former_chinese_names": []
   },
   {
@@ -416,7 +440,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "橡树长小蠹",
     "former_chinese_names": []
   },
   {
@@ -430,7 +454,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "灾害长小蠹",
     "former_chinese_names": []
   },
   {
@@ -444,7 +468,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "太平山长小蠹",
     "former_chinese_names": []
   },
   {
@@ -458,7 +482,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "灾徨长小蠹",
     "former_chinese_names": []
   },
   {
@@ -472,8 +496,11 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "锥尾长小蠹",
+    "former_chinese_names": [
+      "斜纹徨长小蠹",
+      "锥长小蠹"
+    ]
   },
   {
     "plt": "PLT_000038",
@@ -486,7 +513,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "松徨长小蠹",
     "former_chinese_names": []
   },
   {
@@ -500,7 +527,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "雅截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -514,8 +541,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "芦苇长小蠹",
+    "former_chinese_names": [
+      "芦苇黄截尾长小蠹"
+    ]
   },
   {
     "plt": "PLT_000041",
@@ -528,7 +557,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "迷月黄截尾长小蠹",
     "former_chinese_names": []
   },
   {
@@ -556,7 +585,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "端异胫长小蠹",
     "former_chinese_names": []
   },
   {
@@ -570,7 +599,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "中对长小蠹",
     "former_chinese_names": []
   },
   {
@@ -584,7 +613,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "针叶异胫长小蠹",
     "former_chinese_names": []
   },
   {
@@ -598,7 +627,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "端刺异胫长小蠹",
     "former_chinese_names": []
   },
   {
@@ -612,8 +641,10 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
-    "former_chinese_names": []
+    "recommended_chinese_name": "鳞异胫长小蠹",
+    "former_chinese_names": [
+      "雕花异胫长小蠹"
+    ]
   },
   {
     "plt": "PLT_000049",
@@ -626,7 +657,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "毕氏异胫长小蠹",
     "former_chinese_names": []
   },
   {
@@ -640,7 +671,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "老挝长小蠹",
     "former_chinese_names": []
   },
   {
@@ -654,7 +685,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "泰国长小蠹",
     "former_chinese_names": []
   },
   {
@@ -668,7 +699,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "中华长小蠹",
     "former_chinese_names": []
   },
   {
@@ -682,7 +713,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "韦氏长小蠹",
     "former_chinese_names": []
   },
   {
@@ -696,7 +727,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "纤细离足长小蠹",
     "former_chinese_names": []
   },
   {
@@ -752,7 +783,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "双刺长小蠹",
     "former_chinese_names": []
   },
   {
@@ -766,7 +797,7 @@
     "checklist_status": "Unreviewed",
     "review_status": "In review",
     "publication_status": "Published provisional profile — evidence qualifications retained",
-    "recommended_chinese_name": "",
+    "recommended_chinese_name": "角面长小蠹",
     "former_chinese_names": []
   },
   {
