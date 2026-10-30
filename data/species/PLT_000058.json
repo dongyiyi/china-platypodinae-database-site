@@ -20,7 +20,17 @@
     "claims": [],
     "reference_ids": []
   },
-  "hosts": [],
+  "hosts": [
+    {
+      "scientific_name": "Hevea brasiliensis",
+      "reported_from": "Jinghong, Yunnan, China (living rubber trees)",
+      "association": "Direct observations of attacks and successful colonization of living trees; gallery development and reproduction reported.",
+      "reference_ids": [
+        "pltHostLai2020"
+      ],
+      "review_status": "Accepted"
+    }
+  ],
   "host_review_status": "Pending",
   "host_note": "",
   "taxonomy_summary": "Platypus insulindicus Schedl, 1952.",
