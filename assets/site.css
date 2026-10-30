@@ -188,3 +188,8 @@
 .footer-meta{text-align:right;margin-left:auto;white-space:normal}
 .footer-meta>div+div{margin-top:2px}
 @media(max-width:760px){.site-footer{flex-direction:column}.footer-left{max-width:100%}.footer-meta{text-align:left;margin-left:0}}
+
+/* Literature-linked host evidence callout, within the existing Hosts section. */
+.host-highlight-note{margin:16px 0;padding:17px 20px;background:#fff7dc;border:1px solid #eadba8;border-radius:12px;color:#5b4812;line-height:1.65}
+.host-highlight-note .note-sources{display:block;margin-top:7px;color:#736039}
+.host-highlight-note .inline-ref{color:#275d3b;font-weight:700;text-decoration:underline;text-underline-offset:2px}
