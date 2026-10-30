@@ -39,7 +39,7 @@
     }
   ],
   "host_review_status": "Accepted",
-  "host_note": "Lai 2020 Xishuangbanna log specimens and trap specimens are separate; Hevea linked only to confirmed wood evidence.",
+  "host_note": "Lai et al. (2020) documented direct attacks and successful colonization of living rubber trees in Jinghong, Yunnan, independently of specimens collected from wood or traps. The trees' health before attack was not established.",
   "taxonomy_summary": "Platypus signatus Chapuis, 1865.",
   "taxonomic_history": [
     {
@@ -86,10 +86,10 @@
   "recommended_chinese_name": "",
   "former_chinese_names": [],
   "host_highlight": {
-    "text": "Described as attacking live trees in Lai et al. (2020). The reported rubber-wood specimens and trap captures must be distinguished; they do not alone demonstrate successful attack on healthy standing trees.",
+    "text": "Direct field observations in Jinghong, Yunnan, documented attacks and successful colonization of living rubber trees (Hevea brasiliensis) by this species in January and July 2018. Reproductive galleries were observed in the xylem; this evidence is distinct from log and trap collections (Lai et al., 2020).",
     "ids": [
       "pltSrc000026"
     ],
-    "evidence_status": "Published statement; log/trap evidence"
+    "evidence_status": "Direct observations of successful colonization of living rubber trees (Lai et al. 2020)"
   }
 }
