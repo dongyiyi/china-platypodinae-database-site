@@ -104,5 +104,12 @@
   "nomenclature_note_reference_ids": [
     "chapuis1865",
     "alonso2023"
-  ]
+  ],
+  "host_highlight": {
+    "text": "Reported from Shorea logs in Borneo (Kishi et al., 1973, as cited by Beaver & Liu, 2013). This log association does not demonstrate attack on living trees; the original Kishi et al. source remains to be verified.",
+    "ids": [
+      "beaverLiu2013"
+    ],
+    "evidence_status": "Log association; living-tree attack unconfirmed"
+  }
 }
