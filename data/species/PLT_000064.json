@@ -84,5 +84,12 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_highlight": {
+    "text": "Described as attacking live trees in Lai et al. (2020). The reported rubber-wood specimens and trap captures must be distinguished; they do not alone demonstrate successful attack on healthy standing trees.",
+    "ids": [
+      "pltSrc000026"
+    ],
+    "evidence_status": "Published statement; log/trap evidence"
+  }
 }
