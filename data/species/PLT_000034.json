@@ -115,6 +115,17 @@
       "label": "Lai et al. (2023)",
       "citation": "Lai, S., Wang, J., Wang, Y., Li, Y., Lin, W., Meng, L., & Hao, D. (2023). First record of two ambrosia beetle, Platypus quercivorus (Murayama) and Platypus koryoensis (Murayama)(Coleoptera: Curculionidae, Platypodinae) in Mainland China. Zootaxa, 5284(2), 397-400.",
       "doi": "10.11646/zootaxa.5284.2.11"
+    },
+    {
+      "id": "pltHostBeaverShih2003",
+      "label": "Beaver & Shih (2003)",
+      "citation": "Beaver, R. A., & Shih, H.-T. (2003). Checklist of Platypodidae (Coleoptera: Curculionoidea) from Taiwan. Plant Protection Bulletin, 45(1): 75–90."
+    },
+    {
+      "id": "pltHostBeaverLiu2013",
+      "label": "Beaver & Liu (2013)",
+      "citation": "Beaver, R. A., & Liu, L.-Y. (2013). A synopsis of the pin-hole borers of Thailand (Coleoptera: Curculionidae: Platypodinae). Zootaxa, 3646(4): 447–486.",
+      "doi": "10.11646/zootaxa.3646.4.7"
     }
   ],
   "taxonomy_reference_ids": [
@@ -140,5 +151,13 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_highlight": {
+    "text": "Reported to attack healthy oak trees in Japan and vector the pathogenic ambrosia fungus Raffaelea quercivora; associated oak mortality was reported in Japan. These observations should not be inferred for Chinese populations without local evidence.",
+    "ids": [
+      "pltHostBeaverShih2003",
+      "pltHostBeaverLiu2013"
+    ],
+    "evidence_status": "Published healthy-tree attack and disease association in Japan"
+  }
 }
