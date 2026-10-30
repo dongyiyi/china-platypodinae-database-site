@@ -42,6 +42,11 @@
       "id": "pltSrc000005",
       "label": "Alonso-Zarazaga et al. (2023)",
       "citation": "Alonso-Zarazaga, M. A., et al. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A. 14: 1–780."
+    },
+    {
+      "id": "pltHostBeaver2016",
+      "label": "Beaver (2016)",
+      "citation": "Beaver, R. A. (2016). The platypodine ambrosia beetles of Laos (Coleoptera: Curculionidae: Platypodinae). Entomologica Basiliensia et Collectionis Frey, 35: 487–504. Reports Kalshoven (1960); original citation pending verification."
     }
   ],
   "taxonomy_reference_ids": [
@@ -58,5 +63,12 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_highlight": {
+    "text": "Beaver (2016), citing Kalshoven (1960), notes that this species may attempt to attack healthy trees, but such attempts can fail because of tree defenses. The original Kalshoven (1960) account has not yet been independently verified.",
+    "ids": [
+      "pltHostBeaver2016"
+    ],
+    "evidence_status": "Unsuccessful attempts reported through a secondary citation"
+  }
 }
