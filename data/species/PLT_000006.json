@@ -234,5 +234,12 @@
   "host_note_reference_ids": [
     "fairmaire1849",
     "lai2020"
-  ]
+  ],
+  "host_highlight": {
+    "text": "Reported to occasionally attack living trees in plantations. This general report should not be interpreted as proof that the original Tahitian squared-wood records involved living trees.",
+    "ids": [
+      "beaverShih2003"
+    ],
+    "evidence_status": "Published living-tree attack report"
+  }
 }
