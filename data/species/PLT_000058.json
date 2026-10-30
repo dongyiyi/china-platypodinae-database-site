@@ -52,6 +52,12 @@
       "id": "pltSrc000078",
       "label": "Beaver (1995)",
       "citation": "Beaver, R. A. (1995). New synonymy and taxonomic changes in Oriental and Australasian Scolytidae and Platypodidae (Insecta: Coleoptera). Annalen des Naturhistorischen Museums in Wien, Serie B, 97: 197–204."
+    },
+    {
+      "id": "pltHostLai2020",
+      "label": "Lai et al. (2020)",
+      "citation": "Lai, S., Wang, J., Fu, Y., Duan, B., A, H., Zhang, L., & Tarno, H. (2020). Infestation of platypodine beetles (Coleoptera: Curculionidae) on rubber trees in China. The Coleopterists Bulletin, 74(3): 626–631.",
+      "doi": "10.1649/0010-065X-74.3.626"
     }
   ],
   "taxonomy_reference_ids": [
@@ -68,5 +74,12 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_highlight": {
+    "text": "Lai et al. (2020) characterize this species as attacking live trees. However, the Chinese collection context and evidence for successful attacks on healthy standing trees require separate verification.",
+    "ids": [
+      "pltHostLai2020"
+    ],
+    "evidence_status": "Published statement; collection context requires review"
+  }
 }
