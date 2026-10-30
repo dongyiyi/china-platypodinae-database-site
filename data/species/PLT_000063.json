@@ -101,5 +101,12 @@
     "symbionts": "No verified association."
   },
   "recommended_chinese_name": "",
-  "former_chinese_names": []
+  "former_chinese_names": [],
+  "host_highlight": {
+    "text": "Described as attacking live trees in Lai et al. (2020), but the documented Yunnan association concerns rubber logs; successful attack on healthy standing trees is not independently established by those specimens.",
+    "ids": [
+      "pltSrc000026"
+    ],
+    "evidence_status": "Published statement; log-based evidence"
+  }
 }
