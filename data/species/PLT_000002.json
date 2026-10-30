@@ -145,5 +145,12 @@
   "host_review_status": "Accepted",
   "host_note_reference_ids": [
     "beaverShih2003"
-  ]
+  ],
+  "host_highlight": {
+    "text": "Beaver & Shih (2003) describe this species as economically important in Malaysia, but the cited statement does not establish an attack on living trees.",
+    "ids": [
+      "beaverShih2003"
+    ],
+    "evidence_status": "Living-tree attack not established from this citation"
+  }
 }
