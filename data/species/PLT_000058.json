@@ -76,10 +76,10 @@
   "recommended_chinese_name": "",
   "former_chinese_names": [],
   "host_highlight": {
-    "text": "Lai et al. (2020) characterize this species as attacking live trees. However, the Chinese collection context and evidence for successful attacks on healthy standing trees require separate verification.",
+    "text": "Direct field observations in Jinghong, Yunnan, documented attacks and successful colonization of living rubber trees (Hevea brasiliensis) by this species in January and July 2018. Beetle reproduction was observed in galleries extending into the xylem; the health status of trees before attack was not established (Lai et al., 2020).",
     "ids": [
       "pltHostLai2020"
     ],
-    "evidence_status": "Published statement; collection context requires review"
+    "evidence_status": "Direct observations of successful colonization of living rubber trees (Lai et al. 2020)"
   }
 }
