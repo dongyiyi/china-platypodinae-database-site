@@ -182,5 +182,8 @@
     window.addEventListener('pageshow',schedule);
     update();
   }
-  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+// Platypodinae's ES module first snapshots #app.innerHTML as its English homepage template.
+  // DOMContentLoaded runs after deferred/module scripts, so never translate before that snapshot.
+  if(document.readyState==='complete')init();
+  else document.addEventListener('DOMContentLoaded',init,{once:true});
 })();
