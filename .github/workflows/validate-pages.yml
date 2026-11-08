@@ -18,6 +18,34 @@ jobs:
           for f in assets/platypodinae.js assets/platypodinae-profile.js assets/contribute-page.js assets/cite-page.js assets/methods-page.js; do
             node --input-type=module --check < "$f"
           done
+      - name: Validate English-default bilingual UI on all published profiles
+        run: |
+          node --check assets/home-i18n.js
+          node --check assets/subpage-i18n.js
+          node --check assets/taxon-profile-i18n.js
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          index=json.loads(Path('data/taxa.json').read_text())
+          home=Path('index.html').read_text()
+          assert home.count('assets/home-i18n.js?v=')==1
+          assert home.count('assets/subpage-i18n.js?v=')==1
+          for file in ('home-i18n.js','subpage-i18n.js','taxon-profile-i18n.js'):
+              js=Path('assets',file).read_text()
+              assert 'china-beetle-home-language' in js,file
+              assert "localStorage.getItem(KEY) === 'zh' ? 'zh' : 'en'" in js,file
+              assert 'barkambrosia-home-language' not in js,file
+          js=Path('assets/home-i18n.js').read_text()
+          assert 'control.hidden=false' in js and "const chinese=lang==='zh'" in js
+          assert "home-language-control" in js
+          for entry in index:
+              path=Path('taxa')/entry['plt']/'index.html'
+              page=path.read_text()
+              assert page.count('assets/taxon-profile-i18n.js?v=20261108-1')==1,entry['plt']
+              assert 'href="https://dongyiyi.github.io/china-platypodinae-database-site/taxa/'+entry['plt']+'/"' in page,entry['plt']
+          assert len(index)==70
+          print("PASS: 70 stable published PLT pages with English-default reversible Chinese interface")
+          PY
       - name: Validate provisional scope, nav, data and placeholders
         run: |
           python - <<'PY'
