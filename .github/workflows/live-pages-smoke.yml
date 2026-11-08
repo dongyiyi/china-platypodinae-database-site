@@ -32,6 +32,7 @@ jobs:
             browser=p.chromium.launch(headless=True)
             page=browser.new_page(viewport={'width':1360,'height':900})
             errors=[]
+            page.on('pageerror',lambda e:errors.append('JavaScript error: '+str(e)[:300]))
             for path,expect in tests.items():
               response=page.goto(root+'#'+path,wait_until='domcontentloaded',timeout=45000)
               try:
@@ -43,7 +44,13 @@ jobs:
               except Exception as e: errors.append(path+' failed to render: '+str(e)[:200])
             page.goto(root,wait_until='domcontentloaded')
             page.locator('#count').wait_for(timeout=25000)
-            page.wait_for_function("document.querySelector('#count').textContent==='70' && document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=25000)
+            page.wait_for_function("document.querySelector('#count').textContent==='70'",timeout=25000)
+            try:
+              page.wait_for_function("document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=5000)
+            except Exception:
+              counts=page.evaluate("() => ['count','genus-count','tribe-count'].map(id=>document.getElementById(id)?.textContent)")
+              print('DIAGNOSTIC current displayed counts:',counts)
+              errors.append('Live dynamic genus/tribe totals differ from 9/3; observed '+repr(counts))
             if page.locator('a[href*="china-scolytinae-database-site"]').count()==0:errors.append('missing Scolytinae link')
             # Verify interactive bilingual UI in a fresh browser (English default).
             page.goto(root+'#/data',wait_until='domcontentloaded')
