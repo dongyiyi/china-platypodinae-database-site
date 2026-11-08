@@ -43,11 +43,33 @@ jobs:
               except Exception as e: errors.append(path+' failed to render: '+str(e)[:200])
             page.goto(root,wait_until='domcontentloaded')
             page.locator('#count').wait_for(timeout=25000)
-            page.wait_for_function("document.querySelector('#count').textContent==='74' && document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=25000)
+            page.wait_for_function("document.querySelector('#count').textContent==='70' && document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=25000)
             if page.locator('a[href*="china-scolytinae-database-site"]').count()==0:errors.append('missing Scolytinae link')
+            # Verify interactive bilingual UI in a fresh browser (English default).
+            page.goto(root+'#/data',wait_until='domcontentloaded')
+            page.locator('#home-language-control button[data-lang="zh"]').wait_for(timeout=25000)
+            if page.locator('header nav a[href="#/data"]').inner_text()!='Data & coverage':
+              errors.append('GitHub default subpage language not English')
+            page.locator('#home-language-control button[data-lang="zh"]').click()
+            if page.locator('header nav a[href="#/data"]').inner_text()!='数据与覆盖范围':
+              errors.append('Chinese hash-page navigation did not update')
+            page.locator('#home-language-control button[data-lang="en"]').click()
+            if page.locator('header nav a[href="#/data"]').inner_text()!='Data & coverage':
+              errors.append('English hash-page navigation did not restore')
+            page.goto(root+'taxa/PLT_000062/',wait_until='domcontentloaded')
+            page.locator('#distribution h2').wait_for(timeout=25000)
+            page.locator('#profile-language-control button[data-lang="zh"]').wait_for(timeout=25000)
+            if page.locator('#distribution h2').inner_text()!='Distribution':
+              errors.append('Profile default language not English')
+            page.locator('#profile-language-control button[data-lang="zh"]').click()
+            if page.locator('#distribution h2').inner_text()!='地理分布':
+              errors.append('Profile Distribution label did not translate')
+            page.locator('#profile-language-control button[data-lang="en"]').click()
+            if page.locator('#distribution h2').inner_text()!='Distribution':
+              errors.append('Profile Distribution label did not return to English')
             print('LIVE ROUTES',len(tests),'ERRORS',len(errors))
             for err in errors: print('FAIL',err)
             browser.close()
             if errors:raise SystemExit(1)
-            print('PASS: Platypodinae 5 live routes and provisional 74/9/3 count')
+            print('PASS: Platypodinae 5 live routes, 70 published profiles and 9/3 rank totals')
           PY
