@@ -22,7 +22,7 @@ jobs:
           from playwright.sync_api import sync_playwright
           root='https://dongyiyi.github.io/china-platypodinae-database-site/'
           tests={
-            '/data':['Database coverage','74','9','3'],
+            '/data':['Data & coverage','74','9','2'],
             '/methods':['How the checklist is assembled','Platypodinae','PLT'],
             '/contribute':['Contribute Data','Existing PLT','Email a record'],
             '/cite':['Cite this resource','China Platypodinae Database','PLT'],
@@ -32,6 +32,7 @@ jobs:
             browser=p.chromium.launch(headless=True)
             page=browser.new_page(viewport={'width':1360,'height':900})
             errors=[]
+            page.on('pageerror',lambda e:errors.append('JavaScript error: '+str(e)[:300]))
             for path,expect in tests.items():
               response=page.goto(root+'#'+path,wait_until='domcontentloaded',timeout=45000)
               try:
@@ -43,7 +44,13 @@ jobs:
               except Exception as e: errors.append(path+' failed to render: '+str(e)[:200])
             page.goto(root,wait_until='domcontentloaded')
             page.locator('#count').wait_for(timeout=25000)
-            page.wait_for_function("document.querySelector('#count').textContent==='70' && document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='3'",timeout=25000)
+            page.wait_for_function("document.querySelector('#count').textContent==='70'",timeout=25000)
+            try:
+              page.wait_for_function("document.querySelector('#genus-count').textContent==='9' && document.querySelector('#tribe-count').textContent==='2'",timeout=5000)
+            except Exception:
+              counts=page.evaluate("() => ['count','genus-count','tribe-count'].map(id=>document.getElementById(id)?.textContent)")
+              print('DIAGNOSTIC current displayed counts:',counts)
+              errors.append('Live dynamic genus/tribe totals differ from 9/2; observed '+repr(counts))
             if page.locator('a[href*="china-scolytinae-database-site"]').count()==0:errors.append('missing Scolytinae link')
             # Verify interactive bilingual UI in a fresh browser (English default).
             page.goto(root+'#/data',wait_until='domcontentloaded')
@@ -71,5 +78,5 @@ jobs:
             for err in errors: print('FAIL',err)
             browser.close()
             if errors:raise SystemExit(1)
-            print('PASS: Platypodinae 5 live routes, 70 published profiles and 9/3 rank totals')
+            print('PASS: Platypodinae 5 live routes, 70 published profiles and 9 genera / 2 tribes')
           PY
